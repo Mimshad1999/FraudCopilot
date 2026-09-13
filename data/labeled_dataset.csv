@@ -1,0 +1,2001 @@
+transaction_id,customer_id,amount_inr,merchant,city,hour,is_odd_hour,is_foreign_city,is_high_risk_merchant,device_type,is_new_device_for_customer,is_fraud
+TXN100000,CUST1296,2453.71,Local Kirana Store,Gurgaon,2,1,0,0,Tablet,0,0
+TXN100001,CUST1212,3337.34,Electricity Board,Delhi,17,0,0,0,Desktop Browser,0,0
+TXN100002,CUST1256,5572.77,PayU Recharge,Gurgaon,5,0,0,0,iPhone,0,0
+TXN100003,CUST1151,2855.57,Swiggy,Bangalore,3,1,0,0,Tablet,0,0
+TXN100004,CUST1115,1678.56,Cash Withdrawal ATM,Delhi,21,0,0,0,iPhone,0,0
+TXN100005,CUST1285,1606.89,Flipkart,Bangalore,12,0,0,0,Tablet,0,0
+TXN100006,CUST1232,2635.48,Ola,Kolkata,21,0,0,0,Desktop Browser,0,0
+TXN100007,CUST1190,2592.87,Electricity Board,Chennai,15,0,0,0,Desktop Browser,0,0
+TXN100008,CUST1167,2572.83,PayU Recharge,Kolkata,20,0,0,0,iPhone,0,0
+TXN100009,CUST1154,4902.83,BigBasket,Kolkata,4,1,0,0,Android Phone,0,0
+TXN100010,CUST1252,4197.96,Myntra,Delhi,17,0,0,0,Tablet,0,0
+TXN100011,CUST1276,2941.23,Ola,Mumbai,23,0,0,0,iPhone,0,0
+TXN100012,CUST1050,1187.96,Myntra,Mumbai,13,0,0,0,iPhone,0,0
+TXN100013,CUST1111,1747.8,Ola,Gurgaon,7,0,0,0,Desktop Browser,0,0
+TXN100014,CUST1188,1656.43,BigBasket,Kolkata,20,0,0,0,Android Phone,0,0
+TXN100015,CUST1097,5487.11,Ola,Hyderabad,14,0,0,0,iPhone,0,0
+TXN100016,CUST1010,14264.97,Unknown Merchant Ltd,Lagos,7,0,1,1,Android Phone,0,1
+TXN100017,CUST1110,1984.11,Uber,Hyderabad,10,0,0,0,Tablet,0,0
+TXN100018,CUST1001,3503.3,Swiggy,Mumbai,4,1,0,0,Desktop Browser,0,0
+TXN100019,CUST1056,4185.65,Cash Withdrawal ATM,Bangalore,4,1,0,0,Tablet,0,0
+TXN100020,CUST1121,1002.05,Local Kirana Store,Jaipur,5,0,0,0,Tablet,0,0
+TXN100021,CUST1215,850.6,Myntra,Pune,2,1,0,0,iPhone,0,0
+TXN100022,CUST1262,4375.27,Amazon,Hyderabad,16,0,0,0,Android Phone,0,0
+TXN100023,CUST1266,4979.8,IRCTC,Hyderabad,0,1,0,0,Tablet,0,0
+TXN100024,CUST1218,2486.29,Flipkart,Hyderabad,22,0,0,0,iPhone,0,0
+TXN100025,CUST1164,1897.85,Uber,Hyderabad,4,1,0,0,Tablet,0,0
+TXN100026,CUST1280,2069.12,Electricity Board,Delhi,19,0,0,0,Android Phone,0,0
+TXN100027,CUST1220,2196.26,Cash Withdrawal ATM,Mumbai,3,1,0,0,Tablet,0,0
+TXN100028,CUST1282,6712.81,IRCTC,Kolkata,13,0,0,0,Tablet,0,0
+TXN100029,CUST1173,1368.1,IRCTC,Hyderabad,13,0,0,0,Tablet,0,0
+TXN100030,CUST1160,4202.07,Flipkart,Kolkata,4,1,0,0,Desktop Browser,0,0
+TXN100031,CUST1046,2950.92,Myntra,Bangalore,13,0,0,0,Desktop Browser,0,0
+TXN100032,CUST1066,265.49,Flipkart,Jaipur,17,0,0,0,Desktop Browser,0,0
+TXN100033,CUST1210,6940.47,Amazon,Delhi,13,0,0,0,Tablet,0,0
+TXN100034,CUST1147,2467.15,Swiggy,Gurgaon,3,1,0,0,iPhone,0,0
+TXN100035,CUST1246,4208.16,Flipkart,Jaipur,11,0,0,0,Tablet,0,0
+TXN100036,CUST1142,4828.45,Cash Withdrawal ATM,Hyderabad,13,0,0,0,Desktop Browser,0,0
+TXN100037,CUST1285,11422.89,Foreign Exchange Kiosk,Bangalore,3,1,0,1,Desktop Browser,0,1
+TXN100038,CUST1173,2660.74,Flipkart,Hyderabad,4,1,0,0,Tablet,0,0
+TXN100039,CUST1072,2471.04,Zomato,Pune,0,1,0,0,Android Phone,0,0
+TXN100040,CUST1192,731.29,Myntra,Gurgaon,5,0,0,0,iPhone,0,0
+TXN100041,CUST1290,2591.51,Uber,Pune,1,1,0,0,Android Phone,0,0
+TXN100042,CUST1025,3179.53,Uber,Hyderabad,14,0,0,0,Android Phone,0,0
+TXN100043,CUST1226,2000.52,Flipkart,Gurgaon,16,0,0,0,Tablet,0,0
+TXN100044,CUST1145,4771.24,Amazon,Bangalore,15,0,0,0,iPhone,0,0
+TXN100045,CUST1112,2440.12,Zomato,Gurgaon,1,1,0,0,iPhone,0,0
+TXN100046,CUST1070,1993.86,Local Kirana Store,Pune,10,0,0,0,Desktop Browser,0,0
+TXN100047,CUST1220,1388.67,Electricity Board,Mumbai,17,0,0,0,Tablet,0,0
+TXN100048,CUST1181,3946.17,PayU Recharge,Kolkata,23,0,0,0,Android Phone,0,0
+TXN100049,CUST1039,1313.22,Ola,Gurgaon,13,0,0,0,Tablet,0,0
+TXN100050,CUST1213,2339.46,Uber,Mumbai,0,1,0,0,iPhone,0,0
+TXN100051,CUST1235,384.99,Flipkart,Pune,11,0,0,0,Tablet,0,0
+TXN100052,CUST1124,2572.64,BigBasket,Kolkata,16,0,0,0,iPhone,0,0
+TXN100053,CUST1173,2323.1,Flipkart,Hyderabad,5,0,0,0,Tablet,0,0
+TXN100054,CUST1271,996.63,Ola,Bangalore,11,0,0,0,Tablet,0,0
+TXN100055,CUST1075,1002.84,Swiggy,Jaipur,8,0,0,0,Tablet,0,0
+TXN100056,CUST1038,2548.69,Uber,Mumbai,20,0,0,0,Android Phone,0,0
+TXN100057,CUST1296,3503.53,Uber,Gurgaon,18,0,0,0,Tablet,0,0
+TXN100058,CUST1165,2707.46,PayU Recharge,Kolkata,10,0,0,0,Android Phone,0,0
+TXN100059,CUST1226,1316.46,Electricity Board,Gurgaon,8,0,0,0,Tablet,0,0
+TXN100060,CUST1037,3735.57,BigBasket,Pune,1,1,0,0,Desktop Browser,0,0
+TXN100061,CUST1039,1588.6,IRCTC,Gurgaon,2,1,0,0,Tablet,0,0
+TXN100062,CUST1236,1302.24,Cash Withdrawal ATM,Delhi,23,0,0,0,Tablet,0,0
+TXN100063,CUST1292,4891.68,Amazon,Kolkata,19,0,0,0,Tablet,0,0
+TXN100064,CUST1230,2841.01,Ola,Pune,10,0,0,0,Tablet,0,0
+TXN100065,CUST1088,47408.24,Foreign Exchange Kiosk,Dubai,14,0,1,1,Tablet,1,1
+TXN100066,CUST1209,5441.83,Ola,Bangalore,19,0,0,0,iPhone,0,0
+TXN100067,CUST1171,1283.74,BigBasket,Delhi,17,0,0,0,Android Phone,0,0
+TXN100068,CUST1076,2439.64,BigBasket,Mumbai,21,0,0,0,Android Phone,0,0
+TXN100069,CUST1200,2211.03,Ola,Pune,2,1,0,0,Desktop Browser,0,0
+TXN100070,CUST1168,6682.75,Ola,Delhi,22,0,0,0,Tablet,0,0
+TXN100071,CUST1269,875.62,Myntra,Hyderabad,13,0,0,0,Android Phone,0,0
+TXN100072,CUST1158,1978.46,Zomato,Jaipur,10,0,0,0,iPhone,0,0
+TXN100073,CUST1070,4990.73,Local Kirana Store,Pune,3,1,0,0,Tablet,0,0
+TXN100074,CUST1269,7430.81,Crypto Exchange XYZ,Hyderabad,19,0,0,1,Tablet,1,1
+TXN100075,CUST1084,941.09,Zomato,Mumbai,13,0,0,0,iPhone,0,0
+TXN100076,CUST1227,3493.95,Electricity Board,Gurgaon,23,0,0,0,Desktop Browser,0,0
+TXN100077,CUST1122,3877.17,Myntra,Mumbai,15,0,0,0,Tablet,0,0
+TXN100078,CUST1292,4307.95,Electricity Board,Kolkata,9,0,0,0,Tablet,0,0
+TXN100079,CUST1214,1592.92,BigBasket,Delhi,6,0,0,0,iPhone,0,0
+TXN100080,CUST1026,1926.26,Local Kirana Store,Pune,11,0,0,0,Tablet,0,0
+TXN100081,CUST1264,1423.63,PayU Recharge,Gurgaon,2,1,0,0,Tablet,0,0
+TXN100082,CUST1262,2185.61,PayU Recharge,Hyderabad,2,1,0,0,Android Phone,0,0
+TXN100083,CUST1178,4845.71,Zomato,Mumbai,1,1,0,0,Tablet,0,0
+TXN100084,CUST1197,3336.96,Flipkart,Chennai,7,0,0,0,Tablet,0,0
+TXN100085,CUST1171,2052.39,PayU Recharge,Delhi,1,1,0,0,Android Phone,0,0
+TXN100086,CUST1071,2114.98,Flipkart,Jaipur,14,0,0,0,iPhone,0,0
+TXN100087,CUST1009,1428.7,Uber,Kolkata,4,1,0,0,Android Phone,0,0
+TXN100088,CUST1270,1105.59,Amazon,Delhi,9,0,0,0,iPhone,0,0
+TXN100089,CUST1122,1634.39,PayU Recharge,Mumbai,19,0,0,0,Tablet,0,0
+TXN100090,CUST1274,31039.76,Unknown Merchant Ltd,Lagos,18,0,1,1,iPhone,1,1
+TXN100091,CUST1180,3498.8,Electricity Board,Jaipur,5,0,0,0,Desktop Browser,0,0
+TXN100092,CUST1184,5351.48,Electricity Board,Jaipur,17,0,0,0,iPhone,0,0
+TXN100093,CUST1283,16679.39,Foreign Exchange Kiosk,Bangalore,15,0,0,1,Desktop Browser,1,1
+TXN100094,CUST1008,3645.81,Ola,Gurgaon,11,0,0,0,Tablet,0,0
+TXN100095,CUST1053,1129.5,Electricity Board,Delhi,10,0,0,0,iPhone,0,0
+TXN100096,CUST1173,3404.4,PayU Recharge,Hyderabad,21,0,0,0,Tablet,0,0
+TXN100097,CUST1093,6265.25,Amazon,Pune,22,0,0,0,Desktop Browser,0,0
+TXN100098,CUST1150,1134.75,BigBasket,Bangalore,6,0,0,0,Android Phone,0,0
+TXN100099,CUST1263,2478.4,Cash Withdrawal ATM,Jaipur,17,0,0,0,Android Phone,0,0
+TXN100100,CUST1097,5453.9,BigBasket,Hyderabad,1,1,0,0,iPhone,0,0
+TXN100101,CUST1063,1600.37,IRCTC,Kolkata,12,0,0,0,Desktop Browser,0,0
+TXN100102,CUST1173,1994.03,Cash Withdrawal ATM,Hyderabad,22,0,0,0,Tablet,0,0
+TXN100103,CUST1265,2063.87,Uber,Gurgaon,23,0,0,0,iPhone,0,0
+TXN100104,CUST1092,2490.38,BigBasket,Gurgaon,3,1,0,0,Tablet,0,0
+TXN100105,CUST1156,3665.67,Myntra,Delhi,13,0,0,0,Android Phone,0,0
+TXN100106,CUST1228,12948.03,Crypto Exchange XYZ,Gurgaon,11,0,0,1,iPhone,1,1
+TXN100107,CUST1038,3440.1,Ola,Mumbai,11,0,0,0,iPhone,0,0
+TXN100108,CUST1081,2761.23,Amazon,Chennai,19,0,0,0,Android Phone,0,0
+TXN100109,CUST1064,704.38,Uber,Gurgaon,20,0,0,0,Android Phone,0,0
+TXN100110,CUST1016,2888.98,Cash Withdrawal ATM,Mumbai,14,0,0,0,iPhone,0,0
+TXN100111,CUST1039,1182.49,BigBasket,Gurgaon,11,0,0,0,Tablet,0,0
+TXN100112,CUST1127,3522.63,IRCTC,Pune,23,0,0,0,Desktop Browser,0,0
+TXN100113,CUST1287,3795.5,Uber,Delhi,8,0,0,0,iPhone,0,0
+TXN100114,CUST1146,1570.88,Flipkart,Gurgaon,6,0,0,0,iPhone,0,0
+TXN100115,CUST1231,5293.16,Myntra,Mumbai,14,0,0,0,Desktop Browser,0,0
+TXN100116,CUST1177,1438.64,Swiggy,Gurgaon,17,0,0,0,Desktop Browser,0,0
+TXN100117,CUST1089,3938.57,Cash Withdrawal ATM,Jaipur,7,0,0,0,iPhone,0,0
+TXN100118,CUST1071,4412.13,Myntra,Jaipur,0,1,0,0,iPhone,0,0
+TXN100119,CUST1239,5852.59,Flipkart,Kolkata,4,1,0,0,iPhone,0,0
+TXN100120,CUST1158,2057.55,Cash Withdrawal ATM,Jaipur,23,0,0,0,iPhone,0,0
+TXN100121,CUST1209,4821.81,PayU Recharge,Bangalore,4,1,0,0,iPhone,0,0
+TXN100122,CUST1238,3293.4,Electricity Board,Hyderabad,4,1,0,0,Tablet,0,0
+TXN100123,CUST1093,6122.49,Amazon,Pune,13,0,0,0,Desktop Browser,0,0
+TXN100124,CUST1063,1400.99,Local Kirana Store,Kolkata,5,0,0,0,Tablet,0,0
+TXN100125,CUST1115,896.95,Flipkart,Delhi,16,0,0,0,iPhone,0,0
+TXN100126,CUST1128,1681.08,BigBasket,Delhi,17,0,0,0,Desktop Browser,0,0
+TXN100127,CUST1273,1235.46,Swiggy,Kolkata,5,0,0,0,Android Phone,0,0
+TXN100128,CUST1087,5086.85,Uber,Bangalore,19,0,0,0,Tablet,0,0
+TXN100129,CUST1021,2895.65,Cash Withdrawal ATM,Jaipur,2,1,0,0,Desktop Browser,0,0
+TXN100130,CUST1295,4773.2,Amazon,Delhi,18,0,0,0,Tablet,0,0
+TXN100131,CUST1254,6237.38,PayU Recharge,Bangalore,9,0,0,0,Tablet,0,0
+TXN100132,CUST1125,4520.75,Local Kirana Store,Pune,12,0,0,0,Tablet,0,0
+TXN100133,CUST1030,411.85,Uber,Mumbai,15,0,0,0,Tablet,0,0
+TXN100134,CUST1073,1040.13,Myntra,Jaipur,10,0,0,0,Desktop Browser,0,0
+TXN100135,CUST1204,1526.37,Zomato,Jaipur,16,0,0,0,iPhone,0,0
+TXN100136,CUST1238,1478.9,BigBasket,Hyderabad,7,0,0,0,Tablet,0,0
+TXN100137,CUST1196,3075.27,Myntra,Kolkata,7,0,0,0,Tablet,0,0
+TXN100138,CUST1295,6386.29,PayU Recharge,Delhi,5,0,0,0,Desktop Browser,0,0
+TXN100139,CUST1255,5207.17,Electricity Board,Pune,0,1,0,0,iPhone,0,0
+TXN100140,CUST1234,2051.43,BigBasket,Delhi,18,0,0,0,Android Phone,0,0
+TXN100141,CUST1253,1095.79,Electricity Board,Gurgaon,20,0,0,0,Desktop Browser,0,0
+TXN100142,CUST1004,3667.18,Myntra,Delhi,4,1,0,0,Tablet,0,0
+TXN100143,CUST1206,2841.42,Myntra,Bangalore,1,1,0,0,Tablet,0,0
+TXN100144,CUST1283,1069.69,BigBasket,Bangalore,16,0,0,0,Desktop Browser,0,0
+TXN100145,CUST1060,1302.67,Myntra,Delhi,12,0,0,0,Tablet,0,0
+TXN100146,CUST1285,2317.38,IRCTC,Bangalore,4,1,0,0,Desktop Browser,0,0
+TXN100147,CUST1256,67231.44,Unknown Merchant Ltd,Gurgaon,4,1,0,1,iPhone,0,1
+TXN100148,CUST1076,2464.82,Myntra,Mumbai,4,1,0,0,Android Phone,0,0
+TXN100149,CUST1083,220.59,Myntra,Mumbai,23,0,0,0,Tablet,0,0
+TXN100150,CUST1259,3171.77,PayU Recharge,Kolkata,15,0,0,0,Desktop Browser,0,0
+TXN100151,CUST1008,3204.51,Cash Withdrawal ATM,Gurgaon,3,1,0,0,Tablet,0,0
+TXN100152,CUST1013,7255.77,Uber,Chennai,20,0,0,0,iPhone,0,0
+TXN100153,CUST1295,2862.42,Ola,Delhi,18,0,0,0,Desktop Browser,0,0
+TXN100154,CUST1194,4397.54,Local Kirana Store,Gurgaon,7,0,0,0,Android Phone,0,0
+TXN100155,CUST1056,3177.03,Local Kirana Store,Bangalore,10,0,0,0,Tablet,0,0
+TXN100156,CUST1104,3428.8,Local Kirana Store,Jaipur,19,0,0,0,Tablet,0,0
+TXN100157,CUST1031,3018.03,Ola,Bangalore,6,0,0,0,Android Phone,0,0
+TXN100158,CUST1244,3201.29,Myntra,Chennai,5,0,0,0,Android Phone,0,0
+TXN100159,CUST1279,499.63,Local Kirana Store,Pune,23,0,0,0,Desktop Browser,0,0
+TXN100160,CUST1135,611.57,Zomato,Delhi,7,0,0,0,Desktop Browser,0,0
+TXN100161,CUST1152,3506.52,Myntra,Kolkata,6,0,0,0,Tablet,0,0
+TXN100162,CUST1245,3478.09,Uber,Kolkata,23,0,0,0,iPhone,0,0
+TXN100163,CUST1278,3240.25,Cash Withdrawal ATM,Mumbai,12,0,0,0,Android Phone,0,0
+TXN100164,CUST1074,4219.12,PayU Recharge,Delhi,22,0,0,0,Desktop Browser,0,0
+TXN100165,CUST1131,4556.24,Electricity Board,Gurgaon,6,0,0,0,Desktop Browser,0,0
+TXN100166,CUST1139,2722.04,Amazon,Mumbai,23,0,0,0,iPhone,0,0
+TXN100167,CUST1271,741.6,Local Kirana Store,Bangalore,1,1,0,0,Tablet,0,0
+TXN100168,CUST1241,2221.67,Swiggy,Mumbai,4,1,0,0,Android Phone,0,0
+TXN100169,CUST1208,5445.5,Cash Withdrawal ATM,Delhi,15,0,0,0,Desktop Browser,0,0
+TXN100170,CUST1147,3107.11,Ola,Gurgaon,1,1,0,0,iPhone,0,0
+TXN100171,CUST1293,3761.2,Swiggy,Pune,23,0,0,0,Android Phone,0,0
+TXN100172,CUST1213,3123.34,PayU Recharge,Mumbai,1,1,0,0,iPhone,0,0
+TXN100173,CUST1095,301.52,BigBasket,Pune,9,0,0,0,Desktop Browser,0,0
+TXN100174,CUST1290,3762.04,Ola,Pune,10,0,0,0,Android Phone,0,0
+TXN100175,CUST1278,3850.15,BigBasket,Mumbai,4,1,0,0,Android Phone,0,0
+TXN100176,CUST1098,1070.15,BigBasket,Delhi,5,0,0,0,iPhone,0,0
+TXN100177,CUST1095,4281.79,Foreign Exchange Kiosk,Dubai,9,0,1,1,Tablet,1,1
+TXN100178,CUST1263,2252.93,Swiggy,Jaipur,21,0,0,0,Desktop Browser,0,0
+TXN100179,CUST1244,2003.06,PayU Recharge,Chennai,0,1,0,0,Android Phone,0,0
+TXN100180,CUST1136,4216.41,BigBasket,Mumbai,18,0,0,0,Android Phone,0,0
+TXN100181,CUST1184,4016.04,Swiggy,Jaipur,21,0,0,0,iPhone,0,0
+TXN100182,CUST1207,1002.37,Flipkart,Jaipur,22,0,0,0,Android Phone,0,0
+TXN100183,CUST1151,1909.41,PayU Recharge,Bangalore,7,0,0,0,Tablet,0,0
+TXN100184,CUST1191,4931.32,Ola,Pune,15,0,0,0,iPhone,0,0
+TXN100185,CUST1111,2608.21,Electricity Board,Gurgaon,19,0,0,0,Desktop Browser,0,0
+TXN100186,CUST1228,1511.12,Amazon,Gurgaon,2,1,0,0,iPhone,0,0
+TXN100187,CUST1280,1691.57,Myntra,Delhi,18,0,0,0,Android Phone,0,0
+TXN100188,CUST1266,3599.3,Flipkart,Hyderabad,6,0,0,0,Tablet,0,0
+TXN100189,CUST1261,1435.77,PayU Recharge,Hyderabad,14,0,0,0,Desktop Browser,0,0
+TXN100190,CUST1288,23678.71,Foreign Exchange Kiosk,Jaipur,3,1,0,1,Android Phone,0,1
+TXN100191,CUST1001,4310.9,Local Kirana Store,Mumbai,2,1,0,0,Desktop Browser,0,0
+TXN100192,CUST1032,3233.11,BigBasket,Kolkata,2,1,0,0,Desktop Browser,0,0
+TXN100193,CUST1209,4836.76,IRCTC,Bangalore,20,0,0,0,iPhone,0,0
+TXN100194,CUST1191,6735.55,IRCTC,Pune,14,0,0,0,iPhone,0,0
+TXN100195,CUST1192,936.41,Ola,Gurgaon,21,0,0,0,Android Phone,0,0
+TXN100196,CUST1178,3033.85,Zomato,Mumbai,12,0,0,0,Tablet,0,0
+TXN100197,CUST1001,5476.72,Electricity Board,Mumbai,9,0,0,0,Android Phone,0,0
+TXN100198,CUST1217,4303.6,Swiggy,Gurgaon,7,0,0,0,Tablet,0,0
+TXN100199,CUST1141,731.74,Cash Withdrawal ATM,Gurgaon,23,0,0,0,iPhone,0,0
+TXN100200,CUST1214,1018.17,Flipkart,Delhi,0,1,0,0,iPhone,0,0
+TXN100201,CUST1017,840.57,Local Kirana Store,Chennai,22,0,0,0,Android Phone,0,0
+TXN100202,CUST1022,2604.1,Cash Withdrawal ATM,Delhi,17,0,0,0,iPhone,0,0
+TXN100203,CUST1028,7053.66,Uber,Kolkata,7,0,0,0,iPhone,0,0
+TXN100204,CUST1163,727.93,BigBasket,Delhi,21,0,0,0,Android Phone,0,0
+TXN100205,CUST1073,559.55,Amazon,Jaipur,7,0,0,0,Desktop Browser,0,0
+TXN100206,CUST1285,1419.13,Ola,Bangalore,23,0,0,0,Tablet,0,0
+TXN100207,CUST1218,3086.49,Cash Withdrawal ATM,Hyderabad,11,0,0,0,iPhone,0,0
+TXN100208,CUST1268,2334.87,Swiggy,Jaipur,13,0,0,0,Android Phone,0,0
+TXN100209,CUST1275,6288.13,Swiggy,Hyderabad,7,0,0,0,Android Phone,0,0
+TXN100210,CUST1237,4286.24,Swiggy,Bangalore,13,0,0,0,iPhone,0,0
+TXN100211,CUST1198,2133.87,PayU Recharge,Chennai,10,0,0,0,iPhone,0,0
+TXN100212,CUST1189,1297.93,Ola,Chennai,6,0,0,0,Desktop Browser,0,0
+TXN100213,CUST1020,3875.16,Zomato,Hyderabad,18,0,0,0,Android Phone,0,0
+TXN100214,CUST1245,6432.74,Amazon,Kolkata,10,0,0,0,iPhone,0,0
+TXN100215,CUST1108,1352.86,Cash Withdrawal ATM,Bangalore,23,0,0,0,Desktop Browser,0,0
+TXN100216,CUST1245,3110.43,Zomato,Kolkata,19,0,0,0,iPhone,0,0
+TXN100217,CUST1282,4998.73,Myntra,Kolkata,12,0,0,0,Tablet,0,0
+TXN100218,CUST1157,2174.15,Local Kirana Store,Kolkata,15,0,0,0,Android Phone,0,0
+TXN100219,CUST1240,2881.81,Amazon,Chennai,6,0,0,0,Android Phone,0,0
+TXN100220,CUST1288,1136.6,Uber,Jaipur,4,1,0,0,Android Phone,0,0
+TXN100221,CUST1296,2560.96,IRCTC,Gurgaon,4,1,0,0,Tablet,0,0
+TXN100222,CUST1291,6001.93,Myntra,Kolkata,17,0,0,0,Android Phone,0,0
+TXN100223,CUST1131,5438.1,PayU Recharge,Gurgaon,23,0,0,0,Desktop Browser,0,0
+TXN100224,CUST1086,2685.91,PayU Recharge,Mumbai,5,0,0,0,Tablet,0,0
+TXN100225,CUST1094,978.89,Flipkart,Delhi,20,0,0,0,Desktop Browser,0,0
+TXN100226,CUST1024,5479.38,Flipkart,Gurgaon,4,1,0,0,Desktop Browser,0,0
+TXN100227,CUST1077,30332.77,Unknown Merchant Ltd,Mumbai,14,0,0,1,Android Phone,1,1
+TXN100228,CUST1247,4676.66,Amazon,Gurgaon,0,1,0,0,Android Phone,0,0
+TXN100229,CUST1008,1529.19,Local Kirana Store,Gurgaon,17,0,0,0,Tablet,0,0
+TXN100230,CUST1220,2697.13,Electricity Board,Mumbai,5,0,0,0,Tablet,0,0
+TXN100231,CUST1076,2264.8,BigBasket,Mumbai,16,0,0,0,Android Phone,0,0
+TXN100232,CUST1203,2625.23,Local Kirana Store,Hyderabad,12,0,0,0,iPhone,0,0
+TXN100233,CUST1115,1706.48,Ola,Delhi,2,1,0,0,iPhone,0,0
+TXN100234,CUST1016,3233.5,Ola,Mumbai,12,0,0,0,Android Phone,0,0
+TXN100235,CUST1004,4479.96,Cash Withdrawal ATM,Delhi,15,0,0,0,Tablet,0,0
+TXN100236,CUST1169,783.46,Amazon,Gurgaon,3,1,0,0,Tablet,0,0
+TXN100237,CUST1117,3233.42,BigBasket,Kolkata,22,0,0,0,Android Phone,0,0
+TXN100238,CUST1023,3636.01,Ola,Chennai,8,0,0,0,Android Phone,0,0
+TXN100239,CUST1016,4841.85,Uber,Mumbai,10,0,0,0,iPhone,0,0
+TXN100240,CUST1073,403.28,Swiggy,Jaipur,12,0,0,0,iPhone,0,0
+TXN100241,CUST1288,2086.41,Myntra,Jaipur,12,0,0,0,Android Phone,0,0
+TXN100242,CUST1196,1268.49,Local Kirana Store,Kolkata,22,0,0,0,Tablet,0,0
+TXN100243,CUST1177,10452.59,Unknown Merchant Ltd,Gurgaon,7,0,0,1,Desktop Browser,0,1
+TXN100244,CUST1203,1906.25,PayU Recharge,Hyderabad,0,1,0,0,iPhone,0,0
+TXN100245,CUST1251,1026.55,Uber,Gurgaon,12,0,0,0,Android Phone,0,0
+TXN100246,CUST1194,3060.44,Flipkart,Gurgaon,9,0,0,0,Android Phone,0,0
+TXN100247,CUST1042,3083.08,Local Kirana Store,Chennai,22,0,0,0,Android Phone,0,0
+TXN100248,CUST1199,5652.08,PayU Recharge,Chennai,2,1,0,0,Desktop Browser,0,0
+TXN100249,CUST1184,2859.55,PayU Recharge,Jaipur,4,1,0,0,iPhone,0,0
+TXN100250,CUST1285,1239.38,Electricity Board,Bangalore,3,1,0,0,Desktop Browser,0,0
+TXN100251,CUST1047,1712.94,BigBasket,Kolkata,10,0,0,0,iPhone,0,0
+TXN100252,CUST1211,4034.72,Zomato,Hyderabad,23,0,0,0,Android Phone,0,0
+TXN100253,CUST1292,3120.73,BigBasket,Kolkata,12,0,0,0,iPhone,0,0
+TXN100254,CUST1137,2595.59,BigBasket,Gurgaon,5,0,0,0,Desktop Browser,0,0
+TXN100255,CUST1247,5429.34,PayU Recharge,Gurgaon,8,0,0,0,iPhone,0,0
+TXN100256,CUST1100,7202.1,Myntra,Chennai,9,0,0,0,iPhone,0,0
+TXN100257,CUST1194,3815.53,Ola,Gurgaon,14,0,0,0,Android Phone,0,0
+TXN100258,CUST1069,3234.65,Swiggy,Bangalore,22,0,0,0,iPhone,0,0
+TXN100259,CUST1203,2792.6,Uber,Hyderabad,23,0,0,0,iPhone,0,0
+TXN100260,CUST1124,1763.09,Uber,Kolkata,12,0,0,0,iPhone,0,0
+TXN100261,CUST1102,666.77,Amazon,Chennai,5,0,0,0,Desktop Browser,0,0
+TXN100262,CUST1236,1904.73,Local Kirana Store,Delhi,14,0,0,0,Tablet,0,0
+TXN100263,CUST1035,2983.92,Ola,Pune,13,0,0,0,Desktop Browser,0,0
+TXN100264,CUST1155,4538.1,IRCTC,Delhi,4,1,0,0,Desktop Browser,0,0
+TXN100265,CUST1037,3873.46,Electricity Board,Pune,15,0,0,0,Tablet,0,0
+TXN100266,CUST1214,2012.31,Electricity Board,Delhi,11,0,0,0,Desktop Browser,0,0
+TXN100267,CUST1043,4144.23,Ola,Gurgaon,21,0,0,0,iPhone,0,0
+TXN100268,CUST1022,1867.61,Cash Withdrawal ATM,Delhi,21,0,0,0,iPhone,0,0
+TXN100269,CUST1169,456.14,Zomato,Gurgaon,3,1,0,0,Tablet,0,0
+TXN100270,CUST1261,1523.61,PayU Recharge,Hyderabad,18,0,0,0,Desktop Browser,0,0
+TXN100271,CUST1191,5658.15,Swiggy,Pune,21,0,0,0,Desktop Browser,0,0
+TXN100272,CUST1176,3159.2,Flipkart,Kolkata,3,1,0,0,Tablet,0,0
+TXN100273,CUST1059,2896.01,PayU Recharge,Kolkata,4,1,0,0,Android Phone,0,0
+TXN100274,CUST1105,2006.74,Local Kirana Store,Bangalore,15,0,0,0,Desktop Browser,0,0
+TXN100275,CUST1231,4890.34,Amazon,Mumbai,1,1,0,0,Desktop Browser,0,0
+TXN100276,CUST1175,4088.15,Zomato,Delhi,5,0,0,0,Tablet,0,0
+TXN100277,CUST1264,1997.25,PayU Recharge,Gurgaon,10,0,0,0,iPhone,0,0
+TXN100278,CUST1118,1308.13,IRCTC,Jaipur,5,0,0,0,Desktop Browser,0,0
+TXN100279,CUST1202,18588.63,Unknown Merchant Ltd,Jaipur,6,0,0,1,Desktop Browser,1,1
+TXN100280,CUST1109,5255.31,Uber,Delhi,22,0,0,0,Android Phone,0,0
+TXN100281,CUST1052,1655.27,PayU Recharge,Gurgaon,5,0,0,0,Tablet,0,0
+TXN100282,CUST1058,1457.12,Myntra,Mumbai,15,0,0,0,Android Phone,0,0
+TXN100283,CUST1198,3139.56,PayU Recharge,Chennai,3,1,0,0,Android Phone,0,0
+TXN100284,CUST1088,5051.96,Flipkart,Pune,9,0,0,0,Tablet,0,0
+TXN100285,CUST1068,1332.62,Local Kirana Store,Hyderabad,9,0,0,0,Android Phone,0,0
+TXN100286,CUST1072,2131.34,IRCTC,Pune,19,0,0,0,Tablet,0,0
+TXN100287,CUST1095,642.49,Swiggy,Pune,22,0,0,0,Tablet,0,0
+TXN100288,CUST1284,1769.27,PayU Recharge,Kolkata,4,1,0,0,Tablet,0,0
+TXN100289,CUST1027,2937.61,IRCTC,Jaipur,0,1,0,0,Tablet,0,0
+TXN100290,CUST1287,3977.81,Local Kirana Store,Delhi,13,0,0,0,iPhone,0,0
+TXN100291,CUST1227,4771.43,Zomato,Gurgaon,18,0,0,0,Desktop Browser,0,0
+TXN100292,CUST1149,77272.14,Unknown Merchant Ltd,Dubai,17,0,1,1,Tablet,1,1
+TXN100293,CUST1261,1478.08,Myntra,Hyderabad,8,0,0,0,Desktop Browser,0,0
+TXN100294,CUST1277,3929.06,IRCTC,Mumbai,23,0,0,0,Tablet,0,0
+TXN100295,CUST1052,2755.12,Amazon,Gurgaon,7,0,0,0,Android Phone,0,0
+TXN100296,CUST1230,6638.04,Flipkart,Pune,2,1,0,0,iPhone,0,0
+TXN100297,CUST1121,1543.04,Local Kirana Store,Jaipur,18,0,0,0,Android Phone,0,0
+TXN100298,CUST1219,3434.33,Amazon,Pune,6,0,0,0,Tablet,0,0
+TXN100299,CUST1291,2779.11,Local Kirana Store,Kolkata,19,0,0,0,Android Phone,0,0
+TXN100300,CUST1149,5453.08,Flipkart,Chennai,16,0,0,0,Tablet,0,0
+TXN100301,CUST1069,1847.88,BigBasket,Bangalore,13,0,0,0,iPhone,0,0
+TXN100302,CUST1064,989.71,Zomato,Gurgaon,7,0,0,0,Android Phone,0,0
+TXN100303,CUST1201,3139.83,IRCTC,Gurgaon,20,0,0,0,Desktop Browser,0,0
+TXN100304,CUST1231,4102.06,BigBasket,Mumbai,2,1,0,0,Desktop Browser,0,0
+TXN100305,CUST1188,1484.81,Cash Withdrawal ATM,Kolkata,10,0,0,0,Android Phone,0,0
+TXN100306,CUST1047,2316.75,Flipkart,Kolkata,20,0,0,0,Android Phone,0,0
+TXN100307,CUST1273,610.06,BigBasket,Kolkata,13,0,0,0,Android Phone,0,0
+TXN100308,CUST1165,1816.74,PayU Recharge,Kolkata,17,0,0,0,Android Phone,0,0
+TXN100309,CUST1175,1651.83,Cash Withdrawal ATM,Delhi,1,1,0,0,Tablet,0,0
+TXN100310,CUST1235,2059.17,Foreign Exchange Kiosk,Pune,5,0,0,1,Tablet,1,1
+TXN100311,CUST1103,1198.3,Swiggy,Gurgaon,4,1,0,0,Android Phone,0,0
+TXN100312,CUST1140,3491.73,Ola,Jaipur,8,0,0,0,iPhone,0,0
+TXN100313,CUST1084,9150.77,Unknown Merchant Ltd,Lagos,9,0,1,1,Tablet,1,1
+TXN100314,CUST1048,35215.45,Crypto Exchange XYZ,Dubai,2,1,1,1,iPhone,1,1
+TXN100315,CUST1004,4424.34,Swiggy,Delhi,3,1,0,0,Tablet,0,0
+TXN100316,CUST1244,2960.6,Flipkart,Chennai,2,1,0,0,Android Phone,0,0
+TXN100317,CUST1160,3760.53,Cash Withdrawal ATM,Kolkata,4,1,0,0,Desktop Browser,0,0
+TXN100318,CUST1068,2010.52,Amazon,Hyderabad,4,1,0,0,iPhone,0,0
+TXN100319,CUST1084,998.62,IRCTC,Mumbai,6,0,0,0,iPhone,0,0
+TXN100320,CUST1226,2964.54,Uber,Gurgaon,3,1,0,0,Tablet,0,0
+TXN100321,CUST1196,1403.15,BigBasket,Kolkata,10,0,0,0,Tablet,0,0
+TXN100322,CUST1043,5368.5,Cash Withdrawal ATM,Gurgaon,19,0,0,0,Tablet,0,0
+TXN100323,CUST1013,5016.49,Electricity Board,Chennai,9,0,0,0,Desktop Browser,0,0
+TXN100324,CUST1096,3010.51,Cash Withdrawal ATM,Bangalore,20,0,0,0,Tablet,0,0
+TXN100325,CUST1122,3304.99,Flipkart,Mumbai,7,0,0,0,Tablet,0,0
+TXN100326,CUST1270,1126.73,IRCTC,Delhi,11,0,0,0,iPhone,0,0
+TXN100327,CUST1291,5250.41,Cash Withdrawal ATM,Kolkata,21,0,0,0,Android Phone,0,0
+TXN100328,CUST1037,24068.83,Foreign Exchange Kiosk,Lagos,0,1,1,1,iPhone,1,1
+TXN100329,CUST1259,2731.65,Local Kirana Store,Kolkata,16,0,0,0,Android Phone,0,0
+TXN100330,CUST1205,1713.94,Flipkart,Gurgaon,17,0,0,0,iPhone,0,0
+TXN100331,CUST1158,1314.69,Myntra,Jaipur,6,0,0,0,iPhone,0,0
+TXN100332,CUST1200,2386.91,BigBasket,Pune,20,0,0,0,Desktop Browser,0,0
+TXN100333,CUST1223,2896.03,IRCTC,Kolkata,7,0,0,0,iPhone,0,0
+TXN100334,CUST1059,4159.41,Ola,Kolkata,1,1,0,0,Android Phone,0,0
+TXN100335,CUST1089,1356.1,PayU Recharge,Jaipur,4,1,0,0,iPhone,0,0
+TXN100336,CUST1177,689.64,Swiggy,Gurgaon,23,0,0,0,Android Phone,0,0
+TXN100337,CUST1137,4372.28,BigBasket,Gurgaon,0,1,0,0,Desktop Browser,0,0
+TXN100338,CUST1268,1684.47,PayU Recharge,Jaipur,18,0,0,0,Android Phone,0,0
+TXN100339,CUST1261,1229.51,BigBasket,Hyderabad,18,0,0,0,Desktop Browser,0,0
+TXN100340,CUST1052,1459.72,Electricity Board,Gurgaon,23,0,0,0,Android Phone,0,0
+TXN100341,CUST1001,56360.88,Foreign Exchange Kiosk,Mumbai,0,1,0,1,iPhone,1,1
+TXN100342,CUST1076,2243.96,Local Kirana Store,Mumbai,1,1,0,0,Android Phone,0,0
+TXN100343,CUST1214,1759.66,BigBasket,Delhi,13,0,0,0,iPhone,0,0
+TXN100344,CUST1039,2035.62,Swiggy,Gurgaon,16,0,0,0,Android Phone,0,0
+TXN100345,CUST1114,4783.67,BigBasket,Jaipur,12,0,0,0,Desktop Browser,0,0
+TXN100346,CUST1159,3275.83,BigBasket,Pune,14,0,0,0,iPhone,0,0
+TXN100347,CUST1288,1440.11,Uber,Jaipur,19,0,0,0,Android Phone,0,0
+TXN100348,CUST1252,6615.69,Cash Withdrawal ATM,Delhi,6,0,0,0,Tablet,0,0
+TXN100349,CUST1125,3475.14,Myntra,Pune,13,0,0,0,Tablet,0,0
+TXN100350,CUST1004,6471.18,Local Kirana Store,Delhi,21,0,0,0,Tablet,0,0
+TXN100351,CUST1157,3603.05,Amazon,Kolkata,7,0,0,0,Android Phone,0,0
+TXN100352,CUST1072,1450.51,Electricity Board,Pune,1,1,0,0,Android Phone,0,0
+TXN100353,CUST1211,2227.31,Flipkart,Hyderabad,14,0,0,0,Android Phone,0,0
+TXN100354,CUST1258,841.85,Amazon,Bangalore,12,0,0,0,Android Phone,0,0
+TXN100355,CUST1222,619.45,Myntra,Jaipur,7,0,0,0,Android Phone,0,0
+TXN100356,CUST1201,2652.48,Zomato,Gurgaon,10,0,0,0,Android Phone,0,0
+TXN100357,CUST1038,1732.91,Swiggy,Mumbai,18,0,0,0,Android Phone,0,0
+TXN100358,CUST1230,4172.99,Cash Withdrawal ATM,Pune,3,1,0,0,iPhone,0,0
+TXN100359,CUST1106,2217.43,Swiggy,Bangalore,8,0,0,0,Desktop Browser,0,0
+TXN100360,CUST1155,3515.04,Myntra,Delhi,19,0,0,0,Desktop Browser,0,0
+TXN100361,CUST1075,1509.04,Ola,Jaipur,11,0,0,0,Tablet,0,0
+TXN100362,CUST1153,961.77,Electricity Board,Kolkata,0,1,0,0,Desktop Browser,0,0
+TXN100363,CUST1281,1800.98,Flipkart,Kolkata,3,1,0,0,Android Phone,0,0
+TXN100364,CUST1006,176.63,IRCTC,Pune,7,0,0,0,Android Phone,0,0
+TXN100365,CUST1190,2506.66,BigBasket,Chennai,20,0,0,0,Desktop Browser,0,0
+TXN100366,CUST1038,45316.79,Crypto Exchange XYZ,Mumbai,6,0,0,1,iPhone,1,1
+TXN100367,CUST1169,509.01,Uber,Gurgaon,14,0,0,0,Tablet,0,0
+TXN100368,CUST1221,1311.74,IRCTC,Mumbai,15,0,0,0,iPhone,0,0
+TXN100369,CUST1088,3535.08,Swiggy,Pune,5,0,0,0,Android Phone,0,0
+TXN100370,CUST1017,1218.1,IRCTC,Chennai,7,0,0,0,Android Phone,0,0
+TXN100371,CUST1281,887.03,Zomato,Kolkata,8,0,0,0,Android Phone,0,0
+TXN100372,CUST1269,527.84,IRCTC,Hyderabad,17,0,0,0,Android Phone,0,0
+TXN100373,CUST1183,6320.32,Electricity Board,Bangalore,15,0,0,0,Android Phone,0,0
+TXN100374,CUST1164,1851.93,Amazon,Hyderabad,0,1,0,0,iPhone,0,0
+TXN100375,CUST1143,75007.09,Crypto Exchange XYZ,Lagos,16,0,1,1,Android Phone,1,1
+TXN100376,CUST1123,3362.37,Zomato,Mumbai,23,0,0,0,Tablet,0,0
+TXN100377,CUST1294,3513.38,Swiggy,Kolkata,12,0,0,0,Android Phone,0,0
+TXN100378,CUST1090,983.31,Uber,Pune,23,0,0,0,Tablet,0,0
+TXN100379,CUST1014,369.21,Zomato,Mumbai,18,0,0,0,iPhone,0,0
+TXN100380,CUST1252,2788.38,Zomato,Delhi,15,0,0,0,Desktop Browser,0,0
+TXN100381,CUST1112,59222.9,Unknown Merchant Ltd,Dubai,0,1,1,1,iPhone,0,1
+TXN100382,CUST1090,597.59,Uber,Pune,10,0,0,0,Desktop Browser,0,0
+TXN100383,CUST1072,1715.08,Flipkart,Pune,16,0,0,0,Tablet,0,0
+TXN100384,CUST1191,2856.71,BigBasket,Pune,12,0,0,0,Desktop Browser,0,0
+TXN100385,CUST1165,3721.8,PayU Recharge,Kolkata,23,0,0,0,Android Phone,0,0
+TXN100386,CUST1162,583.63,Uber,Jaipur,17,0,0,0,Tablet,0,0
+TXN100387,CUST1182,3199.86,Local Kirana Store,Chennai,5,0,0,0,Tablet,0,0
+TXN100388,CUST1150,3033.57,IRCTC,Bangalore,0,1,0,0,Android Phone,0,0
+TXN100389,CUST1290,57532.31,Foreign Exchange Kiosk,Lagos,10,0,1,1,Android Phone,0,1
+TXN100390,CUST1072,2939.56,Swiggy,Pune,7,0,0,0,Tablet,0,0
+TXN100391,CUST1045,1734.7,PayU Recharge,Bangalore,20,0,0,0,Desktop Browser,0,0
+TXN100392,CUST1005,3092.35,Cash Withdrawal ATM,Jaipur,22,0,0,0,iPhone,0,0
+TXN100393,CUST1055,5147.27,Swiggy,Pune,12,0,0,0,Android Phone,0,0
+TXN100394,CUST1211,3333.32,PayU Recharge,Hyderabad,11,0,0,0,Android Phone,0,0
+TXN100395,CUST1295,4061.05,Cash Withdrawal ATM,Delhi,7,0,0,0,Tablet,0,0
+TXN100396,CUST1017,879.68,Swiggy,Chennai,8,0,0,0,Tablet,0,0
+TXN100397,CUST1192,1331.72,Myntra,Gurgaon,17,0,0,0,iPhone,0,0
+TXN100398,CUST1247,4924.24,IRCTC,Gurgaon,20,0,0,0,Android Phone,0,0
+TXN100399,CUST1080,43143.14,Unknown Merchant Ltd,Jaipur,6,0,0,1,iPhone,1,1
+TXN100400,CUST1276,1265.13,IRCTC,Mumbai,9,0,0,0,Android Phone,0,0
+TXN100401,CUST1292,4205.15,IRCTC,Kolkata,4,1,0,0,iPhone,0,0
+TXN100402,CUST1044,750.93,Flipkart,Hyderabad,20,0,0,0,Android Phone,0,0
+TXN100403,CUST1013,4798.73,Flipkart,Chennai,9,0,0,0,Desktop Browser,0,0
+TXN100404,CUST1157,4216.9,Flipkart,Kolkata,15,0,0,0,Android Phone,0,0
+TXN100405,CUST1278,2632.36,Amazon,Mumbai,12,0,0,0,Android Phone,0,0
+TXN100406,CUST1134,1567.87,Amazon,Pune,7,0,0,0,Desktop Browser,0,0
+TXN100407,CUST1077,2483.47,Cash Withdrawal ATM,Mumbai,3,1,0,0,Android Phone,0,0
+TXN100408,CUST1277,3956.28,IRCTC,Mumbai,18,0,0,0,Tablet,0,0
+TXN100409,CUST1267,6114.59,Uber,Bangalore,21,0,0,0,Tablet,0,0
+TXN100410,CUST1120,288.39,Amazon,Kolkata,12,0,0,0,Android Phone,0,0
+TXN100411,CUST1257,2611.13,Swiggy,Kolkata,18,0,0,0,Desktop Browser,0,0
+TXN100412,CUST1061,1612.02,Cash Withdrawal ATM,Chennai,5,0,0,0,iPhone,0,0
+TXN100413,CUST1098,1043.9,Ola,Delhi,2,1,0,0,iPhone,0,0
+TXN100414,CUST1075,1827.16,Cash Withdrawal ATM,Jaipur,10,0,0,0,Tablet,0,0
+TXN100415,CUST1034,940.13,BigBasket,Delhi,12,0,0,0,Android Phone,0,0
+TXN100416,CUST1266,3988.97,Uber,Hyderabad,0,1,0,0,Tablet,0,0
+TXN100417,CUST1267,2759.39,Uber,Bangalore,13,0,0,0,Tablet,0,0
+TXN100418,CUST1298,316.14,Cash Withdrawal ATM,Mumbai,3,1,0,0,iPhone,0,0
+TXN100419,CUST1051,313.92,IRCTC,Chennai,17,0,0,0,Android Phone,0,0
+TXN100420,CUST1135,562.42,Swiggy,Delhi,18,0,0,0,Desktop Browser,0,0
+TXN100421,CUST1141,1425.23,Amazon,Gurgaon,19,0,0,0,iPhone,0,0
+TXN100422,CUST1202,942.58,PayU Recharge,Jaipur,22,0,0,0,Android Phone,0,0
+TXN100423,CUST1137,4327.27,BigBasket,Gurgaon,10,0,0,0,Tablet,0,0
+TXN100424,CUST1143,2288.18,Zomato,Chennai,22,0,0,0,Android Phone,0,0
+TXN100425,CUST1068,2586.68,BigBasket,Hyderabad,14,0,0,0,Android Phone,0,0
+TXN100426,CUST1213,2477.06,IRCTC,Mumbai,6,0,0,0,iPhone,0,0
+TXN100427,CUST1248,2125.26,Cash Withdrawal ATM,Hyderabad,11,0,0,0,Tablet,0,0
+TXN100428,CUST1081,1369.83,Electricity Board,Chennai,16,0,0,0,Android Phone,0,0
+TXN100429,CUST1291,36350.71,Foreign Exchange Kiosk,Kolkata,6,0,0,1,Desktop Browser,1,1
+TXN100430,CUST1025,2988.0,PayU Recharge,Hyderabad,6,0,0,0,Android Phone,0,0
+TXN100431,CUST1258,409.06,Myntra,Bangalore,3,1,0,0,Android Phone,0,0
+TXN100432,CUST1250,4384.06,Myntra,Hyderabad,15,0,0,0,Tablet,0,0
+TXN100433,CUST1083,328.12,BigBasket,Mumbai,23,0,0,0,Tablet,0,0
+TXN100434,CUST1014,842.33,Zomato,Mumbai,18,0,0,0,iPhone,0,0
+TXN100435,CUST1115,1159.19,Cash Withdrawal ATM,Delhi,20,0,0,0,Tablet,0,0
+TXN100436,CUST1004,5282.18,Amazon,Delhi,20,0,0,0,Tablet,0,0
+TXN100437,CUST1114,5096.44,Ola,Jaipur,9,0,0,0,Desktop Browser,0,0
+TXN100438,CUST1140,3011.75,PayU Recharge,Jaipur,11,0,0,0,iPhone,0,0
+TXN100439,CUST1154,3676.41,Amazon,Kolkata,19,0,0,0,Android Phone,0,0
+TXN100440,CUST1261,1625.78,Uber,Hyderabad,11,0,0,0,Desktop Browser,0,0
+TXN100441,CUST1144,3090.07,BigBasket,Jaipur,15,0,0,0,Tablet,0,0
+TXN100442,CUST1166,4304.28,Ola,Chennai,20,0,0,0,Android Phone,0,0
+TXN100443,CUST1152,1620.21,Cash Withdrawal ATM,Kolkata,7,0,0,0,Tablet,0,0
+TXN100444,CUST1206,1406.12,PayU Recharge,Bangalore,4,1,0,0,Desktop Browser,0,0
+TXN100445,CUST1151,2414.1,Uber,Bangalore,12,0,0,0,Tablet,0,0
+TXN100446,CUST1292,3528.74,Electricity Board,Kolkata,23,0,0,0,iPhone,0,0
+TXN100447,CUST1243,400.1,Swiggy,Jaipur,11,0,0,0,Android Phone,0,0
+TXN100448,CUST1285,2608.41,Local Kirana Store,Bangalore,15,0,0,0,Desktop Browser,0,0
+TXN100449,CUST1286,3312.45,Flipkart,Pune,21,0,0,0,Tablet,0,0
+TXN100450,CUST1113,3202.19,Myntra,Mumbai,9,0,0,0,Desktop Browser,0,0
+TXN100451,CUST1190,1430.78,Amazon,Chennai,14,0,0,0,Desktop Browser,0,0
+TXN100452,CUST1298,725.28,Electricity Board,Mumbai,2,1,0,0,iPhone,0,0
+TXN100453,CUST1061,999.85,Swiggy,Chennai,16,0,0,0,iPhone,0,0
+TXN100454,CUST1070,5469.7,PayU Recharge,Pune,13,0,0,0,Tablet,0,0
+TXN100455,CUST1073,405.99,Myntra,Jaipur,5,0,0,0,iPhone,0,0
+TXN100456,CUST1090,885.69,Cash Withdrawal ATM,Pune,0,1,0,0,Desktop Browser,0,0
+TXN100457,CUST1086,2781.12,Flipkart,Mumbai,15,0,0,0,iPhone,0,0
+TXN100458,CUST1066,297.29,PayU Recharge,Jaipur,13,0,0,0,Tablet,0,0
+TXN100459,CUST1196,42217.51,Foreign Exchange Kiosk,Kolkata,2,1,0,1,Tablet,0,1
+TXN100460,CUST1009,720.46,Myntra,Kolkata,23,0,0,0,Android Phone,0,0
+TXN100461,CUST1159,3039.05,Flipkart,Pune,16,0,0,0,iPhone,0,0
+TXN100462,CUST1023,3556.73,Electricity Board,Chennai,14,0,0,0,iPhone,0,0
+TXN100463,CUST1172,1701.11,PayU Recharge,Hyderabad,4,1,0,0,Tablet,0,0
+TXN100464,CUST1183,3258.94,Local Kirana Store,Bangalore,12,0,0,0,Android Phone,0,0
+TXN100465,CUST1067,1044.95,Myntra,Gurgaon,18,0,0,0,Desktop Browser,0,0
+TXN100466,CUST1019,4733.91,Amazon,Bangalore,8,0,0,0,Android Phone,0,0
+TXN100467,CUST1024,5765.53,IRCTC,Gurgaon,0,1,0,0,Desktop Browser,0,0
+TXN100468,CUST1227,4425.28,Zomato,Gurgaon,8,0,0,0,Tablet,0,0
+TXN100469,CUST1004,4894.42,Uber,Delhi,3,1,0,0,Tablet,0,0
+TXN100470,CUST1070,4786.09,Flipkart,Pune,3,1,0,0,Tablet,0,0
+TXN100471,CUST1144,4097.76,Cash Withdrawal ATM,Jaipur,15,0,0,0,Tablet,0,0
+TXN100472,CUST1134,2455.01,BigBasket,Pune,6,0,0,0,Desktop Browser,0,0
+TXN100473,CUST1082,26461.21,Crypto Exchange XYZ,Bangalore,6,0,0,1,Desktop Browser,1,1
+TXN100474,CUST1006,271.76,PayU Recharge,Pune,3,1,0,0,Android Phone,0,0
+TXN100475,CUST1076,2106.98,Flipkart,Mumbai,16,0,0,0,Android Phone,0,0
+TXN100476,CUST1131,4230.28,Flipkart,Gurgaon,9,0,0,0,iPhone,0,0
+TXN100477,CUST1089,3451.83,Myntra,Jaipur,9,0,0,0,iPhone,0,0
+TXN100478,CUST1218,3562.52,Ola,Hyderabad,1,1,0,0,iPhone,0,0
+TXN100479,CUST1087,2911.12,Local Kirana Store,Bangalore,14,0,0,0,Tablet,0,0
+TXN100480,CUST1047,1743.0,PayU Recharge,Kolkata,5,0,0,0,iPhone,0,0
+TXN100481,CUST1139,3393.85,Cash Withdrawal ATM,Mumbai,15,0,0,0,iPhone,0,0
+TXN100482,CUST1085,3514.28,Swiggy,Jaipur,23,0,0,0,iPhone,0,0
+TXN100483,CUST1053,2218.06,PayU Recharge,Delhi,15,0,0,0,iPhone,0,0
+TXN100484,CUST1092,1590.68,Ola,Gurgaon,11,0,0,0,Tablet,0,0
+TXN100485,CUST1066,291.61,Amazon,Jaipur,3,1,0,0,Tablet,0,0
+TXN100486,CUST1032,4551.07,Electricity Board,Kolkata,0,1,0,0,Desktop Browser,0,0
+TXN100487,CUST1295,3578.71,Electricity Board,Delhi,21,0,0,0,Desktop Browser,0,0
+TXN100488,CUST1048,2328.35,Ola,Gurgaon,7,0,0,0,Android Phone,0,0
+TXN100489,CUST1197,6064.24,Amazon,Chennai,17,0,0,0,Tablet,0,0
+TXN100490,CUST1005,3524.33,PayU Recharge,Jaipur,16,0,0,0,iPhone,0,0
+TXN100491,CUST1084,664.72,BigBasket,Mumbai,10,0,0,0,iPhone,0,0
+TXN100492,CUST1025,3108.18,Zomato,Hyderabad,20,0,0,0,Android Phone,0,0
+TXN100493,CUST1040,2715.48,PayU Recharge,Bangalore,18,0,0,0,Android Phone,0,0
+TXN100494,CUST1228,735.23,IRCTC,Gurgaon,23,0,0,0,iPhone,0,0
+TXN100495,CUST1211,64266.66,Unknown Merchant Ltd,Hyderabad,0,1,0,1,iPhone,1,1
+TXN100496,CUST1155,5758.97,Myntra,Delhi,6,0,0,0,Desktop Browser,0,0
+TXN100497,CUST1186,2370.88,Electricity Board,Mumbai,7,0,0,0,iPhone,0,0
+TXN100498,CUST1242,1572.51,Cash Withdrawal ATM,Hyderabad,22,0,0,0,Android Phone,0,0
+TXN100499,CUST1113,32853.38,Foreign Exchange Kiosk,Mumbai,1,1,0,1,Desktop Browser,0,1
+TXN100500,CUST1023,4241.96,Local Kirana Store,Chennai,4,1,0,0,iPhone,0,0
+TXN100501,CUST1209,2620.17,IRCTC,Bangalore,6,0,0,0,iPhone,0,0
+TXN100502,CUST1110,2567.43,Cash Withdrawal ATM,Hyderabad,6,0,0,0,Desktop Browser,0,0
+TXN100503,CUST1212,37608.38,Foreign Exchange Kiosk,Delhi,21,0,0,1,Android Phone,1,1
+TXN100504,CUST1234,5473.35,Amazon,Delhi,16,0,0,0,Android Phone,0,0
+TXN100505,CUST1271,881.12,Electricity Board,Bangalore,13,0,0,0,Desktop Browser,0,0
+TXN100506,CUST1090,719.5,IRCTC,Pune,23,0,0,0,Desktop Browser,0,0
+TXN100507,CUST1164,2390.06,Cash Withdrawal ATM,Hyderabad,13,0,0,0,iPhone,0,0
+TXN100508,CUST1127,3359.73,Swiggy,Pune,10,0,0,0,Android Phone,0,0
+TXN100509,CUST1070,3137.33,Local Kirana Store,Pune,23,0,0,0,Desktop Browser,0,0
+TXN100510,CUST1280,2742.47,Zomato,Delhi,23,0,0,0,Android Phone,0,0
+TXN100511,CUST1102,444.62,Ola,Chennai,9,0,0,0,Desktop Browser,0,0
+TXN100512,CUST1067,1628.37,Ola,Gurgaon,5,0,0,0,Desktop Browser,0,0
+TXN100513,CUST1165,2824.45,Uber,Kolkata,11,0,0,0,Android Phone,0,0
+TXN100514,CUST1213,4796.38,IRCTC,Mumbai,17,0,0,0,iPhone,0,0
+TXN100515,CUST1006,139.93,Amazon,Pune,12,0,0,0,Android Phone,0,0
+TXN100516,CUST1102,622.46,Swiggy,Chennai,5,0,0,0,Desktop Browser,0,0
+TXN100517,CUST1031,3808.61,Myntra,Bangalore,6,0,0,0,Android Phone,0,0
+TXN100518,CUST1231,4288.95,Zomato,Mumbai,21,0,0,0,Desktop Browser,0,0
+TXN100519,CUST1287,4784.87,Amazon,Delhi,22,0,0,0,iPhone,0,0
+TXN100520,CUST1195,1410.13,Amazon,Delhi,21,0,0,0,Android Phone,0,0
+TXN100521,CUST1006,324.07,PayU Recharge,Pune,19,0,0,0,Android Phone,0,0
+TXN100522,CUST1115,992.7,Uber,Delhi,22,0,0,0,iPhone,0,0
+TXN100523,CUST1279,347.06,Swiggy,Pune,23,0,0,0,Desktop Browser,0,0
+TXN100524,CUST1038,1637.57,Amazon,Mumbai,23,0,0,0,Android Phone,0,0
+TXN100525,CUST1219,5266.0,BigBasket,Pune,4,1,0,0,Tablet,0,0
+TXN100526,CUST1002,300.7,Myntra,Kolkata,4,1,0,0,iPhone,0,0
+TXN100527,CUST1026,1560.42,PayU Recharge,Pune,19,0,0,0,Tablet,0,0
+TXN100528,CUST1293,2684.48,Swiggy,Pune,22,0,0,0,Android Phone,0,0
+TXN100529,CUST1266,3466.16,IRCTC,Hyderabad,5,0,0,0,Tablet,0,0
+TXN100530,CUST1047,1609.69,Myntra,Kolkata,6,0,0,0,Android Phone,0,0
+TXN100531,CUST1150,2041.35,Electricity Board,Bangalore,19,0,0,0,Android Phone,0,0
+TXN100532,CUST1004,6737.37,Uber,Delhi,14,0,0,0,Tablet,0,0
+TXN100533,CUST1124,4066.56,Flipkart,Kolkata,10,0,0,0,iPhone,0,0
+TXN100534,CUST1197,5752.61,Cash Withdrawal ATM,Chennai,9,0,0,0,Tablet,0,0
+TXN100535,CUST1191,2584.93,Ola,Pune,14,0,0,0,iPhone,0,0
+TXN100536,CUST1098,1642.34,Cash Withdrawal ATM,Delhi,3,1,0,0,iPhone,0,0
+TXN100537,CUST1275,5420.99,Cash Withdrawal ATM,Hyderabad,2,1,0,0,Android Phone,0,0
+TXN100538,CUST1109,4208.09,Local Kirana Store,Delhi,3,1,0,0,Android Phone,0,0
+TXN100539,CUST1222,965.44,Amazon,Jaipur,2,1,0,0,Android Phone,0,0
+TXN100540,CUST1235,227.8,Cash Withdrawal ATM,Pune,2,1,0,0,Tablet,0,0
+TXN100541,CUST1128,2040.0,IRCTC,Delhi,7,0,0,0,Desktop Browser,0,0
+TXN100542,CUST1230,4324.76,Flipkart,Pune,10,0,0,0,Tablet,0,0
+TXN100543,CUST1273,13294.84,Crypto Exchange XYZ,Kolkata,19,0,0,1,Android Phone,0,1
+TXN100544,CUST1183,5305.62,Uber,Bangalore,9,0,0,0,iPhone,0,0
+TXN100545,CUST1044,685.66,Ola,Hyderabad,14,0,0,0,Android Phone,0,0
+TXN100546,CUST1015,1063.48,Cash Withdrawal ATM,Pune,7,0,0,0,Desktop Browser,0,0
+TXN100547,CUST1279,514.48,Cash Withdrawal ATM,Pune,4,1,0,0,Desktop Browser,0,0
+TXN100548,CUST1191,5014.75,Flipkart,Pune,17,0,0,0,iPhone,0,0
+TXN100549,CUST1021,19131.16,Unknown Merchant Ltd,Jaipur,12,0,0,1,iPhone,1,1
+TXN100550,CUST1176,3492.29,Swiggy,Kolkata,20,0,0,0,iPhone,0,0
+TXN100551,CUST1094,587.58,Ola,Delhi,8,0,0,0,iPhone,0,0
+TXN100552,CUST1290,4512.31,Flipkart,Pune,17,0,0,0,Android Phone,0,0
+TXN100553,CUST1148,2598.25,PayU Recharge,Pune,3,1,0,0,Desktop Browser,0,0
+TXN100554,CUST1169,457.23,Uber,Gurgaon,20,0,0,0,Tablet,0,0
+TXN100555,CUST1035,2473.44,Ola,Pune,15,0,0,0,Tablet,0,0
+TXN100556,CUST1156,2663.5,Myntra,Delhi,18,0,0,0,Android Phone,0,0
+TXN100557,CUST1219,3505.17,Local Kirana Store,Pune,7,0,0,0,Tablet,0,0
+TXN100558,CUST1223,4796.26,PayU Recharge,Kolkata,4,1,0,0,iPhone,0,0
+TXN100559,CUST1236,2531.37,Swiggy,Delhi,9,0,0,0,Tablet,0,0
+TXN100560,CUST1041,4364.27,BigBasket,Chennai,4,1,0,0,iPhone,0,0
+TXN100561,CUST1039,1462.42,Amazon,Gurgaon,0,1,0,0,Tablet,0,0
+TXN100562,CUST1297,3168.4,Electricity Board,Gurgaon,18,0,0,0,Android Phone,0,0
+TXN100563,CUST1133,1230.57,Myntra,Chennai,15,0,0,0,Desktop Browser,0,0
+TXN100564,CUST1200,2833.76,Swiggy,Pune,18,0,0,0,Desktop Browser,0,0
+TXN100565,CUST1237,4062.79,Ola,Bangalore,12,0,0,0,iPhone,0,0
+TXN100566,CUST1122,1933.61,Electricity Board,Mumbai,19,0,0,0,Tablet,0,0
+TXN100567,CUST1071,4853.3,Swiggy,Jaipur,18,0,0,0,iPhone,0,0
+TXN100568,CUST1247,4392.04,Flipkart,Gurgaon,7,0,0,0,iPhone,0,0
+TXN100569,CUST1135,588.34,Cash Withdrawal ATM,Delhi,21,0,0,0,Desktop Browser,0,0
+TXN100570,CUST1184,2273.18,Ola,Jaipur,14,0,0,0,iPhone,0,0
+TXN100571,CUST1165,3830.71,Local Kirana Store,Kolkata,16,0,0,0,Android Phone,0,0
+TXN100572,CUST1134,2353.5,Myntra,Pune,5,0,0,0,Desktop Browser,0,0
+TXN100573,CUST1039,1315.28,Myntra,Gurgaon,7,0,0,0,Tablet,0,0
+TXN100574,CUST1249,4707.63,Swiggy,Pune,19,0,0,0,Tablet,0,0
+TXN100575,CUST1225,3059.99,Swiggy,Pune,16,0,0,0,iPhone,0,0
+TXN100576,CUST1095,346.88,Zomato,Pune,22,0,0,0,Tablet,0,0
+TXN100577,CUST1212,2665.42,PayU Recharge,Delhi,3,1,0,0,Desktop Browser,0,0
+TXN100578,CUST1107,2656.39,Swiggy,Chennai,13,0,0,0,iPhone,0,0
+TXN100579,CUST1293,1411.6,Uber,Pune,20,0,0,0,Android Phone,0,0
+TXN100580,CUST1075,20831.65,Unknown Merchant Ltd,Jaipur,5,0,0,1,Tablet,0,1
+TXN100581,CUST1009,777.19,Flipkart,Kolkata,21,0,0,0,Android Phone,0,0
+TXN100582,CUST1110,2204.13,IRCTC,Hyderabad,15,0,0,0,Desktop Browser,0,0
+TXN100583,CUST1073,810.59,BigBasket,Jaipur,5,0,0,0,Desktop Browser,0,0
+TXN100584,CUST1085,2586.89,Zomato,Jaipur,14,0,0,0,iPhone,0,0
+TXN100585,CUST1193,4297.43,Electricity Board,Kolkata,0,1,0,0,iPhone,0,0
+TXN100586,CUST1214,1407.2,Uber,Delhi,3,1,0,0,iPhone,0,0
+TXN100587,CUST1019,2825.14,PayU Recharge,Bangalore,16,0,0,0,Android Phone,0,0
+TXN100588,CUST1066,460.08,Ola,Jaipur,0,1,0,0,Tablet,0,0
+TXN100589,CUST1220,1958.71,Zomato,Mumbai,1,1,0,0,Tablet,0,0
+TXN100590,CUST1246,5197.61,Cash Withdrawal ATM,Jaipur,11,0,0,0,Tablet,0,0
+TXN100591,CUST1294,3098.82,Flipkart,Kolkata,8,0,0,0,Android Phone,0,0
+TXN100592,CUST1145,2816.72,Local Kirana Store,Bangalore,13,0,0,0,iPhone,0,0
+TXN100593,CUST1003,1841.94,Zomato,Gurgaon,16,0,0,0,iPhone,0,0
+TXN100594,CUST1161,4638.55,BigBasket,Bangalore,4,1,0,0,Tablet,0,0
+TXN100595,CUST1133,1072.96,Ola,Chennai,18,0,0,0,Desktop Browser,0,0
+TXN100596,CUST1203,2606.89,Swiggy,Hyderabad,17,0,0,0,iPhone,0,0
+TXN100597,CUST1189,1820.15,Cash Withdrawal ATM,Chennai,8,0,0,0,Android Phone,0,0
+TXN100598,CUST1203,3075.86,PayU Recharge,Hyderabad,21,0,0,0,iPhone,0,0
+TXN100599,CUST1082,2227.73,Electricity Board,Bangalore,12,0,0,0,Tablet,0,0
+TXN100600,CUST1026,1751.77,Swiggy,Pune,20,0,0,0,Tablet,0,0
+TXN100601,CUST1241,1157.61,Myntra,Mumbai,2,1,0,0,iPhone,0,0
+TXN100602,CUST1040,6855.18,Uber,Bangalore,12,0,0,0,Android Phone,0,0
+TXN100603,CUST1266,4804.11,Swiggy,Hyderabad,19,0,0,0,Tablet,0,0
+TXN100604,CUST1253,1472.11,BigBasket,Gurgaon,21,0,0,0,Android Phone,0,0
+TXN100605,CUST1099,66429.83,Foreign Exchange Kiosk,Lagos,16,0,1,1,iPhone,1,1
+TXN100606,CUST1122,4346.76,Cash Withdrawal ATM,Mumbai,5,0,0,0,Tablet,0,0
+TXN100607,CUST1204,1763.38,Amazon,Jaipur,12,0,0,0,iPhone,0,0
+TXN100608,CUST1035,3970.68,Uber,Pune,9,0,0,0,Tablet,0,0
+TXN100609,CUST1178,5350.37,Zomato,Mumbai,8,0,0,0,Tablet,0,0
+TXN100610,CUST1232,1640.33,Electricity Board,Kolkata,0,1,0,0,Desktop Browser,0,0
+TXN100611,CUST1054,1128.67,Cash Withdrawal ATM,Chennai,9,0,0,0,iPhone,0,0
+TXN100612,CUST1262,3915.09,BigBasket,Hyderabad,17,0,0,0,Android Phone,0,0
+TXN100613,CUST1226,1759.33,Myntra,Gurgaon,15,0,0,0,Tablet,0,0
+TXN100614,CUST1234,1971.76,Flipkart,Delhi,18,0,0,0,Android Phone,0,0
+TXN100615,CUST1132,1073.85,Cash Withdrawal ATM,Bangalore,7,0,0,0,Android Phone,0,0
+TXN100616,CUST1161,2053.17,BigBasket,Bangalore,16,0,0,0,Tablet,0,0
+TXN100617,CUST1127,4658.11,Flipkart,Pune,21,0,0,0,Desktop Browser,0,0
+TXN100618,CUST1283,607.91,Uber,Bangalore,10,0,0,0,Desktop Browser,0,0
+TXN100619,CUST1137,4716.21,PayU Recharge,Gurgaon,21,0,0,0,Desktop Browser,0,0
+TXN100620,CUST1102,383.56,Zomato,Chennai,8,0,0,0,Desktop Browser,0,0
+TXN100621,CUST1182,2294.28,Ola,Chennai,3,1,0,0,Tablet,0,0
+TXN100622,CUST1252,6368.0,Myntra,Delhi,17,0,0,0,Tablet,0,0
+TXN100623,CUST1161,3120.62,Swiggy,Bangalore,18,0,0,0,Tablet,0,0
+TXN100624,CUST1261,785.23,Cash Withdrawal ATM,Hyderabad,18,0,0,0,iPhone,0,0
+TXN100625,CUST1216,3057.87,Ola,Jaipur,1,1,0,0,Android Phone,0,0
+TXN100626,CUST1089,2546.11,Local Kirana Store,Jaipur,22,0,0,0,iPhone,0,0
+TXN100627,CUST1004,47401.76,Unknown Merchant Ltd,Delhi,12,0,0,1,Desktop Browser,1,1
+TXN100628,CUST1132,868.38,Uber,Bangalore,7,0,0,0,Android Phone,0,0
+TXN100629,CUST1175,2532.1,Cash Withdrawal ATM,Delhi,13,0,0,0,Tablet,0,0
+TXN100630,CUST1190,1574.62,Swiggy,Chennai,8,0,0,0,Desktop Browser,0,0
+TXN100631,CUST1294,1884.84,Zomato,Kolkata,3,1,0,0,Android Phone,0,0
+TXN100632,CUST1284,2823.68,Local Kirana Store,Kolkata,6,0,0,0,Tablet,0,0
+TXN100633,CUST1076,1721.31,Ola,Mumbai,5,0,0,0,Android Phone,0,0
+TXN100634,CUST1264,1619.1,Uber,Gurgaon,15,0,0,0,iPhone,0,0
+TXN100635,CUST1024,3467.15,BigBasket,Gurgaon,5,0,0,0,Desktop Browser,0,0
+TXN100636,CUST1243,417.33,Myntra,Jaipur,14,0,0,0,Android Phone,0,0
+TXN100637,CUST1184,2162.51,Flipkart,Jaipur,8,0,0,0,iPhone,0,0
+TXN100638,CUST1179,3994.05,Ola,Jaipur,19,0,0,0,iPhone,0,0
+TXN100639,CUST1275,3821.82,Electricity Board,Hyderabad,9,0,0,0,Android Phone,0,0
+TXN100640,CUST1249,5233.11,PayU Recharge,Pune,2,1,0,0,Tablet,0,0
+TXN100641,CUST1074,5639.4,Uber,Delhi,10,0,0,0,Desktop Browser,0,0
+TXN100642,CUST1207,1042.72,Myntra,Jaipur,2,1,0,0,Android Phone,0,0
+TXN100643,CUST1162,480.75,BigBasket,Jaipur,8,0,0,0,Tablet,0,0
+TXN100644,CUST1227,4002.04,PayU Recharge,Gurgaon,11,0,0,0,Desktop Browser,0,0
+TXN100645,CUST1211,4675.36,Ola,Hyderabad,0,1,0,0,Android Phone,0,0
+TXN100646,CUST1128,1910.73,IRCTC,Delhi,23,0,0,0,Desktop Browser,0,0
+TXN100647,CUST1052,1109.87,Cash Withdrawal ATM,Gurgaon,15,0,0,0,Android Phone,0,0
+TXN100648,CUST1203,2756.12,Flipkart,Hyderabad,3,1,0,0,iPhone,0,0
+TXN100649,CUST1199,3694.36,Swiggy,Chennai,23,0,0,0,Desktop Browser,0,0
+TXN100650,CUST1067,1817.46,Myntra,Gurgaon,0,1,0,0,Desktop Browser,0,0
+TXN100651,CUST1243,386.21,PayU Recharge,Jaipur,17,0,0,0,Android Phone,0,0
+TXN100652,CUST1069,3604.11,PayU Recharge,Bangalore,17,0,0,0,iPhone,0,0
+TXN100653,CUST1288,1209.63,Myntra,Jaipur,20,0,0,0,Android Phone,0,0
+TXN100654,CUST1246,3218.55,IRCTC,Jaipur,2,1,0,0,Tablet,0,0
+TXN100655,CUST1133,1269.34,Swiggy,Chennai,0,1,0,0,Desktop Browser,0,0
+TXN100656,CUST1176,4904.78,Cash Withdrawal ATM,Kolkata,0,1,0,0,iPhone,0,0
+TXN100657,CUST1244,1797.56,Zomato,Chennai,13,0,0,0,Android Phone,0,0
+TXN100658,CUST1003,2232.47,IRCTC,Gurgaon,13,0,0,0,iPhone,0,0
+TXN100659,CUST1127,4684.03,Zomato,Pune,20,0,0,0,Android Phone,0,0
+TXN100660,CUST1134,2579.66,Uber,Pune,7,0,0,0,Desktop Browser,0,0
+TXN100661,CUST1139,2830.8,Zomato,Mumbai,17,0,0,0,iPhone,0,0
+TXN100662,CUST1035,2852.65,PayU Recharge,Pune,3,1,0,0,Tablet,0,0
+TXN100663,CUST1139,1912.41,Amazon,Mumbai,6,0,0,0,iPhone,0,0
+TXN100664,CUST1273,5892.38,Foreign Exchange Kiosk,Kolkata,1,1,0,1,Desktop Browser,1,1
+TXN100665,CUST1119,1924.61,BigBasket,Gurgaon,15,0,0,0,Tablet,0,0
+TXN100666,CUST1255,1915.85,Flipkart,Pune,22,0,0,0,iPhone,0,0
+TXN100667,CUST1074,38504.42,Foreign Exchange Kiosk,Delhi,12,0,0,1,Desktop Browser,0,1
+TXN100668,CUST1195,851.18,PayU Recharge,Delhi,22,0,0,0,Android Phone,0,0
+TXN100669,CUST1126,4082.74,Flipkart,Kolkata,6,0,0,0,iPhone,0,0
+TXN100670,CUST1266,3925.93,BigBasket,Hyderabad,15,0,0,0,Tablet,0,0
+TXN100671,CUST1165,4141.21,Electricity Board,Kolkata,1,1,0,0,Android Phone,0,0
+TXN100672,CUST1062,3951.94,Amazon,Gurgaon,9,0,0,0,Tablet,0,0
+TXN100673,CUST1111,1670.46,Swiggy,Gurgaon,20,0,0,0,Desktop Browser,0,0
+TXN100674,CUST1141,1753.79,Uber,Gurgaon,7,0,0,0,iPhone,0,0
+TXN100675,CUST1243,294.74,Swiggy,Jaipur,11,0,0,0,Android Phone,0,0
+TXN100676,CUST1255,5295.16,Cash Withdrawal ATM,Pune,10,0,0,0,iPhone,0,0
+TXN100677,CUST1030,4029.14,Crypto Exchange XYZ,Mumbai,4,1,0,1,iPhone,0,1
+TXN100678,CUST1162,355.87,PayU Recharge,Jaipur,20,0,0,0,Tablet,0,0
+TXN100679,CUST1098,9776.66,Foreign Exchange Kiosk,Lagos,11,0,1,1,Tablet,1,1
+TXN100680,CUST1224,322.13,Swiggy,Pune,22,0,0,0,Android Phone,0,0
+TXN100681,CUST1278,5243.62,Uber,Mumbai,14,0,0,0,Android Phone,0,0
+TXN100682,CUST1283,673.14,BigBasket,Bangalore,4,1,0,0,Desktop Browser,0,0
+TXN100683,CUST1277,3300.81,Swiggy,Mumbai,20,0,0,0,Tablet,0,0
+TXN100684,CUST1009,814.13,Flipkart,Kolkata,19,0,0,0,Tablet,0,0
+TXN100685,CUST1275,4620.65,Electricity Board,Hyderabad,16,0,0,0,Android Phone,0,0
+TXN100686,CUST1078,4062.44,Flipkart,Gurgaon,13,0,0,0,iPhone,0,0
+TXN100687,CUST1267,5846.96,Zomato,Bangalore,4,1,0,0,Desktop Browser,0,0
+TXN100688,CUST1054,890.57,IRCTC,Chennai,1,1,0,0,iPhone,0,0
+TXN100689,CUST1250,2289.69,Zomato,Hyderabad,18,0,0,0,Tablet,0,0
+TXN100690,CUST1036,28294.45,Crypto Exchange XYZ,Kolkata,6,0,0,1,iPhone,1,1
+TXN100691,CUST1239,5257.42,IRCTC,Kolkata,11,0,0,0,iPhone,0,0
+TXN100692,CUST1188,3040.76,Local Kirana Store,Kolkata,19,0,0,0,Android Phone,0,0
+TXN100693,CUST1036,892.69,Local Kirana Store,Kolkata,6,0,0,0,Tablet,0,0
+TXN100694,CUST1118,1326.94,Uber,Jaipur,6,0,0,0,Desktop Browser,0,0
+TXN100695,CUST1091,891.92,Ola,Jaipur,13,0,0,0,Desktop Browser,0,0
+TXN100696,CUST1295,3957.68,Flipkart,Delhi,22,0,0,0,Desktop Browser,0,0
+TXN100697,CUST1085,1986.58,Swiggy,Jaipur,12,0,0,0,iPhone,0,0
+TXN100698,CUST1273,698.59,Myntra,Kolkata,11,0,0,0,iPhone,0,0
+TXN100699,CUST1190,2839.11,Uber,Chennai,13,0,0,0,Desktop Browser,0,0
+TXN100700,CUST1123,2793.63,Local Kirana Store,Mumbai,12,0,0,0,Tablet,0,0
+TXN100701,CUST1130,2005.28,Amazon,Chennai,14,0,0,0,iPhone,0,0
+TXN100702,CUST1145,3277.93,BigBasket,Bangalore,4,1,0,0,iPhone,0,0
+TXN100703,CUST1113,3286.34,Local Kirana Store,Mumbai,0,1,0,0,Desktop Browser,0,0
+TXN100704,CUST1141,1702.55,Swiggy,Gurgaon,17,0,0,0,iPhone,0,0
+TXN100705,CUST1048,28923.69,Unknown Merchant Ltd,Gurgaon,2,1,0,1,Tablet,1,1
+TXN100706,CUST1119,2056.94,Zomato,Gurgaon,2,1,0,0,Desktop Browser,0,0
+TXN100707,CUST1039,1434.98,Local Kirana Store,Gurgaon,15,0,0,0,Android Phone,0,0
+TXN100708,CUST1295,3416.88,Local Kirana Store,Delhi,19,0,0,0,Tablet,0,0
+TXN100709,CUST1295,5425.48,Myntra,Delhi,1,1,0,0,Tablet,0,0
+TXN100710,CUST1222,1034.1,Local Kirana Store,Jaipur,3,1,0,0,Android Phone,0,0
+TXN100711,CUST1005,2926.19,Amazon,Jaipur,12,0,0,0,iPhone,0,0
+TXN100712,CUST1163,1062.42,Swiggy,Delhi,10,0,0,0,Android Phone,0,0
+TXN100713,CUST1025,3768.35,Electricity Board,Hyderabad,14,0,0,0,Android Phone,0,0
+TXN100714,CUST1046,1498.92,Flipkart,Bangalore,12,0,0,0,Desktop Browser,0,0
+TXN100715,CUST1243,381.28,IRCTC,Jaipur,17,0,0,0,Android Phone,0,0
+TXN100716,CUST1256,2502.03,Electricity Board,Gurgaon,4,1,0,0,iPhone,0,0
+TXN100717,CUST1101,1320.09,Local Kirana Store,Kolkata,18,0,0,0,Tablet,0,0
+TXN100718,CUST1268,2714.86,Ola,Jaipur,8,0,0,0,Android Phone,0,0
+TXN100719,CUST1294,2118.18,Zomato,Kolkata,13,0,0,0,Android Phone,0,0
+TXN100720,CUST1164,1358.53,Myntra,Hyderabad,0,1,0,0,iPhone,0,0
+TXN100721,CUST1226,3120.11,Zomato,Gurgaon,1,1,0,0,Tablet,0,0
+TXN100722,CUST1191,5891.73,Zomato,Pune,2,1,0,0,iPhone,0,0
+TXN100723,CUST1075,1255.63,Cash Withdrawal ATM,Jaipur,9,0,0,0,Tablet,0,0
+TXN100724,CUST1056,3457.84,Electricity Board,Bangalore,0,1,0,0,Tablet,0,0
+TXN100725,CUST1108,1066.58,Local Kirana Store,Bangalore,8,0,0,0,Desktop Browser,0,0
+TXN100726,CUST1072,2147.6,Ola,Pune,0,1,0,0,Android Phone,0,0
+TXN100727,CUST1269,17107.23,Crypto Exchange XYZ,Dubai,1,1,1,1,Desktop Browser,1,1
+TXN100728,CUST1238,2875.4,Ola,Hyderabad,2,1,0,0,Tablet,0,0
+TXN100729,CUST1184,5754.95,IRCTC,Jaipur,9,0,0,0,iPhone,0,0
+TXN100730,CUST1118,1610.24,PayU Recharge,Jaipur,22,0,0,0,Desktop Browser,0,0
+TXN100731,CUST1272,3153.42,Local Kirana Store,Pune,16,0,0,0,Tablet,0,0
+TXN100732,CUST1011,56706.57,Unknown Merchant Ltd,Hyderabad,2,1,0,1,Desktop Browser,1,1
+TXN100733,CUST1009,795.91,Electricity Board,Kolkata,11,0,0,0,Android Phone,0,0
+TXN100734,CUST1141,1059.28,Amazon,Gurgaon,8,0,0,0,iPhone,0,0
+TXN100735,CUST1284,3034.66,Ola,Kolkata,4,1,0,0,iPhone,0,0
+TXN100736,CUST1070,4368.58,Ola,Pune,16,0,0,0,Desktop Browser,0,0
+TXN100737,CUST1116,754.39,Uber,Pune,4,1,0,0,iPhone,0,0
+TXN100738,CUST1168,2948.95,Electricity Board,Delhi,6,0,0,0,Tablet,0,0
+TXN100739,CUST1103,1457.39,Swiggy,Gurgaon,22,0,0,0,Android Phone,0,0
+TXN100740,CUST1220,2725.62,Swiggy,Mumbai,4,1,0,0,Tablet,0,0
+TXN100741,CUST1162,287.34,Swiggy,Jaipur,23,0,0,0,Tablet,0,0
+TXN100742,CUST1015,685.26,Local Kirana Store,Pune,13,0,0,0,Desktop Browser,0,0
+TXN100743,CUST1140,2742.41,Cash Withdrawal ATM,Jaipur,3,1,0,0,iPhone,0,0
+TXN100744,CUST1136,2877.48,Ola,Mumbai,7,0,0,0,Android Phone,0,0
+TXN100745,CUST1013,4940.46,Uber,Chennai,15,0,0,0,Desktop Browser,0,0
+TXN100746,CUST1240,3146.05,PayU Recharge,Chennai,5,0,0,0,Android Phone,0,0
+TXN100747,CUST1070,4965.84,Amazon,Pune,1,1,0,0,Tablet,0,0
+TXN100748,CUST1138,2095.45,Cash Withdrawal ATM,Gurgaon,23,0,0,0,Android Phone,0,0
+TXN100749,CUST1104,3942.1,Local Kirana Store,Jaipur,14,0,0,0,Tablet,0,0
+TXN100750,CUST1166,2682.03,Amazon,Chennai,7,0,0,0,Android Phone,0,0
+TXN100751,CUST1194,4394.93,Electricity Board,Gurgaon,19,0,0,0,Android Phone,0,0
+TXN100752,CUST1268,1778.59,PayU Recharge,Jaipur,1,1,0,0,Android Phone,0,0
+TXN100753,CUST1021,1790.33,Local Kirana Store,Jaipur,16,0,0,0,Android Phone,0,0
+TXN100754,CUST1020,2282.02,PayU Recharge,Hyderabad,20,0,0,0,Android Phone,0,0
+TXN100755,CUST1203,1642.89,BigBasket,Hyderabad,9,0,0,0,iPhone,0,0
+TXN100756,CUST1027,6137.46,PayU Recharge,Jaipur,4,1,0,0,Tablet,0,0
+TXN100757,CUST1046,2573.6,Local Kirana Store,Bangalore,5,0,0,0,Desktop Browser,0,0
+TXN100758,CUST1279,229.39,PayU Recharge,Pune,10,0,0,0,Desktop Browser,0,0
+TXN100759,CUST1103,1241.77,Local Kirana Store,Gurgaon,8,0,0,0,Android Phone,0,0
+TXN100760,CUST1083,332.92,Ola,Mumbai,2,1,0,0,Tablet,0,0
+TXN100761,CUST1185,3666.63,Electricity Board,Pune,12,0,0,0,iPhone,0,0
+TXN100762,CUST1081,1445.76,Myntra,Chennai,1,1,0,0,Android Phone,0,0
+TXN100763,CUST1289,3627.37,Swiggy,Chennai,4,1,0,0,iPhone,0,0
+TXN100764,CUST1026,1962.08,BigBasket,Pune,23,0,0,0,Tablet,0,0
+TXN100765,CUST1092,3376.66,BigBasket,Gurgaon,6,0,0,0,Tablet,0,0
+TXN100766,CUST1006,330.79,Uber,Pune,15,0,0,0,Android Phone,0,0
+TXN100767,CUST1252,4505.46,PayU Recharge,Delhi,21,0,0,0,Desktop Browser,0,0
+TXN100768,CUST1040,4836.62,Uber,Bangalore,7,0,0,0,Android Phone,0,0
+TXN100769,CUST1285,1362.63,Ola,Bangalore,1,1,0,0,Tablet,0,0
+TXN100770,CUST1178,48198.8,Crypto Exchange XYZ,Mumbai,1,1,0,1,iPhone,1,1
+TXN100771,CUST1055,3275.57,Ola,Pune,5,0,0,0,Android Phone,0,0
+TXN100772,CUST1293,2824.73,Amazon,Pune,14,0,0,0,Android Phone,0,0
+TXN100773,CUST1047,1700.75,Flipkart,Kolkata,11,0,0,0,Android Phone,0,0
+TXN100774,CUST1218,1672.03,Local Kirana Store,Hyderabad,9,0,0,0,iPhone,0,0
+TXN100775,CUST1140,4789.3,Uber,Jaipur,16,0,0,0,iPhone,0,0
+TXN100776,CUST1029,1982.42,PayU Recharge,Gurgaon,20,0,0,0,iPhone,0,0
+TXN100777,CUST1147,2511.18,Uber,Gurgaon,10,0,0,0,iPhone,0,0
+TXN100778,CUST1181,4298.06,Ola,Kolkata,18,0,0,0,Android Phone,0,0
+TXN100779,CUST1254,5175.17,Zomato,Bangalore,19,0,0,0,Tablet,0,0
+TXN100780,CUST1000,1363.14,Zomato,Pune,20,0,0,0,iPhone,0,0
+TXN100781,CUST1212,2962.11,Zomato,Delhi,11,0,0,0,Desktop Browser,0,0
+TXN100782,CUST1005,4691.15,BigBasket,Jaipur,9,0,0,0,iPhone,0,0
+TXN100783,CUST1153,841.94,Myntra,Kolkata,0,1,0,0,Desktop Browser,0,0
+TXN100784,CUST1202,1159.38,Myntra,Jaipur,0,1,0,0,Android Phone,0,0
+TXN100785,CUST1173,1231.25,Swiggy,Hyderabad,15,0,0,0,Tablet,0,0
+TXN100786,CUST1246,3327.08,Cash Withdrawal ATM,Jaipur,17,0,0,0,Tablet,0,0
+TXN100787,CUST1211,4055.3,Ola,Hyderabad,16,0,0,0,Android Phone,0,0
+TXN100788,CUST1161,4775.17,Cash Withdrawal ATM,Bangalore,6,0,0,0,Desktop Browser,0,0
+TXN100789,CUST1181,2238.89,IRCTC,Kolkata,8,0,0,0,Android Phone,0,0
+TXN100790,CUST1273,589.08,Flipkart,Kolkata,19,0,0,0,iPhone,0,0
+TXN100791,CUST1157,2802.08,Flipkart,Kolkata,22,0,0,0,Android Phone,0,0
+TXN100792,CUST1254,6212.01,Zomato,Bangalore,14,0,0,0,Tablet,0,0
+TXN100793,CUST1268,1568.66,Zomato,Jaipur,11,0,0,0,Android Phone,0,0
+TXN100794,CUST1047,1935.11,Zomato,Kolkata,15,0,0,0,Android Phone,0,0
+TXN100795,CUST1174,1965.6,Swiggy,Mumbai,16,0,0,0,Desktop Browser,0,0
+TXN100796,CUST1050,3328.77,Zomato,Mumbai,16,0,0,0,iPhone,0,0
+TXN100797,CUST1018,1203.31,Amazon,Gurgaon,16,0,0,0,iPhone,0,0
+TXN100798,CUST1044,781.76,Ola,Hyderabad,1,1,0,0,Tablet,0,0
+TXN100799,CUST1159,36995.78,Foreign Exchange Kiosk,Lagos,9,0,1,1,Android Phone,1,1
+TXN100800,CUST1141,737.48,Swiggy,Gurgaon,14,0,0,0,iPhone,0,0
+TXN100801,CUST1080,2830.24,Zomato,Jaipur,19,0,0,0,Android Phone,0,0
+TXN100802,CUST1277,5419.51,Cash Withdrawal ATM,Mumbai,8,0,0,0,Tablet,0,0
+TXN100803,CUST1145,4551.02,Myntra,Bangalore,2,1,0,0,iPhone,0,0
+TXN100804,CUST1276,2979.19,Amazon,Mumbai,0,1,0,0,iPhone,0,0
+TXN100805,CUST1054,529.61,Uber,Chennai,13,0,0,0,Android Phone,0,0
+TXN100806,CUST1228,991.37,Cash Withdrawal ATM,Gurgaon,10,0,0,0,iPhone,0,0
+TXN100807,CUST1273,541.45,Cash Withdrawal ATM,Kolkata,14,0,0,0,Android Phone,0,0
+TXN100808,CUST1239,5116.79,PayU Recharge,Kolkata,21,0,0,0,iPhone,0,0
+TXN100809,CUST1240,4947.76,BigBasket,Chennai,4,1,0,0,Android Phone,0,0
+TXN100810,CUST1186,3201.33,Myntra,Mumbai,21,0,0,0,iPhone,0,0
+TXN100811,CUST1232,2069.0,PayU Recharge,Kolkata,15,0,0,0,Desktop Browser,0,0
+TXN100812,CUST1087,2377.2,Flipkart,Bangalore,19,0,0,0,Tablet,0,0
+TXN100813,CUST1207,1305.4,Flipkart,Jaipur,3,1,0,0,Android Phone,0,0
+TXN100814,CUST1154,2503.77,Zomato,Kolkata,18,0,0,0,Android Phone,0,0
+TXN100815,CUST1280,2188.38,Local Kirana Store,Delhi,12,0,0,0,Android Phone,0,0
+TXN100816,CUST1220,1601.87,Local Kirana Store,Mumbai,18,0,0,0,Tablet,0,0
+TXN100817,CUST1120,304.77,Uber,Kolkata,2,1,0,0,iPhone,0,0
+TXN100818,CUST1249,4957.86,PayU Recharge,Pune,14,0,0,0,Desktop Browser,0,0
+TXN100819,CUST1090,697.01,Uber,Pune,2,1,0,0,Tablet,0,0
+TXN100820,CUST1194,2421.19,Swiggy,Gurgaon,21,0,0,0,Android Phone,0,0
+TXN100821,CUST1297,1457.07,Swiggy,Gurgaon,0,1,0,0,Android Phone,0,0
+TXN100822,CUST1231,3825.58,Zomato,Mumbai,19,0,0,0,Desktop Browser,0,0
+TXN100823,CUST1162,595.77,IRCTC,Jaipur,21,0,0,0,Tablet,0,0
+TXN100824,CUST1176,5126.67,IRCTC,Kolkata,0,1,0,0,iPhone,0,0
+TXN100825,CUST1065,1050.98,Amazon,Jaipur,11,0,0,0,Tablet,0,0
+TXN100826,CUST1000,3002.91,Amazon,Pune,11,0,0,0,iPhone,0,0
+TXN100827,CUST1120,174.26,IRCTC,Kolkata,12,0,0,0,Android Phone,0,0
+TXN100828,CUST1207,832.33,Swiggy,Jaipur,6,0,0,0,Android Phone,0,0
+TXN100829,CUST1096,2150.92,BigBasket,Bangalore,11,0,0,0,Tablet,0,0
+TXN100830,CUST1064,526.14,PayU Recharge,Gurgaon,20,0,0,0,Android Phone,0,0
+TXN100831,CUST1223,4443.32,IRCTC,Kolkata,2,1,0,0,Desktop Browser,0,0
+TXN100832,CUST1233,3504.72,Swiggy,Hyderabad,19,0,0,0,Tablet,0,0
+TXN100833,CUST1232,2078.4,Swiggy,Kolkata,14,0,0,0,Desktop Browser,0,0
+TXN100834,CUST1217,5514.49,Local Kirana Store,Gurgaon,15,0,0,0,Tablet,0,0
+TXN100835,CUST1256,3416.73,Amazon,Gurgaon,17,0,0,0,iPhone,0,0
+TXN100836,CUST1290,3869.2,Local Kirana Store,Pune,3,1,0,0,Android Phone,0,0
+TXN100837,CUST1040,6851.58,Cash Withdrawal ATM,Bangalore,16,0,0,0,Android Phone,0,0
+TXN100838,CUST1143,4246.02,Zomato,Chennai,16,0,0,0,Desktop Browser,0,0
+TXN100839,CUST1241,1796.24,Electricity Board,Mumbai,21,0,0,0,iPhone,0,0
+TXN100840,CUST1296,3945.53,PayU Recharge,Gurgaon,10,0,0,0,Tablet,0,0
+TXN100841,CUST1232,2020.58,Myntra,Kolkata,18,0,0,0,Desktop Browser,0,0
+TXN100842,CUST1150,2298.45,BigBasket,Bangalore,22,0,0,0,Android Phone,0,0
+TXN100843,CUST1288,999.6,Amazon,Jaipur,15,0,0,0,Android Phone,0,0
+TXN100844,CUST1149,4553.53,Swiggy,Chennai,0,1,0,0,Tablet,0,0
+TXN100845,CUST1258,487.69,BigBasket,Bangalore,8,0,0,0,Tablet,0,0
+TXN100846,CUST1140,4420.81,Uber,Jaipur,23,0,0,0,iPhone,0,0
+TXN100847,CUST1077,2726.65,Zomato,Mumbai,5,0,0,0,Desktop Browser,0,0
+TXN100848,CUST1248,5670.64,Swiggy,Hyderabad,1,1,0,0,Tablet,0,0
+TXN100849,CUST1078,4364.61,Ola,Gurgaon,13,0,0,0,iPhone,0,0
+TXN100850,CUST1225,4837.46,Myntra,Pune,6,0,0,0,iPhone,0,0
+TXN100851,CUST1027,3080.98,IRCTC,Jaipur,3,1,0,0,Desktop Browser,0,0
+TXN100852,CUST1243,439.9,Local Kirana Store,Jaipur,17,0,0,0,Android Phone,0,0
+TXN100853,CUST1199,3661.35,BigBasket,Chennai,16,0,0,0,Desktop Browser,0,0
+TXN100854,CUST1229,1141.4,Flipkart,Bangalore,16,0,0,0,Tablet,0,0
+TXN100855,CUST1272,4215.84,BigBasket,Pune,13,0,0,0,Tablet,0,0
+TXN100856,CUST1171,1671.49,IRCTC,Delhi,3,1,0,0,Desktop Browser,0,0
+TXN100857,CUST1236,2820.74,Cash Withdrawal ATM,Delhi,7,0,0,0,Tablet,0,0
+TXN100858,CUST1099,3797.16,Amazon,Bangalore,22,0,0,0,iPhone,0,0
+TXN100859,CUST1004,4918.19,Ola,Delhi,13,0,0,0,Tablet,0,0
+TXN100860,CUST1228,984.17,Amazon,Gurgaon,9,0,0,0,iPhone,0,0
+TXN100861,CUST1047,37262.94,Unknown Merchant Ltd,Lagos,21,0,1,1,Desktop Browser,1,1
+TXN100862,CUST1061,1266.25,Ola,Chennai,4,1,0,0,iPhone,0,0
+TXN100863,CUST1289,1813.3,BigBasket,Chennai,3,1,0,0,iPhone,0,0
+TXN100864,CUST1239,6015.16,BigBasket,Kolkata,20,0,0,0,iPhone,0,0
+TXN100865,CUST1218,1744.28,Flipkart,Hyderabad,10,0,0,0,Desktop Browser,0,0
+TXN100866,CUST1141,1786.17,BigBasket,Gurgaon,12,0,0,0,iPhone,0,0
+TXN100867,CUST1135,404.99,IRCTC,Delhi,15,0,0,0,Desktop Browser,0,0
+TXN100868,CUST1091,1868.81,Zomato,Jaipur,4,1,0,0,Android Phone,0,0
+TXN100869,CUST1054,417.19,Flipkart,Chennai,8,0,0,0,Android Phone,0,0
+TXN100870,CUST1292,6821.96,Swiggy,Kolkata,14,0,0,0,Tablet,0,0
+TXN100871,CUST1000,1437.45,Myntra,Pune,12,0,0,0,iPhone,0,0
+TXN100872,CUST1200,2068.54,IRCTC,Pune,22,0,0,0,Desktop Browser,0,0
+TXN100873,CUST1206,1942.37,IRCTC,Bangalore,2,1,0,0,Desktop Browser,0,0
+TXN100874,CUST1246,4708.43,IRCTC,Jaipur,11,0,0,0,Tablet,0,0
+TXN100875,CUST1028,4309.47,Myntra,Kolkata,20,0,0,0,iPhone,0,0
+TXN100876,CUST1041,2954.51,Electricity Board,Chennai,9,0,0,0,Tablet,0,0
+TXN100877,CUST1020,3955.98,Flipkart,Hyderabad,6,0,0,0,Android Phone,0,0
+TXN100878,CUST1183,5526.84,Swiggy,Bangalore,20,0,0,0,Android Phone,0,0
+TXN100879,CUST1018,2361.3,Flipkart,Gurgaon,18,0,0,0,Tablet,0,0
+TXN100880,CUST1276,2784.9,Amazon,Mumbai,17,0,0,0,Android Phone,0,0
+TXN100881,CUST1018,2161.45,Zomato,Gurgaon,23,0,0,0,Tablet,0,0
+TXN100882,CUST1267,5283.16,Zomato,Bangalore,17,0,0,0,Tablet,0,0
+TXN100883,CUST1036,18042.1,Unknown Merchant Ltd,Kolkata,15,0,0,1,Desktop Browser,1,1
+TXN100884,CUST1023,2343.46,Amazon,Chennai,4,1,0,0,Android Phone,0,0
+TXN100885,CUST1157,2435.94,Uber,Kolkata,14,0,0,0,Android Phone,0,0
+TXN100886,CUST1032,3641.89,Uber,Kolkata,3,1,0,0,Desktop Browser,0,0
+TXN100887,CUST1112,4543.11,Local Kirana Store,Gurgaon,13,0,0,0,iPhone,0,0
+TXN100888,CUST1205,2746.49,Myntra,Gurgaon,21,0,0,0,iPhone,0,0
+TXN100889,CUST1109,2283.86,BigBasket,Delhi,5,0,0,0,Android Phone,0,0
+TXN100890,CUST1072,2088.91,PayU Recharge,Pune,22,0,0,0,Tablet,0,0
+TXN100891,CUST1124,3707.9,Ola,Kolkata,4,1,0,0,iPhone,0,0
+TXN100892,CUST1192,456.22,Swiggy,Gurgaon,15,0,0,0,iPhone,0,0
+TXN100893,CUST1045,1493.07,Cash Withdrawal ATM,Bangalore,9,0,0,0,Desktop Browser,0,0
+TXN100894,CUST1243,385.47,PayU Recharge,Jaipur,4,1,0,0,Android Phone,0,0
+TXN100895,CUST1210,2635.42,Swiggy,Delhi,19,0,0,0,Tablet,0,0
+TXN100896,CUST1255,4621.15,Myntra,Pune,20,0,0,0,iPhone,0,0
+TXN100897,CUST1214,20597.26,Unknown Merchant Ltd,Delhi,6,0,0,1,Tablet,1,1
+TXN100898,CUST1259,2113.0,Amazon,Kolkata,20,0,0,0,Desktop Browser,0,0
+TXN100899,CUST1099,6856.77,PayU Recharge,Bangalore,21,0,0,0,iPhone,0,0
+TXN100900,CUST1254,4902.29,BigBasket,Bangalore,1,1,0,0,Tablet,0,0
+TXN100901,CUST1107,4965.36,PayU Recharge,Chennai,19,0,0,0,Tablet,0,0
+TXN100902,CUST1022,1366.1,Amazon,Delhi,17,0,0,0,Tablet,0,0
+TXN100903,CUST1248,3610.16,Uber,Hyderabad,7,0,0,0,Tablet,0,0
+TXN100904,CUST1166,2447.33,Cash Withdrawal ATM,Chennai,21,0,0,0,Desktop Browser,0,0
+TXN100905,CUST1056,4450.73,Zomato,Bangalore,7,0,0,0,iPhone,0,0
+TXN100906,CUST1192,886.95,IRCTC,Gurgaon,15,0,0,0,Android Phone,0,0
+TXN100907,CUST1074,4423.34,Swiggy,Delhi,14,0,0,0,Desktop Browser,0,0
+TXN100908,CUST1234,2625.57,Swiggy,Delhi,11,0,0,0,Android Phone,0,0
+TXN100909,CUST1016,2024.61,PayU Recharge,Mumbai,8,0,0,0,iPhone,0,0
+TXN100910,CUST1234,5183.78,Uber,Delhi,10,0,0,0,Android Phone,0,0
+TXN100911,CUST1080,1869.79,Electricity Board,Jaipur,19,0,0,0,Android Phone,0,0
+TXN100912,CUST1117,4128.83,Zomato,Kolkata,16,0,0,0,Android Phone,0,0
+TXN100913,CUST1242,2376.89,Zomato,Hyderabad,0,1,0,0,Android Phone,0,0
+TXN100914,CUST1126,4717.82,Swiggy,Kolkata,7,0,0,0,iPhone,0,0
+TXN100915,CUST1293,3904.15,Local Kirana Store,Pune,1,1,0,0,Android Phone,0,0
+TXN100916,CUST1258,9087.48,Crypto Exchange XYZ,Bangalore,12,0,0,1,Tablet,0,1
+TXN100917,CUST1042,2465.09,Zomato,Chennai,22,0,0,0,Android Phone,0,0
+TXN100918,CUST1067,805.88,Ola,Gurgaon,20,0,0,0,Desktop Browser,0,0
+TXN100919,CUST1156,3338.76,PayU Recharge,Delhi,18,0,0,0,Android Phone,0,0
+TXN100920,CUST1237,2776.77,Myntra,Bangalore,22,0,0,0,iPhone,0,0
+TXN100921,CUST1237,3587.3,Local Kirana Store,Bangalore,20,0,0,0,iPhone,0,0
+TXN100922,CUST1170,1712.78,Uber,Delhi,13,0,0,0,iPhone,0,0
+TXN100923,CUST1277,4207.31,Myntra,Mumbai,21,0,0,0,Tablet,0,0
+TXN100924,CUST1028,6912.13,Flipkart,Kolkata,21,0,0,0,iPhone,0,0
+TXN100925,CUST1196,1900.09,Ola,Kolkata,1,1,0,0,Tablet,0,0
+TXN100926,CUST1286,2793.48,Myntra,Pune,22,0,0,0,Tablet,0,0
+TXN100927,CUST1122,4179.29,Uber,Mumbai,15,0,0,0,Tablet,0,0
+TXN100928,CUST1107,3045.89,BigBasket,Chennai,7,0,0,0,iPhone,0,0
+TXN100929,CUST1257,1537.03,PayU Recharge,Kolkata,1,1,0,0,iPhone,0,0
+TXN100930,CUST1248,4622.74,Ola,Hyderabad,3,1,0,0,Tablet,0,0
+TXN100931,CUST1272,3864.61,Local Kirana Store,Pune,19,0,0,0,Android Phone,0,0
+TXN100932,CUST1033,1310.6,Swiggy,Jaipur,14,0,0,0,Tablet,0,0
+TXN100933,CUST1147,1900.28,Local Kirana Store,Gurgaon,3,1,0,0,iPhone,0,0
+TXN100934,CUST1075,2162.18,Amazon,Jaipur,6,0,0,0,Tablet,0,0
+TXN100935,CUST1150,1323.47,Myntra,Bangalore,17,0,0,0,Android Phone,0,0
+TXN100936,CUST1215,618.09,Amazon,Pune,0,1,0,0,iPhone,0,0
+TXN100937,CUST1118,1045.71,Myntra,Jaipur,20,0,0,0,Desktop Browser,0,0
+TXN100938,CUST1167,3040.76,PayU Recharge,Kolkata,22,0,0,0,iPhone,0,0
+TXN100939,CUST1234,4820.57,Zomato,Delhi,9,0,0,0,Android Phone,0,0
+TXN100940,CUST1247,3793.83,PayU Recharge,Gurgaon,1,1,0,0,iPhone,0,0
+TXN100941,CUST1085,1862.6,Swiggy,Jaipur,22,0,0,0,iPhone,0,0
+TXN100942,CUST1078,5310.3,PayU Recharge,Gurgaon,1,1,0,0,iPhone,0,0
+TXN100943,CUST1133,515.97,Myntra,Chennai,17,0,0,0,Desktop Browser,0,0
+TXN100944,CUST1176,3565.03,Flipkart,Kolkata,17,0,0,0,Tablet,0,0
+TXN100945,CUST1012,6742.12,Swiggy,Mumbai,4,1,0,0,Tablet,0,0
+TXN100946,CUST1002,527.73,BigBasket,Kolkata,16,0,0,0,Tablet,0,0
+TXN100947,CUST1242,1657.18,Uber,Hyderabad,18,0,0,0,Android Phone,0,0
+TXN100948,CUST1226,3314.21,Swiggy,Gurgaon,23,0,0,0,Tablet,0,0
+TXN100949,CUST1282,6484.48,PayU Recharge,Kolkata,12,0,0,0,Tablet,0,0
+TXN100950,CUST1182,2756.96,Electricity Board,Chennai,19,0,0,0,Tablet,0,0
+TXN100951,CUST1113,1299.06,Electricity Board,Mumbai,8,0,0,0,Desktop Browser,0,0
+TXN100952,CUST1228,1270.08,PayU Recharge,Gurgaon,2,1,0,0,iPhone,0,0
+TXN100953,CUST1162,490.04,IRCTC,Jaipur,1,1,0,0,Tablet,0,0
+TXN100954,CUST1075,1299.65,BigBasket,Jaipur,11,0,0,0,Tablet,0,0
+TXN100955,CUST1176,3659.5,Zomato,Kolkata,14,0,0,0,Tablet,0,0
+TXN100956,CUST1227,2444.08,Local Kirana Store,Gurgaon,14,0,0,0,Desktop Browser,0,0
+TXN100957,CUST1217,4870.57,Flipkart,Gurgaon,4,1,0,0,Tablet,0,0
+TXN100958,CUST1073,395.71,Uber,Jaipur,16,0,0,0,Desktop Browser,0,0
+TXN100959,CUST1192,696.77,Swiggy,Gurgaon,20,0,0,0,Android Phone,0,0
+TXN100960,CUST1284,1490.01,IRCTC,Kolkata,4,1,0,0,Tablet,0,0
+TXN100961,CUST1148,2300.64,PayU Recharge,Pune,9,0,0,0,iPhone,0,0
+TXN100962,CUST1286,1991.7,BigBasket,Pune,0,1,0,0,Tablet,0,0
+TXN100963,CUST1153,443.17,Ola,Kolkata,20,0,0,0,Desktop Browser,0,0
+TXN100964,CUST1147,1823.89,Flipkart,Gurgaon,22,0,0,0,iPhone,0,0
+TXN100965,CUST1141,1487.21,Uber,Gurgaon,2,1,0,0,iPhone,0,0
+TXN100966,CUST1246,4724.68,Local Kirana Store,Jaipur,8,0,0,0,Tablet,0,0
+TXN100967,CUST1061,1473.08,Swiggy,Chennai,18,0,0,0,iPhone,0,0
+TXN100968,CUST1297,23342.84,Foreign Exchange Kiosk,Lagos,14,0,1,1,Desktop Browser,1,1
+TXN100969,CUST1184,3285.8,Electricity Board,Jaipur,11,0,0,0,iPhone,0,0
+TXN100970,CUST1039,1836.33,Uber,Gurgaon,20,0,0,0,Android Phone,0,0
+TXN100971,CUST1085,3190.33,Cash Withdrawal ATM,Jaipur,10,0,0,0,iPhone,0,0
+TXN100972,CUST1154,2019.88,Uber,Kolkata,22,0,0,0,Android Phone,0,0
+TXN100973,CUST1180,2340.35,Cash Withdrawal ATM,Jaipur,4,1,0,0,Desktop Browser,0,0
+TXN100974,CUST1248,2743.01,Electricity Board,Hyderabad,5,0,0,0,Tablet,0,0
+TXN100975,CUST1113,2957.48,Electricity Board,Mumbai,17,0,0,0,Desktop Browser,0,0
+TXN100976,CUST1272,2855.54,Flipkart,Pune,3,1,0,0,Android Phone,0,0
+TXN100977,CUST1059,3025.56,Local Kirana Store,Kolkata,0,1,0,0,Android Phone,0,0
+TXN100978,CUST1185,3588.59,Myntra,Pune,19,0,0,0,iPhone,0,0
+TXN100979,CUST1088,2804.1,Swiggy,Pune,23,0,0,0,Android Phone,0,0
+TXN100980,CUST1072,1249.72,Flipkart,Pune,4,1,0,0,Android Phone,0,0
+TXN100981,CUST1217,2324.25,PayU Recharge,Gurgaon,3,1,0,0,Tablet,0,0
+TXN100982,CUST1220,22892.92,Foreign Exchange Kiosk,Mumbai,1,1,0,1,Android Phone,1,1
+TXN100983,CUST1022,1238.34,Flipkart,Delhi,0,1,0,0,iPhone,0,0
+TXN100984,CUST1105,1821.43,Flipkart,Bangalore,5,0,0,0,Tablet,0,0
+TXN100985,CUST1074,4226.47,Swiggy,Delhi,8,0,0,0,Desktop Browser,0,0
+TXN100986,CUST1256,4217.8,Flipkart,Gurgaon,7,0,0,0,iPhone,0,0
+TXN100987,CUST1296,2134.12,BigBasket,Gurgaon,6,0,0,0,Tablet,0,0
+TXN100988,CUST1087,2268.42,Zomato,Bangalore,0,1,0,0,Tablet,0,0
+TXN100989,CUST1258,839.91,PayU Recharge,Bangalore,11,0,0,0,Tablet,0,0
+TXN100990,CUST1054,557.13,Zomato,Chennai,12,0,0,0,iPhone,0,0
+TXN100991,CUST1208,2888.63,Swiggy,Delhi,3,1,0,0,Desktop Browser,0,0
+TXN100992,CUST1253,1379.79,Flipkart,Gurgaon,9,0,0,0,Desktop Browser,0,0
+TXN100993,CUST1167,2493.48,BigBasket,Kolkata,9,0,0,0,iPhone,0,0
+TXN100994,CUST1227,3416.75,Flipkart,Gurgaon,9,0,0,0,Desktop Browser,0,0
+TXN100995,CUST1243,749.36,PayU Recharge,Jaipur,5,0,0,0,Android Phone,0,0
+TXN100996,CUST1053,1213.89,Swiggy,Delhi,21,0,0,0,iPhone,0,0
+TXN100997,CUST1202,2445.8,Swiggy,Jaipur,3,1,0,0,Android Phone,0,0
+TXN100998,CUST1033,2473.52,IRCTC,Jaipur,10,0,0,0,Tablet,0,0
+TXN100999,CUST1062,3575.73,Local Kirana Store,Gurgaon,23,0,0,0,Tablet,0,0
+TXN101000,CUST1297,1928.79,Ola,Gurgaon,20,0,0,0,Android Phone,0,0
+TXN101001,CUST1207,1567.25,Flipkart,Jaipur,8,0,0,0,Android Phone,0,0
+TXN101002,CUST1062,6624.96,Amazon,Gurgaon,7,0,0,0,Tablet,0,0
+TXN101003,CUST1050,2627.18,Swiggy,Mumbai,2,1,0,0,iPhone,0,0
+TXN101004,CUST1195,1079.33,Flipkart,Delhi,4,1,0,0,Android Phone,0,0
+TXN101005,CUST1039,1402.66,BigBasket,Gurgaon,15,0,0,0,Tablet,0,0
+TXN101006,CUST1254,5607.2,Electricity Board,Bangalore,17,0,0,0,Tablet,0,0
+TXN101007,CUST1279,4699.69,Foreign Exchange Kiosk,Pune,1,1,0,1,Android Phone,1,1
+TXN101008,CUST1192,952.06,Cash Withdrawal ATM,Gurgaon,1,1,0,0,iPhone,0,0
+TXN101009,CUST1155,3119.14,Local Kirana Store,Delhi,15,0,0,0,Desktop Browser,0,0
+TXN101010,CUST1199,3880.0,Electricity Board,Chennai,18,0,0,0,Desktop Browser,0,0
+TXN101011,CUST1276,1393.35,Amazon,Mumbai,17,0,0,0,Android Phone,0,0
+TXN101012,CUST1200,2456.51,Cash Withdrawal ATM,Pune,12,0,0,0,Desktop Browser,0,0
+TXN101013,CUST1145,2568.07,Myntra,Bangalore,18,0,0,0,iPhone,0,0
+TXN101014,CUST1178,6728.53,Myntra,Mumbai,0,1,0,0,Tablet,0,0
+TXN101015,CUST1194,3490.2,Ola,Gurgaon,11,0,0,0,Android Phone,0,0
+TXN101016,CUST1125,2773.21,Local Kirana Store,Pune,9,0,0,0,Tablet,0,0
+TXN101017,CUST1033,1174.03,Myntra,Jaipur,10,0,0,0,Tablet,0,0
+TXN101018,CUST1019,4642.53,IRCTC,Bangalore,13,0,0,0,Android Phone,0,0
+TXN101019,CUST1136,41917.63,Foreign Exchange Kiosk,Mumbai,3,1,0,1,Android Phone,0,1
+TXN101020,CUST1293,3076.44,Myntra,Pune,3,1,0,0,Android Phone,0,0
+TXN101021,CUST1254,2854.5,BigBasket,Bangalore,21,0,0,0,Tablet,0,0
+TXN101022,CUST1186,3346.78,Cash Withdrawal ATM,Mumbai,15,0,0,0,iPhone,0,0
+TXN101023,CUST1038,2023.07,BigBasket,Mumbai,6,0,0,0,iPhone,0,0
+TXN101024,CUST1293,3816.89,Local Kirana Store,Pune,19,0,0,0,Android Phone,0,0
+TXN101025,CUST1296,3291.0,Electricity Board,Gurgaon,8,0,0,0,Tablet,0,0
+TXN101026,CUST1243,661.87,Electricity Board,Jaipur,2,1,0,0,Android Phone,0,0
+TXN101027,CUST1153,649.16,BigBasket,Kolkata,10,0,0,0,Desktop Browser,0,0
+TXN101028,CUST1263,4543.15,Ola,Jaipur,17,0,0,0,Desktop Browser,0,0
+TXN101029,CUST1264,2502.7,Local Kirana Store,Gurgaon,15,0,0,0,Tablet,0,0
+TXN101030,CUST1239,4711.78,Cash Withdrawal ATM,Kolkata,17,0,0,0,iPhone,0,0
+TXN101031,CUST1222,832.13,Myntra,Jaipur,20,0,0,0,Android Phone,0,0
+TXN101032,CUST1236,3046.13,IRCTC,Delhi,23,0,0,0,Tablet,0,0
+TXN101033,CUST1210,3448.84,IRCTC,Delhi,2,1,0,0,Tablet,0,0
+TXN101034,CUST1136,4664.34,Zomato,Mumbai,5,0,0,0,Android Phone,0,0
+TXN101035,CUST1207,921.55,BigBasket,Jaipur,6,0,0,0,Android Phone,0,0
+TXN101036,CUST1237,5698.53,Zomato,Bangalore,13,0,0,0,iPhone,0,0
+TXN101037,CUST1081,2809.12,Ola,Chennai,8,0,0,0,Android Phone,0,0
+TXN101038,CUST1281,1372.29,Amazon,Kolkata,1,1,0,0,Android Phone,0,0
+TXN101039,CUST1028,3973.94,Flipkart,Kolkata,10,0,0,0,iPhone,0,0
+TXN101040,CUST1208,2793.92,Local Kirana Store,Delhi,21,0,0,0,Desktop Browser,0,0
+TXN101041,CUST1071,5998.27,Electricity Board,Jaipur,23,0,0,0,Tablet,0,0
+TXN101042,CUST1297,2245.0,Flipkart,Gurgaon,16,0,0,0,Android Phone,0,0
+TXN101043,CUST1121,2416.85,Local Kirana Store,Jaipur,10,0,0,0,Android Phone,0,0
+TXN101044,CUST1199,3614.88,Swiggy,Chennai,7,0,0,0,Desktop Browser,0,0
+TXN101045,CUST1054,708.53,Uber,Chennai,8,0,0,0,iPhone,0,0
+TXN101046,CUST1028,4066.12,IRCTC,Kolkata,22,0,0,0,iPhone,0,0
+TXN101047,CUST1243,642.14,Swiggy,Jaipur,8,0,0,0,Android Phone,0,0
+TXN101048,CUST1185,3252.93,Uber,Pune,9,0,0,0,iPhone,0,0
+TXN101049,CUST1017,2171.54,Ola,Chennai,1,1,0,0,Android Phone,0,0
+TXN101050,CUST1122,4235.44,Myntra,Mumbai,9,0,0,0,Tablet,0,0
+TXN101051,CUST1062,2332.63,IRCTC,Gurgaon,14,0,0,0,Tablet,0,0
+TXN101052,CUST1130,2847.94,Swiggy,Chennai,7,0,0,0,iPhone,0,0
+TXN101053,CUST1224,602.11,BigBasket,Pune,20,0,0,0,Android Phone,0,0
+TXN101054,CUST1041,5197.63,Myntra,Chennai,15,0,0,0,Tablet,0,0
+TXN101055,CUST1216,2383.18,BigBasket,Jaipur,3,1,0,0,Android Phone,0,0
+TXN101056,CUST1259,3919.27,Local Kirana Store,Kolkata,19,0,0,0,Android Phone,0,0
+TXN101057,CUST1167,2586.85,Ola,Kolkata,1,1,0,0,iPhone,0,0
+TXN101058,CUST1227,2577.68,BigBasket,Gurgaon,0,1,0,0,Desktop Browser,0,0
+TXN101059,CUST1160,3001.33,Cash Withdrawal ATM,Kolkata,5,0,0,0,Desktop Browser,0,0
+TXN101060,CUST1066,460.61,PayU Recharge,Jaipur,13,0,0,0,Tablet,0,0
+TXN101061,CUST1244,2691.99,Myntra,Chennai,8,0,0,0,Android Phone,0,0
+TXN101062,CUST1144,3301.46,IRCTC,Jaipur,11,0,0,0,Tablet,0,0
+TXN101063,CUST1292,5170.92,Uber,Kolkata,0,1,0,0,Tablet,0,0
+TXN101064,CUST1117,2308.96,Swiggy,Kolkata,14,0,0,0,Android Phone,0,0
+TXN101065,CUST1025,2234.07,Myntra,Hyderabad,19,0,0,0,Android Phone,0,0
+TXN101066,CUST1087,3886.9,Cash Withdrawal ATM,Bangalore,0,1,0,0,Tablet,0,0
+TXN101067,CUST1232,2948.96,Zomato,Kolkata,3,1,0,0,Desktop Browser,0,0
+TXN101068,CUST1136,3660.04,Zomato,Mumbai,12,0,0,0,Android Phone,0,0
+TXN101069,CUST1110,2112.21,Swiggy,Hyderabad,23,0,0,0,Desktop Browser,0,0
+TXN101070,CUST1209,3104.48,PayU Recharge,Bangalore,9,0,0,0,iPhone,0,0
+TXN101071,CUST1127,2065.31,PayU Recharge,Pune,20,0,0,0,Android Phone,0,0
+TXN101072,CUST1068,2315.55,Local Kirana Store,Hyderabad,22,0,0,0,iPhone,0,0
+TXN101073,CUST1196,1256.71,Electricity Board,Kolkata,19,0,0,0,Tablet,0,0
+TXN101074,CUST1030,11671.39,Unknown Merchant Ltd,Mumbai,1,1,0,1,Android Phone,1,1
+TXN101075,CUST1002,679.66,Ola,Kolkata,12,0,0,0,iPhone,0,0
+TXN101076,CUST1189,1824.94,BigBasket,Chennai,17,0,0,0,Android Phone,0,0
+TXN101077,CUST1086,2130.75,Flipkart,Mumbai,10,0,0,0,Tablet,0,0
+TXN101078,CUST1162,259.07,Amazon,Jaipur,4,1,0,0,Tablet,0,0
+TXN101079,CUST1065,862.31,IRCTC,Jaipur,8,0,0,0,Tablet,0,0
+TXN101080,CUST1144,4661.48,BigBasket,Jaipur,19,0,0,0,Tablet,0,0
+TXN101081,CUST1264,2666.69,PayU Recharge,Gurgaon,5,0,0,0,iPhone,0,0
+TXN101082,CUST1077,2760.02,Amazon,Mumbai,21,0,0,0,Android Phone,0,0
+TXN101083,CUST1096,2275.23,Swiggy,Bangalore,5,0,0,0,Tablet,0,0
+TXN101084,CUST1239,3980.75,Local Kirana Store,Kolkata,15,0,0,0,iPhone,0,0
+TXN101085,CUST1287,4892.47,Swiggy,Delhi,3,1,0,0,iPhone,0,0
+TXN101086,CUST1063,2273.43,Local Kirana Store,Kolkata,9,0,0,0,Desktop Browser,0,0
+TXN101087,CUST1260,1793.1,Amazon,Delhi,21,0,0,0,iPhone,0,0
+TXN101088,CUST1269,586.06,Cash Withdrawal ATM,Hyderabad,13,0,0,0,Android Phone,0,0
+TXN101089,CUST1255,2825.77,Ola,Pune,10,0,0,0,iPhone,0,0
+TXN101090,CUST1062,3782.51,Amazon,Gurgaon,3,1,0,0,Tablet,0,0
+TXN101091,CUST1041,4008.94,BigBasket,Chennai,21,0,0,0,iPhone,0,0
+TXN101092,CUST1002,667.41,Myntra,Kolkata,20,0,0,0,iPhone,0,0
+TXN101093,CUST1291,4755.27,Myntra,Kolkata,1,1,0,0,Android Phone,0,0
+TXN101094,CUST1028,2950.9,BigBasket,Kolkata,19,0,0,0,iPhone,0,0
+TXN101095,CUST1091,766.71,Zomato,Jaipur,12,0,0,0,Android Phone,0,0
+TXN101096,CUST1083,345.71,Ola,Mumbai,9,0,0,0,Android Phone,0,0
+TXN101097,CUST1078,6456.0,BigBasket,Gurgaon,13,0,0,0,iPhone,0,0
+TXN101098,CUST1067,1093.2,PayU Recharge,Gurgaon,11,0,0,0,Desktop Browser,0,0
+TXN101099,CUST1198,2174.97,IRCTC,Chennai,19,0,0,0,iPhone,0,0
+TXN101100,CUST1188,1752.16,Electricity Board,Kolkata,20,0,0,0,Android Phone,0,0
+TXN101101,CUST1174,1827.99,Swiggy,Mumbai,7,0,0,0,Desktop Browser,0,0
+TXN101102,CUST1253,892.7,IRCTC,Gurgaon,16,0,0,0,Desktop Browser,0,0
+TXN101103,CUST1040,6853.97,Ola,Bangalore,9,0,0,0,Android Phone,0,0
+TXN101104,CUST1153,758.66,Electricity Board,Kolkata,13,0,0,0,Desktop Browser,0,0
+TXN101105,CUST1039,1342.97,Flipkart,Gurgaon,3,1,0,0,Android Phone,0,0
+TXN101106,CUST1237,3060.2,Flipkart,Bangalore,8,0,0,0,iPhone,0,0
+TXN101107,CUST1257,29571.87,Crypto Exchange XYZ,Dubai,21,0,1,1,iPhone,1,1
+TXN101108,CUST1042,2956.12,PayU Recharge,Chennai,9,0,0,0,Desktop Browser,0,0
+TXN101109,CUST1230,6667.48,Swiggy,Pune,10,0,0,0,Tablet,0,0
+TXN101110,CUST1108,1488.2,Flipkart,Bangalore,19,0,0,0,Desktop Browser,0,0
+TXN101111,CUST1222,417.83,Ola,Jaipur,12,0,0,0,Android Phone,0,0
+TXN101112,CUST1244,2497.98,PayU Recharge,Chennai,21,0,0,0,Android Phone,0,0
+TXN101113,CUST1155,5853.3,Local Kirana Store,Delhi,19,0,0,0,Desktop Browser,0,0
+TXN101114,CUST1202,881.81,Flipkart,Jaipur,4,1,0,0,Android Phone,0,0
+TXN101115,CUST1008,2901.16,Swiggy,Gurgaon,0,1,0,0,Tablet,0,0
+TXN101116,CUST1123,1559.01,Cash Withdrawal ATM,Mumbai,17,0,0,0,Tablet,0,0
+TXN101117,CUST1237,2700.39,Swiggy,Bangalore,0,1,0,0,iPhone,0,0
+TXN101118,CUST1227,3496.12,Zomato,Gurgaon,0,1,0,0,Desktop Browser,0,0
+TXN101119,CUST1103,868.87,Flipkart,Gurgaon,12,0,0,0,Android Phone,0,0
+TXN101120,CUST1221,1602.89,Local Kirana Store,Mumbai,15,0,0,0,iPhone,0,0
+TXN101121,CUST1283,834.24,Uber,Bangalore,15,0,0,0,Desktop Browser,0,0
+TXN101122,CUST1249,4332.5,Myntra,Pune,16,0,0,0,Tablet,0,0
+TXN101123,CUST1283,1175.21,Flipkart,Bangalore,20,0,0,0,Desktop Browser,0,0
+TXN101124,CUST1253,1351.99,Amazon,Gurgaon,11,0,0,0,Android Phone,0,0
+TXN101125,CUST1082,2492.56,Electricity Board,Bangalore,15,0,0,0,Android Phone,0,0
+TXN101126,CUST1112,3817.67,Local Kirana Store,Gurgaon,10,0,0,0,iPhone,0,0
+TXN101127,CUST1239,3764.49,IRCTC,Kolkata,23,0,0,0,iPhone,0,0
+TXN101128,CUST1184,2941.99,Local Kirana Store,Jaipur,5,0,0,0,iPhone,0,0
+TXN101129,CUST1044,502.74,PayU Recharge,Hyderabad,5,0,0,0,Tablet,0,0
+TXN101130,CUST1051,273.32,Electricity Board,Chennai,15,0,0,0,Tablet,0,0
+TXN101131,CUST1024,5703.39,Swiggy,Gurgaon,8,0,0,0,Desktop Browser,0,0
+TXN101132,CUST1257,25117.92,Crypto Exchange XYZ,Kolkata,10,0,0,1,Tablet,1,1
+TXN101133,CUST1287,3430.37,Amazon,Delhi,10,0,0,0,iPhone,0,0
+TXN101134,CUST1285,2134.34,Ola,Bangalore,22,0,0,0,Tablet,0,0
+TXN101135,CUST1053,1986.06,Cash Withdrawal ATM,Delhi,14,0,0,0,iPhone,0,0
+TXN101136,CUST1056,6253.08,Flipkart,Bangalore,19,0,0,0,Tablet,0,0
+TXN101137,CUST1287,72450.86,Foreign Exchange Kiosk,Delhi,5,0,0,1,Android Phone,1,1
+TXN101138,CUST1080,2807.46,Local Kirana Store,Jaipur,14,0,0,0,Desktop Browser,0,0
+TXN101139,CUST1050,1422.23,Zomato,Mumbai,10,0,0,0,iPhone,0,0
+TXN101140,CUST1224,623.36,PayU Recharge,Pune,0,1,0,0,Android Phone,0,0
+TXN101141,CUST1174,1344.42,Cash Withdrawal ATM,Mumbai,2,1,0,0,Desktop Browser,0,0
+TXN101142,CUST1212,2842.27,Electricity Board,Delhi,7,0,0,0,Desktop Browser,0,0
+TXN101143,CUST1215,1271.96,PayU Recharge,Pune,13,0,0,0,iPhone,0,0
+TXN101144,CUST1264,1391.88,Amazon,Gurgaon,0,1,0,0,iPhone,0,0
+TXN101145,CUST1264,1943.96,Cash Withdrawal ATM,Gurgaon,10,0,0,0,iPhone,0,0
+TXN101146,CUST1084,1138.02,Swiggy,Mumbai,1,1,0,0,iPhone,0,0
+TXN101147,CUST1294,27636.89,Unknown Merchant Ltd,Kolkata,3,1,0,1,Android Phone,0,1
+TXN101148,CUST1160,3035.07,Swiggy,Kolkata,8,0,0,0,Desktop Browser,0,0
+TXN101149,CUST1206,3447.6,Ola,Bangalore,17,0,0,0,Tablet,0,0
+TXN101150,CUST1226,3018.87,BigBasket,Gurgaon,20,0,0,0,Tablet,0,0
+TXN101151,CUST1043,62075.75,Crypto Exchange XYZ,Dubai,12,0,1,1,iPhone,0,1
+TXN101152,CUST1047,2432.38,Swiggy,Kolkata,16,0,0,0,iPhone,0,0
+TXN101153,CUST1011,39583.48,Foreign Exchange Kiosk,Hyderabad,4,1,0,1,Desktop Browser,1,1
+TXN101154,CUST1258,868.91,Myntra,Bangalore,11,0,0,0,Tablet,0,0
+TXN101155,CUST1063,23137.86,Crypto Exchange XYZ,Kolkata,4,1,0,1,Tablet,1,1
+TXN101156,CUST1173,2449.81,Ola,Hyderabad,23,0,0,0,Tablet,0,0
+TXN101157,CUST1273,672.35,Cash Withdrawal ATM,Kolkata,11,0,0,0,Android Phone,0,0
+TXN101158,CUST1293,3239.81,Flipkart,Pune,12,0,0,0,Android Phone,0,0
+TXN101159,CUST1167,1355.04,Local Kirana Store,Kolkata,11,0,0,0,Android Phone,0,0
+TXN101160,CUST1217,4143.49,Swiggy,Gurgaon,2,1,0,0,Tablet,0,0
+TXN101161,CUST1243,513.13,Uber,Jaipur,11,0,0,0,Android Phone,0,0
+TXN101162,CUST1286,3959.35,IRCTC,Pune,8,0,0,0,Tablet,0,0
+TXN101163,CUST1225,5773.75,Swiggy,Pune,15,0,0,0,iPhone,0,0
+TXN101164,CUST1073,439.94,Local Kirana Store,Jaipur,22,0,0,0,Desktop Browser,0,0
+TXN101165,CUST1262,2892.09,Amazon,Hyderabad,22,0,0,0,Android Phone,0,0
+TXN101166,CUST1080,3774.32,Flipkart,Jaipur,3,1,0,0,Desktop Browser,0,0
+TXN101167,CUST1061,715.37,Myntra,Chennai,1,1,0,0,iPhone,0,0
+TXN101168,CUST1156,1626.7,Swiggy,Delhi,9,0,0,0,Android Phone,0,0
+TXN101169,CUST1072,2764.8,BigBasket,Pune,1,1,0,0,Android Phone,0,0
+TXN101170,CUST1110,1906.81,Myntra,Hyderabad,15,0,0,0,Tablet,0,0
+TXN101171,CUST1034,921.44,PayU Recharge,Delhi,15,0,0,0,Android Phone,0,0
+TXN101172,CUST1172,1257.19,Cash Withdrawal ATM,Hyderabad,23,0,0,0,Tablet,0,0
+TXN101173,CUST1070,3727.02,Local Kirana Store,Pune,14,0,0,0,Tablet,0,0
+TXN101174,CUST1166,2696.14,Zomato,Chennai,21,0,0,0,Desktop Browser,0,0
+TXN101175,CUST1202,1618.35,BigBasket,Jaipur,21,0,0,0,Android Phone,0,0
+TXN101176,CUST1045,1413.77,Cash Withdrawal ATM,Bangalore,0,1,0,0,Desktop Browser,0,0
+TXN101177,CUST1158,1173.81,Uber,Jaipur,20,0,0,0,iPhone,0,0
+TXN101178,CUST1277,2588.68,PayU Recharge,Mumbai,18,0,0,0,Tablet,0,0
+TXN101179,CUST1257,1817.1,Amazon,Kolkata,21,0,0,0,iPhone,0,0
+TXN101180,CUST1140,5557.56,PayU Recharge,Jaipur,22,0,0,0,iPhone,0,0
+TXN101181,CUST1043,5277.86,PayU Recharge,Gurgaon,10,0,0,0,iPhone,0,0
+TXN101182,CUST1011,6243.51,Myntra,Hyderabad,13,0,0,0,Tablet,0,0
+TXN101183,CUST1195,642.77,Swiggy,Delhi,3,1,0,0,Android Phone,0,0
+TXN101184,CUST1093,6302.39,Ola,Pune,4,1,0,0,Desktop Browser,0,0
+TXN101185,CUST1086,34554.62,Foreign Exchange Kiosk,Mumbai,10,0,0,1,Android Phone,1,1
+TXN101186,CUST1199,3228.46,IRCTC,Chennai,13,0,0,0,Desktop Browser,0,0
+TXN101187,CUST1061,13572.19,Crypto Exchange XYZ,Dubai,19,0,1,1,iPhone,0,1
+TXN101188,CUST1137,1891.46,Amazon,Gurgaon,17,0,0,0,Desktop Browser,0,0
+TXN101189,CUST1208,4988.94,Uber,Delhi,0,1,0,0,Desktop Browser,0,0
+TXN101190,CUST1051,232.71,Uber,Chennai,20,0,0,0,Android Phone,0,0
+TXN101191,CUST1208,3329.46,Swiggy,Delhi,20,0,0,0,Desktop Browser,0,0
+TXN101192,CUST1191,6904.27,Electricity Board,Pune,7,0,0,0,Desktop Browser,0,0
+TXN101193,CUST1231,59760.57,Crypto Exchange XYZ,Mumbai,1,1,0,1,Desktop Browser,0,1
+TXN101194,CUST1030,439.27,Ola,Mumbai,8,0,0,0,iPhone,0,0
+TXN101195,CUST1194,4449.15,Electricity Board,Gurgaon,20,0,0,0,Android Phone,0,0
+TXN101196,CUST1144,35137.88,Foreign Exchange Kiosk,Jaipur,17,0,0,1,Tablet,0,1
+TXN101197,CUST1062,6330.44,Zomato,Gurgaon,17,0,0,0,Tablet,0,0
+TXN101198,CUST1258,875.22,Cash Withdrawal ATM,Bangalore,21,0,0,0,Android Phone,0,0
+TXN101199,CUST1231,2870.21,Uber,Mumbai,10,0,0,0,Desktop Browser,0,0
+TXN101200,CUST1168,65260.66,Crypto Exchange XYZ,Delhi,4,1,0,1,Tablet,0,1
+TXN101201,CUST1004,5739.56,PayU Recharge,Delhi,17,0,0,0,Tablet,0,0
+TXN101202,CUST1201,1607.82,Amazon,Gurgaon,20,0,0,0,Desktop Browser,0,0
+TXN101203,CUST1227,4055.03,IRCTC,Gurgaon,12,0,0,0,Desktop Browser,0,0
+TXN101204,CUST1090,715.35,Myntra,Pune,22,0,0,0,Tablet,0,0
+TXN101205,CUST1098,1404.4,Ola,Delhi,23,0,0,0,Android Phone,0,0
+TXN101206,CUST1183,3593.42,Local Kirana Store,Bangalore,19,0,0,0,iPhone,0,0
+TXN101207,CUST1113,1940.96,Local Kirana Store,Mumbai,11,0,0,0,Tablet,0,0
+TXN101208,CUST1107,64470.11,Unknown Merchant Ltd,Chennai,20,0,0,1,Android Phone,1,1
+TXN101209,CUST1256,4882.17,Ola,Gurgaon,6,0,0,0,iPhone,0,0
+TXN101210,CUST1289,1497.38,BigBasket,Chennai,4,1,0,0,iPhone,0,0
+TXN101211,CUST1291,5331.61,Zomato,Kolkata,16,0,0,0,Android Phone,0,0
+TXN101212,CUST1011,5117.58,Ola,Hyderabad,21,0,0,0,Android Phone,0,0
+TXN101213,CUST1286,4650.17,Ola,Pune,13,0,0,0,Tablet,0,0
+TXN101214,CUST1026,2007.93,BigBasket,Pune,13,0,0,0,Tablet,0,0
+TXN101215,CUST1062,4672.26,Amazon,Gurgaon,15,0,0,0,Tablet,0,0
+TXN101216,CUST1114,33849.37,Foreign Exchange Kiosk,Jaipur,13,0,0,1,Tablet,1,1
+TXN101217,CUST1099,2452.96,Local Kirana Store,Bangalore,18,0,0,0,iPhone,0,0
+TXN101218,CUST1115,857.98,Swiggy,Delhi,2,1,0,0,Tablet,0,0
+TXN101219,CUST1168,2437.72,IRCTC,Delhi,20,0,0,0,Tablet,0,0
+TXN101220,CUST1012,3543.43,Flipkart,Mumbai,10,0,0,0,Tablet,0,0
+TXN101221,CUST1242,2134.82,Cash Withdrawal ATM,Hyderabad,1,1,0,0,Android Phone,0,0
+TXN101222,CUST1121,1702.49,Flipkart,Jaipur,19,0,0,0,Android Phone,0,0
+TXN101223,CUST1228,757.35,Myntra,Gurgaon,1,1,0,0,iPhone,0,0
+TXN101224,CUST1033,1810.52,Ola,Jaipur,14,0,0,0,Tablet,0,0
+TXN101225,CUST1221,820.57,IRCTC,Mumbai,1,1,0,0,iPhone,0,0
+TXN101226,CUST1205,3583.39,Cash Withdrawal ATM,Gurgaon,13,0,0,0,iPhone,0,0
+TXN101227,CUST1005,4073.09,Flipkart,Jaipur,13,0,0,0,iPhone,0,0
+TXN101228,CUST1173,2338.57,Uber,Hyderabad,0,1,0,0,Tablet,0,0
+TXN101229,CUST1098,633.38,Cash Withdrawal ATM,Delhi,19,0,0,0,iPhone,0,0
+TXN101230,CUST1099,3531.1,IRCTC,Bangalore,20,0,0,0,iPhone,0,0
+TXN101231,CUST1246,2540.49,Amazon,Jaipur,5,0,0,0,Tablet,0,0
+TXN101232,CUST1030,853.95,Cash Withdrawal ATM,Mumbai,13,0,0,0,iPhone,0,0
+TXN101233,CUST1183,2888.52,PayU Recharge,Bangalore,17,0,0,0,iPhone,0,0
+TXN101234,CUST1158,2041.47,Ola,Jaipur,11,0,0,0,iPhone,0,0
+TXN101235,CUST1074,56484.62,Crypto Exchange XYZ,Delhi,17,0,0,1,iPhone,1,1
+TXN101236,CUST1102,362.6,PayU Recharge,Chennai,2,1,0,0,Desktop Browser,0,0
+TXN101237,CUST1239,6185.84,Uber,Kolkata,18,0,0,0,iPhone,0,0
+TXN101238,CUST1153,977.03,Amazon,Kolkata,3,1,0,0,Desktop Browser,0,0
+TXN101239,CUST1253,1347.15,PayU Recharge,Gurgaon,20,0,0,0,Desktop Browser,0,0
+TXN101240,CUST1109,5028.53,Zomato,Delhi,10,0,0,0,Android Phone,0,0
+TXN101241,CUST1204,1444.66,Amazon,Jaipur,11,0,0,0,iPhone,0,0
+TXN101242,CUST1284,2457.26,Cash Withdrawal ATM,Kolkata,14,0,0,0,Tablet,0,0
+TXN101243,CUST1184,31666.75,Foreign Exchange Kiosk,Jaipur,2,1,0,1,Android Phone,1,1
+TXN101244,CUST1173,1198.91,BigBasket,Hyderabad,5,0,0,0,Tablet,0,0
+TXN101245,CUST1051,3748.18,Crypto Exchange XYZ,Chennai,4,1,0,1,Android Phone,0,1
+TXN101246,CUST1156,2068.46,Electricity Board,Delhi,11,0,0,0,Android Phone,0,0
+TXN101247,CUST1222,1125.54,Swiggy,Jaipur,3,1,0,0,Android Phone,0,0
+TXN101248,CUST1097,3859.91,IRCTC,Hyderabad,22,0,0,0,iPhone,0,0
+TXN101249,CUST1125,3267.03,Electricity Board,Pune,19,0,0,0,Tablet,0,0
+TXN101250,CUST1150,2365.09,BigBasket,Bangalore,7,0,0,0,Android Phone,0,0
+TXN101251,CUST1064,808.01,Local Kirana Store,Gurgaon,18,0,0,0,Android Phone,0,0
+TXN101252,CUST1041,2373.6,Electricity Board,Chennai,21,0,0,0,iPhone,0,0
+TXN101253,CUST1198,3679.8,PayU Recharge,Chennai,16,0,0,0,iPhone,0,0
+TXN101254,CUST1091,1448.4,PayU Recharge,Jaipur,16,0,0,0,Desktop Browser,0,0
+TXN101255,CUST1242,3305.29,Ola,Hyderabad,20,0,0,0,Android Phone,0,0
+TXN101256,CUST1018,3253.88,IRCTC,Gurgaon,6,0,0,0,iPhone,0,0
+TXN101257,CUST1111,1331.51,Myntra,Gurgaon,12,0,0,0,Desktop Browser,0,0
+TXN101258,CUST1130,3786.52,Myntra,Chennai,2,1,0,0,iPhone,0,0
+TXN101259,CUST1117,2535.05,PayU Recharge,Kolkata,16,0,0,0,Android Phone,0,0
+TXN101260,CUST1239,3268.33,Amazon,Kolkata,15,0,0,0,iPhone,0,0
+TXN101261,CUST1091,1265.44,Flipkart,Jaipur,20,0,0,0,Android Phone,0,0
+TXN101262,CUST1150,1210.66,BigBasket,Bangalore,17,0,0,0,Android Phone,0,0
+TXN101263,CUST1116,536.61,Myntra,Pune,11,0,0,0,iPhone,0,0
+TXN101264,CUST1100,6539.67,Ola,Chennai,9,0,0,0,iPhone,0,0
+TXN101265,CUST1140,5015.8,Local Kirana Store,Jaipur,4,1,0,0,iPhone,0,0
+TXN101266,CUST1278,5069.73,Cash Withdrawal ATM,Mumbai,9,0,0,0,Android Phone,0,0
+TXN101267,CUST1206,3091.61,PayU Recharge,Bangalore,18,0,0,0,Desktop Browser,0,0
+TXN101268,CUST1262,2716.75,Zomato,Hyderabad,4,1,0,0,Android Phone,0,0
+TXN101269,CUST1107,3759.94,PayU Recharge,Chennai,18,0,0,0,Tablet,0,0
+TXN101270,CUST1236,1655.65,Cash Withdrawal ATM,Delhi,10,0,0,0,Tablet,0,0
+TXN101271,CUST1213,3045.71,Uber,Mumbai,17,0,0,0,iPhone,0,0
+TXN101272,CUST1065,1313.02,Myntra,Jaipur,0,1,0,0,Tablet,0,0
+TXN101273,CUST1173,2076.84,Cash Withdrawal ATM,Hyderabad,21,0,0,0,Tablet,0,0
+TXN101274,CUST1275,5953.78,Swiggy,Hyderabad,0,1,0,0,Android Phone,0,0
+TXN101275,CUST1078,6420.38,Uber,Gurgaon,18,0,0,0,iPhone,0,0
+TXN101276,CUST1293,3792.68,Flipkart,Pune,12,0,0,0,Android Phone,0,0
+TXN101277,CUST1273,916.57,PayU Recharge,Kolkata,3,1,0,0,iPhone,0,0
+TXN101278,CUST1155,3331.26,Local Kirana Store,Delhi,21,0,0,0,Desktop Browser,0,0
+TXN101279,CUST1250,38602.79,Crypto Exchange XYZ,Hyderabad,2,1,0,1,Tablet,1,1
+TXN101280,CUST1149,4016.65,Amazon,Chennai,14,0,0,0,Tablet,0,0
+TXN101281,CUST1087,2489.51,Flipkart,Bangalore,13,0,0,0,Tablet,0,0
+TXN101282,CUST1066,284.48,Zomato,Jaipur,23,0,0,0,Desktop Browser,0,0
+TXN101283,CUST1066,387.09,PayU Recharge,Jaipur,13,0,0,0,Tablet,0,0
+TXN101284,CUST1081,1514.91,Local Kirana Store,Chennai,9,0,0,0,Android Phone,0,0
+TXN101285,CUST1234,2108.68,IRCTC,Delhi,4,1,0,0,Android Phone,0,0
+TXN101286,CUST1126,3275.12,PayU Recharge,Kolkata,18,0,0,0,iPhone,0,0
+TXN101287,CUST1294,24973.83,Unknown Merchant Ltd,Kolkata,9,0,0,1,Tablet,1,1
+TXN101288,CUST1152,2179.98,Uber,Kolkata,5,0,0,0,Tablet,0,0
+TXN101289,CUST1221,1781.0,Flipkart,Mumbai,21,0,0,0,Android Phone,0,0
+TXN101290,CUST1201,3815.58,BigBasket,Gurgaon,7,0,0,0,Android Phone,0,0
+TXN101291,CUST1275,5681.32,Zomato,Hyderabad,2,1,0,0,Android Phone,0,0
+TXN101292,CUST1252,7063.87,Flipkart,Delhi,17,0,0,0,Desktop Browser,0,0
+TXN101293,CUST1053,1973.19,BigBasket,Delhi,10,0,0,0,iPhone,0,0
+TXN101294,CUST1106,4073.73,Ola,Bangalore,0,1,0,0,Desktop Browser,0,0
+TXN101295,CUST1236,1671.43,Amazon,Delhi,12,0,0,0,Tablet,0,0
+TXN101296,CUST1005,4255.19,PayU Recharge,Jaipur,4,1,0,0,iPhone,0,0
+TXN101297,CUST1248,2836.3,PayU Recharge,Hyderabad,17,0,0,0,Tablet,0,0
+TXN101298,CUST1071,5602.94,Uber,Jaipur,5,0,0,0,Tablet,0,0
+TXN101299,CUST1051,331.4,Flipkart,Chennai,17,0,0,0,Android Phone,0,0
+TXN101300,CUST1005,2464.99,Local Kirana Store,Jaipur,14,0,0,0,iPhone,0,0
+TXN101301,CUST1017,1833.41,Ola,Chennai,6,0,0,0,Tablet,0,0
+TXN101302,CUST1267,2566.09,Local Kirana Store,Bangalore,21,0,0,0,Desktop Browser,0,0
+TXN101303,CUST1157,4621.39,Cash Withdrawal ATM,Kolkata,0,1,0,0,Android Phone,0,0
+TXN101304,CUST1103,616.22,IRCTC,Gurgaon,7,0,0,0,Android Phone,0,0
+TXN101305,CUST1014,672.15,Zomato,Mumbai,6,0,0,0,iPhone,0,0
+TXN101306,CUST1049,4636.56,Amazon,Chennai,21,0,0,0,Android Phone,0,0
+TXN101307,CUST1212,2408.74,Zomato,Delhi,10,0,0,0,Desktop Browser,0,0
+TXN101308,CUST1106,2619.82,Flipkart,Bangalore,13,0,0,0,Desktop Browser,0,0
+TXN101309,CUST1182,3237.21,IRCTC,Chennai,12,0,0,0,Tablet,0,0
+TXN101310,CUST1108,844.63,Uber,Bangalore,21,0,0,0,Desktop Browser,0,0
+TXN101311,CUST1188,48796.44,Foreign Exchange Kiosk,Kolkata,1,1,0,1,iPhone,1,1
+TXN101312,CUST1274,2491.18,Flipkart,Jaipur,18,0,0,0,Tablet,0,0
+TXN101313,CUST1166,4222.38,Cash Withdrawal ATM,Chennai,12,0,0,0,Android Phone,0,0
+TXN101314,CUST1068,2883.62,Ola,Hyderabad,22,0,0,0,Android Phone,0,0
+TXN101315,CUST1246,4322.79,IRCTC,Jaipur,19,0,0,0,Tablet,0,0
+TXN101316,CUST1261,1706.96,Amazon,Hyderabad,16,0,0,0,iPhone,0,0
+TXN101317,CUST1119,36733.05,Unknown Merchant Ltd,Lagos,3,1,1,1,Desktop Browser,1,1
+TXN101318,CUST1040,33596.22,Unknown Merchant Ltd,Lagos,15,0,1,1,Android Phone,1,1
+TXN101319,CUST1019,5669.59,Myntra,Bangalore,19,0,0,0,Android Phone,0,0
+TXN101320,CUST1068,2520.26,IRCTC,Hyderabad,1,1,0,0,Android Phone,0,0
+TXN101321,CUST1147,2063.84,Zomato,Gurgaon,23,0,0,0,iPhone,0,0
+TXN101322,CUST1276,29978.77,Unknown Merchant Ltd,Dubai,21,0,1,1,Tablet,1,1
+TXN101323,CUST1164,2312.34,Flipkart,Hyderabad,0,1,0,0,iPhone,0,0
+TXN101324,CUST1098,8487.33,Unknown Merchant Ltd,Delhi,6,0,0,1,Android Phone,1,1
+TXN101325,CUST1104,3412.81,Swiggy,Jaipur,13,0,0,0,Tablet,0,0
+TXN101326,CUST1101,999.06,Uber,Kolkata,19,0,0,0,Tablet,0,0
+TXN101327,CUST1229,1004.53,Flipkart,Bangalore,8,0,0,0,Tablet,0,0
+TXN101328,CUST1184,3838.42,Uber,Jaipur,15,0,0,0,iPhone,0,0
+TXN101329,CUST1221,1875.23,IRCTC,Mumbai,15,0,0,0,Android Phone,0,0
+TXN101330,CUST1042,2820.14,Electricity Board,Chennai,9,0,0,0,Desktop Browser,0,0
+TXN101331,CUST1089,2077.11,Electricity Board,Jaipur,9,0,0,0,iPhone,0,0
+TXN101332,CUST1246,2771.73,Zomato,Jaipur,22,0,0,0,Tablet,0,0
+TXN101333,CUST1002,5691.03,Foreign Exchange Kiosk,Kolkata,4,1,0,1,iPhone,0,1
+TXN101334,CUST1191,2715.08,Amazon,Pune,20,0,0,0,iPhone,0,0
+TXN101335,CUST1063,2150.81,BigBasket,Kolkata,5,0,0,0,Desktop Browser,0,0
+TXN101336,CUST1178,4198.52,Amazon,Mumbai,20,0,0,0,Tablet,0,0
+TXN101337,CUST1197,3985.21,Myntra,Chennai,7,0,0,0,Tablet,0,0
+TXN101338,CUST1014,635.63,Ola,Mumbai,4,1,0,0,iPhone,0,0
+TXN101339,CUST1075,1997.52,Amazon,Jaipur,18,0,0,0,Tablet,0,0
+TXN101340,CUST1059,3154.47,Local Kirana Store,Kolkata,22,0,0,0,Android Phone,0,0
+TXN101341,CUST1041,5587.61,BigBasket,Chennai,13,0,0,0,Tablet,0,0
+TXN101342,CUST1154,2992.65,BigBasket,Kolkata,21,0,0,0,Android Phone,0,0
+TXN101343,CUST1210,2886.66,Ola,Delhi,23,0,0,0,Tablet,0,0
+TXN101344,CUST1293,3269.18,Local Kirana Store,Pune,4,1,0,0,Android Phone,0,0
+TXN101345,CUST1203,2444.6,Flipkart,Hyderabad,5,0,0,0,iPhone,0,0
+TXN101346,CUST1035,3447.4,Local Kirana Store,Pune,16,0,0,0,Desktop Browser,0,0
+TXN101347,CUST1220,1206.5,PayU Recharge,Mumbai,5,0,0,0,Tablet,0,0
+TXN101348,CUST1093,5704.37,Swiggy,Pune,14,0,0,0,Desktop Browser,0,0
+TXN101349,CUST1102,6107.36,Unknown Merchant Ltd,Chennai,6,0,0,1,Desktop Browser,0,1
+TXN101350,CUST1055,2445.91,Flipkart,Pune,2,1,0,0,Android Phone,0,0
+TXN101351,CUST1141,1167.61,Ola,Gurgaon,18,0,0,0,iPhone,0,0
+TXN101352,CUST1051,2400.38,Unknown Merchant Ltd,Chennai,0,1,0,1,Tablet,1,1
+TXN101353,CUST1003,2075.37,Cash Withdrawal ATM,Gurgaon,8,0,0,0,Desktop Browser,0,0
+TXN101354,CUST1172,1580.6,Myntra,Hyderabad,11,0,0,0,Tablet,0,0
+TXN101355,CUST1122,3225.79,Myntra,Mumbai,12,0,0,0,Tablet,0,0
+TXN101356,CUST1169,913.11,Local Kirana Store,Gurgaon,14,0,0,0,Tablet,0,0
+TXN101357,CUST1071,44063.71,Unknown Merchant Ltd,Dubai,16,0,1,1,Desktop Browser,1,1
+TXN101358,CUST1211,3130.88,Ola,Hyderabad,20,0,0,0,Android Phone,0,0
+TXN101359,CUST1184,4900.19,Zomato,Jaipur,23,0,0,0,iPhone,0,0
+TXN101360,CUST1248,3545.57,PayU Recharge,Hyderabad,2,1,0,0,Tablet,0,0
+TXN101361,CUST1051,450.84,Electricity Board,Chennai,19,0,0,0,Tablet,0,0
+TXN101362,CUST1292,3067.1,Cash Withdrawal ATM,Kolkata,16,0,0,0,iPhone,0,0
+TXN101363,CUST1044,740.57,PayU Recharge,Hyderabad,17,0,0,0,Tablet,0,0
+TXN101364,CUST1059,2538.42,Cash Withdrawal ATM,Kolkata,7,0,0,0,Android Phone,0,0
+TXN101365,CUST1045,1787.68,Myntra,Bangalore,0,1,0,0,Desktop Browser,0,0
+TXN101366,CUST1196,2556.89,Ola,Kolkata,23,0,0,0,Tablet,0,0
+TXN101367,CUST1063,2086.88,Flipkart,Kolkata,17,0,0,0,Desktop Browser,0,0
+TXN101368,CUST1170,3168.06,Flipkart,Delhi,18,0,0,0,iPhone,0,0
+TXN101369,CUST1175,3374.95,Ola,Delhi,23,0,0,0,Tablet,0,0
+TXN101370,CUST1287,3044.73,BigBasket,Delhi,7,0,0,0,iPhone,0,0
+TXN101371,CUST1044,1100.9,Local Kirana Store,Hyderabad,23,0,0,0,Tablet,0,0
+TXN101372,CUST1059,3841.36,Amazon,Kolkata,10,0,0,0,Android Phone,0,0
+TXN101373,CUST1159,3348.31,IRCTC,Pune,6,0,0,0,iPhone,0,0
+TXN101374,CUST1163,1150.05,Electricity Board,Delhi,21,0,0,0,Android Phone,0,0
+TXN101375,CUST1113,2388.06,Swiggy,Mumbai,17,0,0,0,Tablet,0,0
+TXN101376,CUST1151,1263.77,BigBasket,Bangalore,21,0,0,0,Tablet,0,0
+TXN101377,CUST1074,5477.92,BigBasket,Delhi,22,0,0,0,Desktop Browser,0,0
+TXN101378,CUST1257,2124.69,PayU Recharge,Kolkata,8,0,0,0,iPhone,0,0
+TXN101379,CUST1110,4538.22,Myntra,Hyderabad,12,0,0,0,Tablet,0,0
+TXN101380,CUST1078,6476.09,Local Kirana Store,Gurgaon,23,0,0,0,iPhone,0,0
+TXN101381,CUST1026,1326.22,IRCTC,Pune,5,0,0,0,Tablet,0,0
+TXN101382,CUST1153,744.04,Myntra,Kolkata,5,0,0,0,Desktop Browser,0,0
+TXN101383,CUST1216,2063.71,Local Kirana Store,Jaipur,12,0,0,0,Android Phone,0,0
+TXN101384,CUST1144,5011.35,IRCTC,Jaipur,6,0,0,0,Tablet,0,0
+TXN101385,CUST1049,4943.61,Local Kirana Store,Chennai,18,0,0,0,Android Phone,0,0
+TXN101386,CUST1155,4630.3,PayU Recharge,Delhi,18,0,0,0,Desktop Browser,0,0
+TXN101387,CUST1149,5772.52,Local Kirana Store,Chennai,6,0,0,0,Tablet,0,0
+TXN101388,CUST1004,5652.39,Swiggy,Delhi,18,0,0,0,Tablet,0,0
+TXN101389,CUST1192,602.07,Amazon,Gurgaon,21,0,0,0,Android Phone,0,0
+TXN101390,CUST1049,2338.51,Electricity Board,Chennai,5,0,0,0,Android Phone,0,0
+TXN101391,CUST1173,2810.64,Zomato,Hyderabad,4,1,0,0,Tablet,0,0
+TXN101392,CUST1017,1819.99,Swiggy,Chennai,15,0,0,0,Android Phone,0,0
+TXN101393,CUST1192,531.24,PayU Recharge,Gurgaon,21,0,0,0,Android Phone,0,0
+TXN101394,CUST1195,492.16,Flipkart,Delhi,14,0,0,0,Android Phone,0,0
+TXN101395,CUST1042,2745.51,Amazon,Chennai,21,0,0,0,Android Phone,0,0
+TXN101396,CUST1293,3260.35,Cash Withdrawal ATM,Pune,8,0,0,0,Android Phone,0,0
+TXN101397,CUST1092,2401.48,Swiggy,Gurgaon,22,0,0,0,Tablet,0,0
+TXN101398,CUST1050,2018.89,Local Kirana Store,Mumbai,17,0,0,0,iPhone,0,0
+TXN101399,CUST1010,3104.66,PayU Recharge,Chennai,17,0,0,0,Tablet,0,0
+TXN101400,CUST1032,4386.42,Ola,Kolkata,17,0,0,0,Desktop Browser,0,0
+TXN101401,CUST1063,1051.31,Uber,Kolkata,21,0,0,0,Desktop Browser,0,0
+TXN101402,CUST1092,20852.18,Crypto Exchange XYZ,Gurgaon,10,0,0,1,Desktop Browser,1,1
+TXN101403,CUST1082,3932.17,Electricity Board,Bangalore,1,1,0,0,Android Phone,0,0
+TXN101404,CUST1152,4298.37,Ola,Kolkata,5,0,0,0,Tablet,0,0
+TXN101405,CUST1000,2829.86,Ola,Pune,16,0,0,0,iPhone,0,0
+TXN101406,CUST1273,696.69,Myntra,Kolkata,15,0,0,0,Android Phone,0,0
+TXN101407,CUST1275,6113.14,Zomato,Hyderabad,3,1,0,0,Android Phone,0,0
+TXN101408,CUST1018,2630.82,Zomato,Gurgaon,6,0,0,0,Tablet,0,0
+TXN101409,CUST1183,2569.69,BigBasket,Bangalore,19,0,0,0,Android Phone,0,0
+TXN101410,CUST1133,922.61,BigBasket,Chennai,5,0,0,0,Desktop Browser,0,0
+TXN101411,CUST1217,2556.1,Local Kirana Store,Gurgaon,17,0,0,0,Tablet,0,0
+TXN101412,CUST1137,4062.32,Uber,Gurgaon,20,0,0,0,Tablet,0,0
+TXN101413,CUST1261,2114.8,IRCTC,Hyderabad,4,1,0,0,iPhone,0,0
+TXN101414,CUST1194,28164.21,Crypto Exchange XYZ,Gurgaon,4,1,0,1,iPhone,1,1
+TXN101415,CUST1033,1882.92,BigBasket,Jaipur,11,0,0,0,Tablet,0,0
+TXN101416,CUST1074,2980.77,Zomato,Delhi,8,0,0,0,Desktop Browser,0,0
+TXN101417,CUST1193,4313.25,BigBasket,Kolkata,3,1,0,0,iPhone,0,0
+TXN101418,CUST1250,5693.71,Electricity Board,Hyderabad,22,0,0,0,Tablet,0,0
+TXN101419,CUST1138,1151.74,Cash Withdrawal ATM,Gurgaon,1,1,0,0,Android Phone,0,0
+TXN101420,CUST1199,5750.16,Electricity Board,Chennai,23,0,0,0,Desktop Browser,0,0
+TXN101421,CUST1282,5282.41,BigBasket,Kolkata,12,0,0,0,Tablet,0,0
+TXN101422,CUST1004,3004.69,IRCTC,Delhi,4,1,0,0,Tablet,0,0
+TXN101423,CUST1290,5812.48,Local Kirana Store,Pune,23,0,0,0,Android Phone,0,0
+TXN101424,CUST1127,2408.63,Myntra,Pune,22,0,0,0,Desktop Browser,0,0
+TXN101425,CUST1239,6095.41,Zomato,Kolkata,13,0,0,0,iPhone,0,0
+TXN101426,CUST1156,3914.65,Flipkart,Delhi,9,0,0,0,Android Phone,0,0
+TXN101427,CUST1040,4965.81,Flipkart,Bangalore,2,1,0,0,Android Phone,0,0
+TXN101428,CUST1146,2908.45,Local Kirana Store,Gurgaon,0,1,0,0,iPhone,0,0
+TXN101429,CUST1069,4586.22,Local Kirana Store,Bangalore,21,0,0,0,iPhone,0,0
+TXN101430,CUST1063,2267.37,Amazon,Kolkata,6,0,0,0,Desktop Browser,0,0
+TXN101431,CUST1217,6694.11,Ola,Gurgaon,11,0,0,0,Tablet,0,0
+TXN101432,CUST1270,2021.21,Ola,Delhi,19,0,0,0,iPhone,0,0
+TXN101433,CUST1268,3909.73,Electricity Board,Jaipur,2,1,0,0,Android Phone,0,0
+TXN101434,CUST1180,2008.1,Flipkart,Jaipur,15,0,0,0,Desktop Browser,0,0
+TXN101435,CUST1173,2911.49,Flipkart,Hyderabad,17,0,0,0,Tablet,0,0
+TXN101436,CUST1148,1064.74,Ola,Pune,8,0,0,0,Desktop Browser,0,0
+TXN101437,CUST1291,5958.88,Ola,Kolkata,9,0,0,0,Android Phone,0,0
+TXN101438,CUST1263,3677.39,PayU Recharge,Jaipur,14,0,0,0,Android Phone,0,0
+TXN101439,CUST1029,1064.2,Flipkart,Gurgaon,14,0,0,0,iPhone,0,0
+TXN101440,CUST1002,393.08,Flipkart,Kolkata,5,0,0,0,Tablet,0,0
+TXN101441,CUST1220,2659.97,IRCTC,Mumbai,16,0,0,0,Tablet,0,0
+TXN101442,CUST1063,1969.75,Zomato,Kolkata,4,1,0,0,Desktop Browser,0,0
+TXN101443,CUST1240,4935.33,Electricity Board,Chennai,11,0,0,0,Android Phone,0,0
+TXN101444,CUST1137,3142.15,Swiggy,Gurgaon,21,0,0,0,Desktop Browser,0,0
+TXN101445,CUST1181,5776.72,Zomato,Kolkata,11,0,0,0,Android Phone,0,0
+TXN101446,CUST1056,4491.99,Myntra,Bangalore,4,1,0,0,iPhone,0,0
+TXN101447,CUST1016,4912.94,Flipkart,Mumbai,15,0,0,0,iPhone,0,0
+TXN101448,CUST1215,562.81,Cash Withdrawal ATM,Pune,21,0,0,0,iPhone,0,0
+TXN101449,CUST1204,3337.96,Swiggy,Jaipur,23,0,0,0,iPhone,0,0
+TXN101450,CUST1056,3197.08,Electricity Board,Bangalore,0,1,0,0,Tablet,0,0
+TXN101451,CUST1006,336.45,IRCTC,Pune,1,1,0,0,Android Phone,0,0
+TXN101452,CUST1004,2794.8,IRCTC,Delhi,9,0,0,0,Tablet,0,0
+TXN101453,CUST1126,2476.99,Cash Withdrawal ATM,Kolkata,16,0,0,0,Desktop Browser,0,0
+TXN101454,CUST1058,1312.69,Zomato,Mumbai,7,0,0,0,Android Phone,0,0
+TXN101455,CUST1242,3151.2,Uber,Hyderabad,3,1,0,0,Android Phone,0,0
+TXN101456,CUST1092,3412.51,Zomato,Gurgaon,18,0,0,0,Tablet,0,0
+TXN101457,CUST1061,1564.86,IRCTC,Chennai,8,0,0,0,iPhone,0,0
+TXN101458,CUST1009,900.04,BigBasket,Kolkata,1,1,0,0,Android Phone,0,0
+TXN101459,CUST1118,1158.31,Ola,Jaipur,15,0,0,0,Desktop Browser,0,0
+TXN101460,CUST1026,1937.95,Local Kirana Store,Pune,11,0,0,0,Tablet,0,0
+TXN101461,CUST1214,779.96,Amazon,Delhi,1,1,0,0,Desktop Browser,0,0
+TXN101462,CUST1164,1867.81,IRCTC,Hyderabad,8,0,0,0,iPhone,0,0
+TXN101463,CUST1094,768.97,Flipkart,Delhi,11,0,0,0,iPhone,0,0
+TXN101464,CUST1006,217.72,Cash Withdrawal ATM,Pune,4,1,0,0,Android Phone,0,0
+TXN101465,CUST1185,2475.32,Ola,Pune,16,0,0,0,iPhone,0,0
+TXN101466,CUST1141,724.0,Ola,Gurgaon,2,1,0,0,iPhone,0,0
+TXN101467,CUST1061,8643.83,Crypto Exchange XYZ,Dubai,20,0,1,1,iPhone,0,1
+TXN101468,CUST1038,3239.83,Cash Withdrawal ATM,Mumbai,10,0,0,0,Android Phone,0,0
+TXN101469,CUST1103,720.76,Electricity Board,Gurgaon,1,1,0,0,Android Phone,0,0
+TXN101470,CUST1129,6906.21,PayU Recharge,Kolkata,17,0,0,0,Desktop Browser,0,0
+TXN101471,CUST1060,1029.91,Electricity Board,Delhi,15,0,0,0,Tablet,0,0
+TXN101472,CUST1011,3626.1,Uber,Hyderabad,22,0,0,0,Tablet,0,0
+TXN101473,CUST1031,4808.56,PayU Recharge,Bangalore,6,0,0,0,Android Phone,0,0
+TXN101474,CUST1272,2787.92,Electricity Board,Pune,2,1,0,0,Tablet,0,0
+TXN101475,CUST1196,1691.89,Swiggy,Kolkata,12,0,0,0,Tablet,0,0
+TXN101476,CUST1001,2374.86,Cash Withdrawal ATM,Mumbai,18,0,0,0,Desktop Browser,0,0
+TXN101477,CUST1262,2296.99,Zomato,Hyderabad,23,0,0,0,Android Phone,0,0
+TXN101478,CUST1151,1413.11,Electricity Board,Bangalore,3,1,0,0,Tablet,0,0
+TXN101479,CUST1121,1410.85,Swiggy,Jaipur,4,1,0,0,Android Phone,0,0
+TXN101480,CUST1138,2097.27,Zomato,Gurgaon,20,0,0,0,Android Phone,0,0
+TXN101481,CUST1273,947.12,Myntra,Kolkata,11,0,0,0,iPhone,0,0
+TXN101482,CUST1166,3622.24,IRCTC,Chennai,17,0,0,0,Android Phone,0,0
+TXN101483,CUST1150,1068.79,Myntra,Bangalore,20,0,0,0,Android Phone,0,0
+TXN101484,CUST1112,5097.64,Electricity Board,Gurgaon,5,0,0,0,iPhone,0,0
+TXN101485,CUST1298,754.63,BigBasket,Mumbai,22,0,0,0,iPhone,0,0
+TXN101486,CUST1282,3717.89,Uber,Kolkata,7,0,0,0,Tablet,0,0
+TXN101487,CUST1202,1602.58,Swiggy,Jaipur,23,0,0,0,Android Phone,0,0
+TXN101488,CUST1245,5808.37,Swiggy,Kolkata,14,0,0,0,iPhone,0,0
+TXN101489,CUST1096,2691.04,Amazon,Bangalore,23,0,0,0,Tablet,0,0
+TXN101490,CUST1158,2222.29,Flipkart,Jaipur,12,0,0,0,iPhone,0,0
+TXN101491,CUST1073,800.44,IRCTC,Jaipur,14,0,0,0,Desktop Browser,0,0
+TXN101492,CUST1051,486.57,Uber,Chennai,23,0,0,0,Tablet,0,0
+TXN101493,CUST1051,191.04,Ola,Chennai,3,1,0,0,Tablet,0,0
+TXN101494,CUST1022,1334.11,Ola,Delhi,2,1,0,0,Tablet,0,0
+TXN101495,CUST1006,312.74,Myntra,Pune,3,1,0,0,Android Phone,0,0
+TXN101496,CUST1043,4577.15,Swiggy,Gurgaon,18,0,0,0,Tablet,0,0
+TXN101497,CUST1157,3790.09,BigBasket,Kolkata,7,0,0,0,Android Phone,0,0
+TXN101498,CUST1278,4005.16,Flipkart,Mumbai,1,1,0,0,Desktop Browser,0,0
+TXN101499,CUST1261,2001.04,Amazon,Hyderabad,4,1,0,0,Desktop Browser,0,0
+TXN101500,CUST1116,403.65,Ola,Pune,11,0,0,0,iPhone,0,0
+TXN101501,CUST1196,1468.34,Flipkart,Kolkata,3,1,0,0,Tablet,0,0
+TXN101502,CUST1114,2002.03,Myntra,Jaipur,9,0,0,0,Desktop Browser,0,0
+TXN101503,CUST1060,546.61,Swiggy,Delhi,2,1,0,0,Tablet,0,0
+TXN101504,CUST1091,1737.31,Swiggy,Jaipur,19,0,0,0,Android Phone,0,0
+TXN101505,CUST1154,2047.3,PayU Recharge,Kolkata,11,0,0,0,Android Phone,0,0
+TXN101506,CUST1188,1703.17,Amazon,Kolkata,22,0,0,0,Android Phone,0,0
+TXN101507,CUST1076,1533.61,Local Kirana Store,Mumbai,10,0,0,0,Android Phone,0,0
+TXN101508,CUST1244,3308.88,BigBasket,Chennai,18,0,0,0,Android Phone,0,0
+TXN101509,CUST1074,4411.81,Myntra,Delhi,5,0,0,0,Desktop Browser,0,0
+TXN101510,CUST1253,1460.36,Myntra,Gurgaon,13,0,0,0,Android Phone,0,0
+TXN101511,CUST1070,3607.58,PayU Recharge,Pune,7,0,0,0,Tablet,0,0
+TXN101512,CUST1275,3381.89,Flipkart,Hyderabad,17,0,0,0,Android Phone,0,0
+TXN101513,CUST1297,2688.95,Local Kirana Store,Gurgaon,18,0,0,0,Android Phone,0,0
+TXN101514,CUST1112,2436.16,Amazon,Gurgaon,11,0,0,0,iPhone,0,0
+TXN101515,CUST1185,1732.84,Myntra,Pune,4,1,0,0,iPhone,0,0
+TXN101516,CUST1184,3995.22,Electricity Board,Jaipur,4,1,0,0,iPhone,0,0
+TXN101517,CUST1215,1118.55,Flipkart,Pune,7,0,0,0,iPhone,0,0
+TXN101518,CUST1073,609.31,Local Kirana Store,Jaipur,22,0,0,0,Desktop Browser,0,0
+TXN101519,CUST1054,853.26,Swiggy,Chennai,15,0,0,0,iPhone,0,0
+TXN101520,CUST1015,492.24,Uber,Pune,2,1,0,0,Desktop Browser,0,0
+TXN101521,CUST1213,2228.87,Electricity Board,Mumbai,15,0,0,0,iPhone,0,0
+TXN101522,CUST1153,909.79,Local Kirana Store,Kolkata,10,0,0,0,Desktop Browser,0,0
+TXN101523,CUST1006,289.04,Uber,Pune,1,1,0,0,Android Phone,0,0
+TXN101524,CUST1088,4186.77,PayU Recharge,Pune,12,0,0,0,Tablet,0,0
+TXN101525,CUST1283,681.9,Zomato,Bangalore,18,0,0,0,Desktop Browser,0,0
+TXN101526,CUST1216,3167.12,Swiggy,Jaipur,2,1,0,0,Android Phone,0,0
+TXN101527,CUST1108,741.81,Local Kirana Store,Bangalore,7,0,0,0,Desktop Browser,0,0
+TXN101528,CUST1286,3874.48,Ola,Pune,22,0,0,0,Tablet,0,0
+TXN101529,CUST1207,1077.15,IRCTC,Jaipur,1,1,0,0,Android Phone,0,0
+TXN101530,CUST1099,5150.79,Myntra,Bangalore,2,1,0,0,iPhone,0,0
+TXN101531,CUST1014,325.06,Uber,Mumbai,17,0,0,0,iPhone,0,0
+TXN101532,CUST1005,2551.48,Amazon,Jaipur,6,0,0,0,iPhone,0,0
+TXN101533,CUST1123,1449.37,Cash Withdrawal ATM,Mumbai,18,0,0,0,Tablet,0,0
+TXN101534,CUST1247,87642.03,Foreign Exchange Kiosk,Gurgaon,2,1,0,1,Desktop Browser,1,1
+TXN101535,CUST1203,2109.64,Swiggy,Hyderabad,12,0,0,0,iPhone,0,0
+TXN101536,CUST1049,2276.6,Cash Withdrawal ATM,Chennai,23,0,0,0,Android Phone,0,0
+TXN101537,CUST1076,16103.78,Crypto Exchange XYZ,Mumbai,12,0,0,1,Android Phone,0,1
+TXN101538,CUST1237,2965.79,Zomato,Bangalore,2,1,0,0,iPhone,0,0
+TXN101539,CUST1072,2959.19,Uber,Pune,16,0,0,0,Android Phone,0,0
+TXN101540,CUST1267,2687.01,BigBasket,Bangalore,14,0,0,0,Desktop Browser,0,0
+TXN101541,CUST1184,5785.23,Cash Withdrawal ATM,Jaipur,13,0,0,0,iPhone,0,0
+TXN101542,CUST1198,5372.79,Uber,Chennai,19,0,0,0,Android Phone,0,0
+TXN101543,CUST1254,5868.3,Electricity Board,Bangalore,4,1,0,0,Tablet,0,0
+TXN101544,CUST1044,1098.49,Swiggy,Hyderabad,10,0,0,0,Tablet,0,0
+TXN101545,CUST1034,649.95,Local Kirana Store,Delhi,11,0,0,0,Android Phone,0,0
+TXN101546,CUST1235,565.81,Ola,Pune,8,0,0,0,Desktop Browser,0,0
+TXN101547,CUST1071,2258.73,BigBasket,Jaipur,18,0,0,0,iPhone,0,0
+TXN101548,CUST1205,2470.61,Electricity Board,Gurgaon,21,0,0,0,iPhone,0,0
+TXN101549,CUST1160,2805.62,Ola,Kolkata,13,0,0,0,Desktop Browser,0,0
+TXN101550,CUST1021,2579.89,Local Kirana Store,Jaipur,1,1,0,0,Desktop Browser,0,0
+TXN101551,CUST1287,29573.45,Foreign Exchange Kiosk,Delhi,3,1,0,1,Android Phone,1,1
+TXN101552,CUST1037,2552.06,PayU Recharge,Pune,14,0,0,0,Tablet,0,0
+TXN101553,CUST1239,2476.86,Local Kirana Store,Kolkata,14,0,0,0,iPhone,0,0
+TXN101554,CUST1055,3896.69,IRCTC,Pune,12,0,0,0,iPhone,0,0
+TXN101555,CUST1168,3290.95,Local Kirana Store,Delhi,19,0,0,0,Tablet,0,0
+TXN101556,CUST1243,327.87,PayU Recharge,Jaipur,1,1,0,0,Android Phone,0,0
+TXN101557,CUST1074,7416.74,Cash Withdrawal ATM,Delhi,18,0,0,0,Desktop Browser,0,0
+TXN101558,CUST1194,3813.45,PayU Recharge,Gurgaon,11,0,0,0,Android Phone,0,0
+TXN101559,CUST1109,36688.51,Unknown Merchant Ltd,Delhi,0,1,0,1,Desktop Browser,0,1
+TXN101560,CUST1090,666.06,Local Kirana Store,Pune,8,0,0,0,Desktop Browser,0,0
+TXN101561,CUST1231,5626.62,Swiggy,Mumbai,6,0,0,0,Desktop Browser,0,0
+TXN101562,CUST1027,6753.43,BigBasket,Jaipur,13,0,0,0,Tablet,0,0
+TXN101563,CUST1084,780.4,Local Kirana Store,Mumbai,13,0,0,0,iPhone,0,0
+TXN101564,CUST1082,3169.54,IRCTC,Bangalore,11,0,0,0,Tablet,0,0
+TXN101565,CUST1005,2100.91,Ola,Jaipur,19,0,0,0,iPhone,0,0
+TXN101566,CUST1296,4440.66,Local Kirana Store,Gurgaon,21,0,0,0,Tablet,0,0
+TXN101567,CUST1162,5246.51,Crypto Exchange XYZ,Dubai,14,0,1,1,Android Phone,1,1
+TXN101568,CUST1208,6831.25,Swiggy,Delhi,0,1,0,0,Desktop Browser,0,0
+TXN101569,CUST1230,3493.94,Zomato,Pune,3,1,0,0,Tablet,0,0
+TXN101570,CUST1215,787.17,Myntra,Pune,5,0,0,0,iPhone,0,0
+TXN101571,CUST1107,5197.63,Myntra,Chennai,21,0,0,0,iPhone,0,0
+TXN101572,CUST1186,38476.56,Unknown Merchant Ltd,Mumbai,9,0,0,1,Desktop Browser,1,1
+TXN101573,CUST1233,3946.78,Electricity Board,Hyderabad,11,0,0,0,Desktop Browser,0,0
+TXN101574,CUST1171,1264.28,Electricity Board,Delhi,14,0,0,0,Android Phone,0,0
+TXN101575,CUST1083,320.05,Ola,Mumbai,9,0,0,0,Android Phone,0,0
+TXN101576,CUST1223,5468.88,Flipkart,Kolkata,19,0,0,0,iPhone,0,0
+TXN101577,CUST1044,395.58,IRCTC,Hyderabad,2,1,0,0,Android Phone,0,0
+TXN101578,CUST1053,2167.82,Ola,Delhi,19,0,0,0,iPhone,0,0
+TXN101579,CUST1227,2908.43,IRCTC,Gurgaon,1,1,0,0,Desktop Browser,0,0
+TXN101580,CUST1108,666.73,PayU Recharge,Bangalore,17,0,0,0,Desktop Browser,0,0
+TXN101581,CUST1063,2397.81,Ola,Kolkata,14,0,0,0,Tablet,0,0
+TXN101582,CUST1202,15468.26,Unknown Merchant Ltd,Jaipur,3,1,0,1,Desktop Browser,1,1
+TXN101583,CUST1157,2693.33,IRCTC,Kolkata,13,0,0,0,Android Phone,0,0
+TXN101584,CUST1016,33217.29,Unknown Merchant Ltd,Mumbai,4,1,0,1,iPhone,1,1
+TXN101585,CUST1123,3044.2,Amazon,Mumbai,6,0,0,0,Tablet,0,0
+TXN101586,CUST1295,6306.83,Swiggy,Delhi,20,0,0,0,Tablet,0,0
+TXN101587,CUST1206,1956.07,Local Kirana Store,Bangalore,5,0,0,0,Desktop Browser,0,0
+TXN101588,CUST1064,728.77,Cash Withdrawal ATM,Gurgaon,18,0,0,0,Android Phone,0,0
+TXN101589,CUST1133,572.49,Amazon,Chennai,10,0,0,0,Desktop Browser,0,0
+TXN101590,CUST1223,55516.11,Unknown Merchant Ltd,Kolkata,18,0,0,1,iPhone,0,1
+TXN101591,CUST1040,2911.87,PayU Recharge,Bangalore,23,0,0,0,Android Phone,0,0
+TXN101592,CUST1183,3104.19,Zomato,Bangalore,7,0,0,0,iPhone,0,0
+TXN101593,CUST1193,2449.61,Swiggy,Kolkata,1,1,0,0,iPhone,0,0
+TXN101594,CUST1011,4404.31,Uber,Hyderabad,3,1,0,0,Tablet,0,0
+TXN101595,CUST1062,3126.12,Flipkart,Gurgaon,8,0,0,0,Tablet,0,0
+TXN101596,CUST1253,678.16,Cash Withdrawal ATM,Gurgaon,6,0,0,0,Desktop Browser,0,0
+TXN101597,CUST1011,3261.68,IRCTC,Hyderabad,20,0,0,0,Tablet,0,0
+TXN101598,CUST1192,595.65,BigBasket,Gurgaon,14,0,0,0,iPhone,0,0
+TXN101599,CUST1005,4023.8,Amazon,Jaipur,18,0,0,0,iPhone,0,0
+TXN101600,CUST1060,1106.59,Amazon,Delhi,15,0,0,0,Tablet,0,0
+TXN101601,CUST1081,2383.67,Electricity Board,Chennai,3,1,0,0,Android Phone,0,0
+TXN101602,CUST1011,6276.69,Flipkart,Hyderabad,4,1,0,0,Tablet,0,0
+TXN101603,CUST1111,18262.08,Crypto Exchange XYZ,Dubai,7,0,1,1,Desktop Browser,1,1
+TXN101604,CUST1047,1871.23,Cash Withdrawal ATM,Kolkata,20,0,0,0,iPhone,0,0
+TXN101605,CUST1253,782.46,Swiggy,Gurgaon,12,0,0,0,Desktop Browser,0,0
+TXN101606,CUST1101,1818.57,Flipkart,Kolkata,22,0,0,0,Tablet,0,0
+TXN101607,CUST1298,675.52,Local Kirana Store,Mumbai,9,0,0,0,iPhone,0,0
+TXN101608,CUST1249,5860.03,Myntra,Pune,13,0,0,0,Tablet,0,0
+TXN101609,CUST1055,3561.78,Ola,Pune,6,0,0,0,iPhone,0,0
+TXN101610,CUST1032,2504.69,IRCTC,Kolkata,1,1,0,0,Desktop Browser,0,0
+TXN101611,CUST1150,1784.62,Amazon,Bangalore,20,0,0,0,Android Phone,0,0
+TXN101612,CUST1058,681.8,Zomato,Mumbai,13,0,0,0,Android Phone,0,0
+TXN101613,CUST1037,5501.91,Flipkart,Pune,11,0,0,0,Desktop Browser,0,0
+TXN101614,CUST1004,3423.97,Uber,Delhi,22,0,0,0,Tablet,0,0
+TXN101615,CUST1164,1322.74,Zomato,Hyderabad,2,1,0,0,Tablet,0,0
+TXN101616,CUST1269,1125.63,Cash Withdrawal ATM,Hyderabad,8,0,0,0,Android Phone,0,0
+TXN101617,CUST1038,3321.4,Myntra,Mumbai,13,0,0,0,iPhone,0,0
+TXN101618,CUST1163,485.0,BigBasket,Delhi,15,0,0,0,Android Phone,0,0
+TXN101619,CUST1215,741.71,IRCTC,Pune,5,0,0,0,iPhone,0,0
+TXN101620,CUST1121,2327.92,Uber,Jaipur,0,1,0,0,Android Phone,0,0
+TXN101621,CUST1002,674.75,Amazon,Kolkata,4,1,0,0,iPhone,0,0
+TXN101622,CUST1273,442.45,PayU Recharge,Kolkata,10,0,0,0,iPhone,0,0
+TXN101623,CUST1048,2132.68,Cash Withdrawal ATM,Gurgaon,23,0,0,0,Android Phone,0,0
+TXN101624,CUST1177,1150.14,IRCTC,Gurgaon,10,0,0,0,Android Phone,0,0
+TXN101625,CUST1152,3320.59,Flipkart,Kolkata,15,0,0,0,Tablet,0,0
+TXN101626,CUST1191,2603.86,Amazon,Pune,0,1,0,0,iPhone,0,0
+TXN101627,CUST1071,3916.77,Swiggy,Jaipur,22,0,0,0,iPhone,0,0
+TXN101628,CUST1045,1755.0,Amazon,Bangalore,11,0,0,0,Desktop Browser,0,0
+TXN101629,CUST1026,735.97,BigBasket,Pune,1,1,0,0,Tablet,0,0
+TXN101630,CUST1038,3470.21,BigBasket,Mumbai,19,0,0,0,Android Phone,0,0
+TXN101631,CUST1087,2373.01,Swiggy,Bangalore,14,0,0,0,Tablet,0,0
+TXN101632,CUST1299,447.83,Flipkart,Hyderabad,13,0,0,0,Android Phone,0,0
+TXN101633,CUST1267,4214.87,BigBasket,Bangalore,15,0,0,0,Desktop Browser,0,0
+TXN101634,CUST1164,1289.31,BigBasket,Hyderabad,7,0,0,0,iPhone,0,0
+TXN101635,CUST1042,3119.06,Zomato,Chennai,7,0,0,0,Desktop Browser,0,0
+TXN101636,CUST1039,745.06,Zomato,Gurgaon,1,1,0,0,Tablet,0,0
+TXN101637,CUST1239,3553.42,Uber,Kolkata,15,0,0,0,iPhone,0,0
+TXN101638,CUST1270,1316.55,Swiggy,Delhi,9,0,0,0,iPhone,0,0
+TXN101639,CUST1258,665.87,PayU Recharge,Bangalore,7,0,0,0,Android Phone,0,0
+TXN101640,CUST1262,2354.52,Swiggy,Hyderabad,6,0,0,0,Android Phone,0,0
+TXN101641,CUST1157,2350.96,Flipkart,Kolkata,20,0,0,0,Android Phone,0,0
+TXN101642,CUST1056,3739.47,PayU Recharge,Bangalore,14,0,0,0,iPhone,0,0
+TXN101643,CUST1271,852.85,Myntra,Bangalore,3,1,0,0,Desktop Browser,0,0
+TXN101644,CUST1220,1917.08,Amazon,Mumbai,16,0,0,0,Tablet,0,0
+TXN101645,CUST1225,3458.61,IRCTC,Pune,1,1,0,0,Desktop Browser,0,0
+TXN101646,CUST1099,3622.8,Uber,Bangalore,5,0,0,0,iPhone,0,0
+TXN101647,CUST1252,5415.33,Flipkart,Delhi,21,0,0,0,Desktop Browser,0,0
+TXN101648,CUST1112,2654.04,Flipkart,Gurgaon,1,1,0,0,iPhone,0,0
+TXN101649,CUST1272,3614.64,IRCTC,Pune,19,0,0,0,Android Phone,0,0
+TXN101650,CUST1201,2770.56,Swiggy,Gurgaon,22,0,0,0,Android Phone,0,0
+TXN101651,CUST1104,2780.78,Amazon,Jaipur,22,0,0,0,Tablet,0,0
+TXN101652,CUST1048,2689.02,BigBasket,Gurgaon,22,0,0,0,Desktop Browser,0,0
+TXN101653,CUST1122,1996.05,PayU Recharge,Mumbai,2,1,0,0,Tablet,0,0
+TXN101654,CUST1072,1653.93,Swiggy,Pune,15,0,0,0,Tablet,0,0
+TXN101655,CUST1135,782.09,Uber,Delhi,21,0,0,0,Desktop Browser,0,0
+TXN101656,CUST1180,4112.79,PayU Recharge,Jaipur,0,1,0,0,Desktop Browser,0,0
+TXN101657,CUST1056,85495.69,Unknown Merchant Ltd,Bangalore,2,1,0,1,iPhone,1,1
+TXN101658,CUST1075,1840.68,PayU Recharge,Jaipur,9,0,0,0,Tablet,0,0
+TXN101659,CUST1251,1476.78,Myntra,Gurgaon,8,0,0,0,Android Phone,0,0
+TXN101660,CUST1234,68687.62,Unknown Merchant Ltd,Delhi,4,1,0,1,Tablet,1,1
+TXN101661,CUST1057,2121.44,IRCTC,Gurgaon,23,0,0,0,Desktop Browser,0,0
+TXN101662,CUST1112,1839.05,Uber,Gurgaon,11,0,0,0,iPhone,0,0
+TXN101663,CUST1220,2702.07,IRCTC,Mumbai,2,1,0,0,Tablet,0,0
+TXN101664,CUST1055,4363.57,PayU Recharge,Pune,20,0,0,0,Android Phone,0,0
+TXN101665,CUST1269,1410.2,IRCTC,Hyderabad,21,0,0,0,Android Phone,0,0
+TXN101666,CUST1213,1884.11,Electricity Board,Mumbai,9,0,0,0,iPhone,0,0
+TXN101667,CUST1175,2631.1,Cash Withdrawal ATM,Delhi,13,0,0,0,Tablet,0,0
+TXN101668,CUST1177,1475.76,Swiggy,Gurgaon,0,1,0,0,Android Phone,0,0
+TXN101669,CUST1238,2622.07,Swiggy,Hyderabad,9,0,0,0,Tablet,0,0
+TXN101670,CUST1155,4689.17,Zomato,Delhi,9,0,0,0,Desktop Browser,0,0
+TXN101671,CUST1144,2977.51,IRCTC,Jaipur,1,1,0,0,Tablet,0,0
+TXN101672,CUST1180,1909.97,BigBasket,Jaipur,1,1,0,0,Desktop Browser,0,0
+TXN101673,CUST1257,2559.94,Local Kirana Store,Kolkata,17,0,0,0,Desktop Browser,0,0
+TXN101674,CUST1138,1528.0,Flipkart,Gurgaon,6,0,0,0,Android Phone,0,0
+TXN101675,CUST1148,2780.82,Ola,Pune,11,0,0,0,iPhone,0,0
+TXN101676,CUST1197,3102.9,BigBasket,Chennai,3,1,0,0,Tablet,0,0
+TXN101677,CUST1159,3100.75,Uber,Pune,21,0,0,0,iPhone,0,0
+TXN101678,CUST1071,3835.68,Zomato,Jaipur,8,0,0,0,Tablet,0,0
+TXN101679,CUST1154,3825.0,Electricity Board,Kolkata,18,0,0,0,Android Phone,0,0
+TXN101680,CUST1093,2771.57,PayU Recharge,Pune,13,0,0,0,Desktop Browser,0,0
+TXN101681,CUST1160,2859.62,IRCTC,Kolkata,22,0,0,0,Desktop Browser,0,0
+TXN101682,CUST1238,3500.32,Amazon,Hyderabad,14,0,0,0,Tablet,0,0
+TXN101683,CUST1215,719.74,Zomato,Pune,19,0,0,0,iPhone,0,0
+TXN101684,CUST1297,3154.0,BigBasket,Gurgaon,19,0,0,0,Android Phone,0,0
+TXN101685,CUST1027,5399.92,PayU Recharge,Jaipur,4,1,0,0,Tablet,0,0
+TXN101686,CUST1265,2745.67,Ola,Gurgaon,2,1,0,0,Desktop Browser,0,0
+TXN101687,CUST1054,765.54,Myntra,Chennai,9,0,0,0,Android Phone,0,0
+TXN101688,CUST1031,4533.59,Amazon,Bangalore,21,0,0,0,Android Phone,0,0
+TXN101689,CUST1104,2245.87,Ola,Jaipur,23,0,0,0,Tablet,0,0
+TXN101690,CUST1079,1840.44,PayU Recharge,Mumbai,23,0,0,0,iPhone,0,0
+TXN101691,CUST1102,725.83,Electricity Board,Chennai,4,1,0,0,Desktop Browser,0,0
+TXN101692,CUST1049,5048.37,PayU Recharge,Chennai,15,0,0,0,Android Phone,0,0
+TXN101693,CUST1200,41218.05,Crypto Exchange XYZ,Pune,9,0,0,1,Desktop Browser,0,1
+TXN101694,CUST1279,594.02,Uber,Pune,21,0,0,0,Desktop Browser,0,0
+TXN101695,CUST1063,1092.79,Local Kirana Store,Kolkata,0,1,0,0,Desktop Browser,0,0
+TXN101696,CUST1123,1862.93,PayU Recharge,Mumbai,22,0,0,0,Android Phone,0,0
+TXN101697,CUST1148,1838.76,BigBasket,Pune,18,0,0,0,Desktop Browser,0,0
+TXN101698,CUST1200,1914.48,IRCTC,Pune,3,1,0,0,Desktop Browser,0,0
+TXN101699,CUST1075,7691.12,Foreign Exchange Kiosk,Jaipur,3,1,0,1,Tablet,0,1
+TXN101700,CUST1017,1446.94,Myntra,Chennai,21,0,0,0,Tablet,0,0
+TXN101701,CUST1071,2131.18,Swiggy,Jaipur,14,0,0,0,Tablet,0,0
+TXN101702,CUST1183,3797.68,Local Kirana Store,Bangalore,16,0,0,0,iPhone,0,0
+TXN101703,CUST1268,1901.44,Ola,Jaipur,5,0,0,0,Android Phone,0,0
+TXN101704,CUST1288,1919.73,Ola,Jaipur,4,1,0,0,Android Phone,0,0
+TXN101705,CUST1155,4308.99,PayU Recharge,Delhi,20,0,0,0,Desktop Browser,0,0
+TXN101706,CUST1092,3485.99,BigBasket,Gurgaon,16,0,0,0,Tablet,0,0
+TXN101707,CUST1066,347.04,IRCTC,Jaipur,18,0,0,0,Tablet,0,0
+TXN101708,CUST1034,7337.95,Foreign Exchange Kiosk,Lagos,23,0,1,1,Desktop Browser,1,1
+TXN101709,CUST1243,368.31,Swiggy,Jaipur,23,0,0,0,Android Phone,0,0
+TXN101710,CUST1196,2438.4,Flipkart,Kolkata,2,1,0,0,Tablet,0,0
+TXN101711,CUST1019,4000.02,Ola,Bangalore,14,0,0,0,Android Phone,0,0
+TXN101712,CUST1015,809.93,Swiggy,Pune,3,1,0,0,Desktop Browser,0,0
+TXN101713,CUST1293,2454.41,BigBasket,Pune,8,0,0,0,Android Phone,0,0
+TXN101714,CUST1115,1176.64,Cash Withdrawal ATM,Delhi,13,0,0,0,Tablet,0,0
+TXN101715,CUST1098,665.37,Amazon,Delhi,20,0,0,0,Android Phone,0,0
+TXN101716,CUST1071,4380.99,Flipkart,Jaipur,13,0,0,0,iPhone,0,0
+TXN101717,CUST1174,1584.39,Zomato,Mumbai,23,0,0,0,Desktop Browser,0,0
+TXN101718,CUST1106,3063.65,Electricity Board,Bangalore,16,0,0,0,Desktop Browser,0,0
+TXN101719,CUST1070,3440.52,Flipkart,Pune,13,0,0,0,Desktop Browser,0,0
+TXN101720,CUST1291,2498.6,PayU Recharge,Kolkata,16,0,0,0,Android Phone,0,0
+TXN101721,CUST1118,19865.94,Foreign Exchange Kiosk,Dubai,10,0,1,1,iPhone,1,1
+TXN101722,CUST1199,2251.4,Uber,Chennai,5,0,0,0,Desktop Browser,0,0
+TXN101723,CUST1123,2160.56,Uber,Mumbai,19,0,0,0,Tablet,0,0
+TXN101724,CUST1029,1294.31,BigBasket,Gurgaon,3,1,0,0,iPhone,0,0
+TXN101725,CUST1015,15627.32,Crypto Exchange XYZ,Pune,2,1,0,1,Tablet,1,1
+TXN101726,CUST1104,4437.17,Amazon,Jaipur,10,0,0,0,Tablet,0,0
+TXN101727,CUST1120,236.43,Cash Withdrawal ATM,Kolkata,18,0,0,0,iPhone,0,0
+TXN101728,CUST1018,2958.18,Flipkart,Gurgaon,13,0,0,0,iPhone,0,0
+TXN101729,CUST1282,2619.86,Amazon,Kolkata,8,0,0,0,Tablet,0,0
+TXN101730,CUST1254,4186.05,Cash Withdrawal ATM,Bangalore,11,0,0,0,Tablet,0,0
+TXN101731,CUST1116,6675.56,Unknown Merchant Ltd,Dubai,0,1,1,1,iPhone,0,1
+TXN101732,CUST1009,870.21,Swiggy,Kolkata,12,0,0,0,Tablet,0,0
+TXN101733,CUST1220,1783.99,Uber,Mumbai,4,1,0,0,Tablet,0,0
+TXN101734,CUST1188,1648.66,Zomato,Kolkata,13,0,0,0,Android Phone,0,0
+TXN101735,CUST1047,2423.72,Cash Withdrawal ATM,Kolkata,13,0,0,0,iPhone,0,0
+TXN101736,CUST1274,4041.29,Amazon,Jaipur,0,1,0,0,Tablet,0,0
+TXN101737,CUST1039,14101.66,Unknown Merchant Ltd,Gurgaon,5,0,0,1,Android Phone,0,1
+TXN101738,CUST1125,4640.02,Flipkart,Pune,19,0,0,0,Tablet,0,0
+TXN101739,CUST1039,1444.64,Local Kirana Store,Gurgaon,17,0,0,0,Android Phone,0,0
+TXN101740,CUST1182,4811.29,Myntra,Chennai,7,0,0,0,Tablet,0,0
+TXN101741,CUST1282,6736.44,Myntra,Kolkata,7,0,0,0,Tablet,0,0
+TXN101742,CUST1277,3420.18,Uber,Mumbai,11,0,0,0,Tablet,0,0
+TXN101743,CUST1248,5639.56,Zomato,Hyderabad,4,1,0,0,Tablet,0,0
+TXN101744,CUST1156,3773.95,Cash Withdrawal ATM,Delhi,3,1,0,0,Android Phone,0,0
+TXN101745,CUST1072,38263.32,Crypto Exchange XYZ,Pune,22,0,0,1,Android Phone,0,1
+TXN101746,CUST1255,3185.69,Flipkart,Pune,8,0,0,0,iPhone,0,0
+TXN101747,CUST1030,303.53,IRCTC,Mumbai,12,0,0,0,Tablet,0,0
+TXN101748,CUST1196,1500.95,IRCTC,Kolkata,6,0,0,0,Tablet,0,0
+TXN101749,CUST1272,56660.5,Unknown Merchant Ltd,Pune,3,1,0,1,iPhone,1,1
+TXN101750,CUST1134,1075.78,Local Kirana Store,Pune,6,0,0,0,Desktop Browser,0,0
+TXN101751,CUST1222,1005.63,Amazon,Jaipur,23,0,0,0,Android Phone,0,0
+TXN101752,CUST1055,4919.2,Electricity Board,Pune,23,0,0,0,iPhone,0,0
+TXN101753,CUST1237,4130.67,Swiggy,Bangalore,18,0,0,0,iPhone,0,0
+TXN101754,CUST1195,1354.22,BigBasket,Delhi,7,0,0,0,Android Phone,0,0
+TXN101755,CUST1140,3354.32,IRCTC,Jaipur,17,0,0,0,iPhone,0,0
+TXN101756,CUST1019,3433.6,Ola,Bangalore,8,0,0,0,Android Phone,0,0
+TXN101757,CUST1006,338.01,Swiggy,Pune,21,0,0,0,Android Phone,0,0
+TXN101758,CUST1227,1977.25,Myntra,Gurgaon,0,1,0,0,Tablet,0,0
+TXN101759,CUST1245,2466.15,Flipkart,Kolkata,6,0,0,0,iPhone,0,0
+TXN101760,CUST1141,1122.88,BigBasket,Gurgaon,10,0,0,0,iPhone,0,0
+TXN101761,CUST1141,1349.62,Swiggy,Gurgaon,4,1,0,0,iPhone,0,0
+TXN101762,CUST1025,4075.66,PayU Recharge,Hyderabad,1,1,0,0,Android Phone,0,0
+TXN101763,CUST1296,1730.67,Local Kirana Store,Gurgaon,22,0,0,0,Tablet,0,0
+TXN101764,CUST1132,1213.6,Myntra,Bangalore,21,0,0,0,Android Phone,0,0
+TXN101765,CUST1276,1293.25,Electricity Board,Mumbai,7,0,0,0,iPhone,0,0
+TXN101766,CUST1227,3040.56,Myntra,Gurgaon,7,0,0,0,Tablet,0,0
+TXN101767,CUST1212,1190.01,Uber,Delhi,9,0,0,0,Desktop Browser,0,0
+TXN101768,CUST1184,4038.05,BigBasket,Jaipur,20,0,0,0,iPhone,0,0
+TXN101769,CUST1015,554.5,Uber,Pune,9,0,0,0,Desktop Browser,0,0
+TXN101770,CUST1013,5992.52,Local Kirana Store,Chennai,10,0,0,0,iPhone,0,0
+TXN101771,CUST1260,2212.04,Uber,Delhi,11,0,0,0,iPhone,0,0
+TXN101772,CUST1016,4962.28,Flipkart,Mumbai,12,0,0,0,Android Phone,0,0
+TXN101773,CUST1039,2174.82,Ola,Gurgaon,18,0,0,0,Tablet,0,0
+TXN101774,CUST1280,3507.79,Electricity Board,Delhi,23,0,0,0,Android Phone,0,0
+TXN101775,CUST1026,1263.79,BigBasket,Pune,16,0,0,0,Tablet,0,0
+TXN101776,CUST1099,3469.41,Cash Withdrawal ATM,Bangalore,7,0,0,0,iPhone,0,0
+TXN101777,CUST1185,3388.33,PayU Recharge,Pune,23,0,0,0,iPhone,0,0
+TXN101778,CUST1209,2433.17,Myntra,Bangalore,17,0,0,0,iPhone,0,0
+TXN101779,CUST1247,4755.37,Swiggy,Gurgaon,13,0,0,0,iPhone,0,0
+TXN101780,CUST1275,5024.59,Swiggy,Hyderabad,13,0,0,0,Android Phone,0,0
+TXN101781,CUST1133,561.15,IRCTC,Chennai,10,0,0,0,Desktop Browser,0,0
+TXN101782,CUST1258,1065.09,Zomato,Bangalore,15,0,0,0,Android Phone,0,0
+TXN101783,CUST1092,2763.23,Cash Withdrawal ATM,Gurgaon,5,0,0,0,Tablet,0,0
+TXN101784,CUST1283,529.93,Amazon,Bangalore,23,0,0,0,Desktop Browser,0,0
+TXN101785,CUST1220,35308.55,Foreign Exchange Kiosk,Mumbai,2,1,0,1,Android Phone,1,1
+TXN101786,CUST1065,794.98,Myntra,Jaipur,7,0,0,0,Tablet,0,0
+TXN101787,CUST1172,619.94,Local Kirana Store,Hyderabad,3,1,0,0,Tablet,0,0
+TXN101788,CUST1181,4003.21,IRCTC,Kolkata,13,0,0,0,Android Phone,0,0
+TXN101789,CUST1148,1448.92,Cash Withdrawal ATM,Pune,4,1,0,0,iPhone,0,0
+TXN101790,CUST1260,2751.2,Ola,Delhi,0,1,0,0,iPhone,0,0
+TXN101791,CUST1232,2970.76,BigBasket,Kolkata,5,0,0,0,Desktop Browser,0,0
+TXN101792,CUST1049,4030.93,Electricity Board,Chennai,10,0,0,0,Android Phone,0,0
+TXN101793,CUST1296,2539.16,Myntra,Gurgaon,13,0,0,0,Tablet,0,0
+TXN101794,CUST1091,2193.6,Zomato,Jaipur,23,0,0,0,Desktop Browser,0,0
+TXN101795,CUST1220,1140.19,BigBasket,Mumbai,19,0,0,0,Tablet,0,0
+TXN101796,CUST1084,578.91,Swiggy,Mumbai,15,0,0,0,iPhone,0,0
+TXN101797,CUST1147,1484.39,Zomato,Gurgaon,19,0,0,0,iPhone,0,0
+TXN101798,CUST1142,4590.59,Swiggy,Hyderabad,17,0,0,0,Tablet,0,0
+TXN101799,CUST1014,746.92,Amazon,Mumbai,17,0,0,0,iPhone,0,0
+TXN101800,CUST1250,3260.26,Uber,Hyderabad,11,0,0,0,Tablet,0,0
+TXN101801,CUST1218,2513.39,Flipkart,Hyderabad,4,1,0,0,iPhone,0,0
+TXN101802,CUST1061,642.62,Swiggy,Chennai,15,0,0,0,iPhone,0,0
+TXN101803,CUST1142,2635.33,Cash Withdrawal ATM,Hyderabad,11,0,0,0,Tablet,0,0
+TXN101804,CUST1113,2076.65,PayU Recharge,Mumbai,5,0,0,0,Tablet,0,0
+TXN101805,CUST1262,2466.43,Amazon,Hyderabad,22,0,0,0,Android Phone,0,0
+TXN101806,CUST1221,1025.93,Electricity Board,Mumbai,16,0,0,0,Android Phone,0,0
+TXN101807,CUST1018,1520.22,IRCTC,Gurgaon,0,1,0,0,Tablet,0,0
+TXN101808,CUST1112,3410.33,Swiggy,Gurgaon,15,0,0,0,iPhone,0,0
+TXN101809,CUST1254,2520.86,Electricity Board,Bangalore,20,0,0,0,Tablet,0,0
+TXN101810,CUST1109,63460.17,Foreign Exchange Kiosk,Lagos,15,0,1,1,iPhone,1,1
+TXN101811,CUST1134,2320.94,PayU Recharge,Pune,18,0,0,0,Desktop Browser,0,0
+TXN101812,CUST1271,594.3,BigBasket,Bangalore,9,0,0,0,Tablet,0,0
+TXN101813,CUST1248,3275.09,PayU Recharge,Hyderabad,12,0,0,0,Tablet,0,0
+TXN101814,CUST1151,2868.19,Myntra,Bangalore,9,0,0,0,Tablet,0,0
+TXN101815,CUST1126,4813.12,Ola,Kolkata,5,0,0,0,Desktop Browser,0,0
+TXN101816,CUST1058,1266.04,PayU Recharge,Mumbai,22,0,0,0,Android Phone,0,0
+TXN101817,CUST1250,3298.18,Electricity Board,Hyderabad,7,0,0,0,Tablet,0,0
+TXN101818,CUST1110,3254.76,Myntra,Hyderabad,13,0,0,0,Tablet,0,0
+TXN101819,CUST1133,908.98,IRCTC,Chennai,12,0,0,0,Desktop Browser,0,0
+TXN101820,CUST1133,693.79,Ola,Chennai,15,0,0,0,Desktop Browser,0,0
+TXN101821,CUST1023,4795.42,Electricity Board,Chennai,7,0,0,0,iPhone,0,0
+TXN101822,CUST1105,1774.69,Uber,Bangalore,19,0,0,0,Desktop Browser,0,0
+TXN101823,CUST1276,13489.1,Unknown Merchant Ltd,Mumbai,0,1,0,1,Tablet,1,1
+TXN101824,CUST1170,2569.72,Electricity Board,Delhi,17,0,0,0,iPhone,0,0
+TXN101825,CUST1107,3699.52,Local Kirana Store,Chennai,5,0,0,0,iPhone,0,0
+TXN101826,CUST1117,2768.5,Electricity Board,Kolkata,11,0,0,0,Android Phone,0,0
+TXN101827,CUST1127,5078.69,Flipkart,Pune,0,1,0,0,Desktop Browser,0,0
+TXN101828,CUST1256,3086.16,Amazon,Gurgaon,1,1,0,0,iPhone,0,0
+TXN101829,CUST1117,2341.32,Flipkart,Kolkata,7,0,0,0,Android Phone,0,0
+TXN101830,CUST1193,3235.53,Flipkart,Kolkata,23,0,0,0,iPhone,0,0
+TXN101831,CUST1039,1789.79,Amazon,Gurgaon,22,0,0,0,Tablet,0,0
+TXN101832,CUST1007,1947.07,Local Kirana Store,Kolkata,19,0,0,0,iPhone,0,0
+TXN101833,CUST1200,1719.94,Electricity Board,Pune,9,0,0,0,Desktop Browser,0,0
+TXN101834,CUST1011,3509.53,Ola,Hyderabad,6,0,0,0,Android Phone,0,0
+TXN101835,CUST1295,3083.3,IRCTC,Delhi,13,0,0,0,Desktop Browser,0,0
+TXN101836,CUST1287,4037.45,IRCTC,Delhi,22,0,0,0,iPhone,0,0
+TXN101837,CUST1008,3733.81,Local Kirana Store,Gurgaon,12,0,0,0,Tablet,0,0
+TXN101838,CUST1055,5308.56,PayU Recharge,Pune,0,1,0,0,Android Phone,0,0
+TXN101839,CUST1189,1405.98,Cash Withdrawal ATM,Chennai,20,0,0,0,Android Phone,0,0
+TXN101840,CUST1042,3921.05,Uber,Chennai,6,0,0,0,Android Phone,0,0
+TXN101841,CUST1127,3432.61,Local Kirana Store,Pune,19,0,0,0,Desktop Browser,0,0
+TXN101842,CUST1290,3594.55,Local Kirana Store,Pune,15,0,0,0,Android Phone,0,0
+TXN101843,CUST1172,1211.26,IRCTC,Hyderabad,10,0,0,0,Tablet,0,0
+TXN101844,CUST1002,454.81,PayU Recharge,Kolkata,17,0,0,0,Tablet,0,0
+TXN101845,CUST1160,3569.79,Electricity Board,Kolkata,10,0,0,0,Desktop Browser,0,0
+TXN101846,CUST1284,1314.16,Local Kirana Store,Kolkata,2,1,0,0,iPhone,0,0
+TXN101847,CUST1039,1480.95,Flipkart,Gurgaon,0,1,0,0,Android Phone,0,0
+TXN101848,CUST1085,3286.41,PayU Recharge,Jaipur,3,1,0,0,iPhone,0,0
+TXN101849,CUST1087,4732.44,Electricity Board,Bangalore,15,0,0,0,Tablet,0,0
+TXN101850,CUST1214,2156.86,Local Kirana Store,Delhi,3,1,0,0,Desktop Browser,0,0
+TXN101851,CUST1138,1619.51,Swiggy,Gurgaon,11,0,0,0,Android Phone,0,0
+TXN101852,CUST1148,1847.06,Uber,Pune,19,0,0,0,Desktop Browser,0,0
+TXN101853,CUST1128,3352.55,Swiggy,Delhi,10,0,0,0,Desktop Browser,0,0
+TXN101854,CUST1084,654.15,Swiggy,Mumbai,15,0,0,0,iPhone,0,0
+TXN101855,CUST1076,2068.92,Zomato,Mumbai,0,1,0,0,Android Phone,0,0
+TXN101856,CUST1048,3097.05,Uber,Gurgaon,3,1,0,0,Desktop Browser,0,0
+TXN101857,CUST1080,2026.35,Ola,Jaipur,17,0,0,0,Android Phone,0,0
+TXN101858,CUST1007,4216.18,IRCTC,Kolkata,9,0,0,0,iPhone,0,0
+TXN101859,CUST1299,427.25,BigBasket,Hyderabad,19,0,0,0,Android Phone,0,0
+TXN101860,CUST1287,4382.58,Flipkart,Delhi,6,0,0,0,iPhone,0,0
+TXN101861,CUST1110,1920.22,Electricity Board,Hyderabad,18,0,0,0,Tablet,0,0
+TXN101862,CUST1196,1704.48,Cash Withdrawal ATM,Kolkata,18,0,0,0,Tablet,0,0
+TXN101863,CUST1242,1514.42,Cash Withdrawal ATM,Hyderabad,7,0,0,0,Android Phone,0,0
+TXN101864,CUST1075,860.33,Amazon,Jaipur,0,1,0,0,Tablet,0,0
+TXN101865,CUST1070,3815.82,BigBasket,Pune,13,0,0,0,Desktop Browser,0,0
+TXN101866,CUST1256,3457.48,IRCTC,Gurgaon,17,0,0,0,iPhone,0,0
+TXN101867,CUST1242,2639.59,Uber,Hyderabad,16,0,0,0,Android Phone,0,0
+TXN101868,CUST1109,3153.72,Swiggy,Delhi,20,0,0,0,Android Phone,0,0
+TXN101869,CUST1223,2919.6,Flipkart,Kolkata,22,0,0,0,Desktop Browser,0,0
+TXN101870,CUST1285,1104.17,Myntra,Bangalore,11,0,0,0,Desktop Browser,0,0
+TXN101871,CUST1238,1768.75,Electricity Board,Hyderabad,23,0,0,0,Tablet,0,0
+TXN101872,CUST1097,3283.65,Myntra,Hyderabad,23,0,0,0,iPhone,0,0
+TXN101873,CUST1269,603.61,Myntra,Hyderabad,9,0,0,0,Android Phone,0,0
+TXN101874,CUST1129,2641.5,BigBasket,Kolkata,19,0,0,0,Desktop Browser,0,0
+TXN101875,CUST1245,3417.98,Amazon,Kolkata,22,0,0,0,iPhone,0,0
+TXN101876,CUST1292,4742.4,Uber,Kolkata,22,0,0,0,Tablet,0,0
+TXN101877,CUST1232,2788.54,Electricity Board,Kolkata,23,0,0,0,Desktop Browser,0,0
+TXN101878,CUST1053,32338.03,Crypto Exchange XYZ,Lagos,19,0,1,1,iPhone,1,1
+TXN101879,CUST1042,2565.04,Local Kirana Store,Chennai,3,1,0,0,Desktop Browser,0,0
+TXN101880,CUST1031,5426.29,Zomato,Bangalore,17,0,0,0,Android Phone,0,0
+TXN101881,CUST1008,3575.93,Uber,Gurgaon,10,0,0,0,Tablet,0,0
+TXN101882,CUST1187,4460.93,Ola,Hyderabad,21,0,0,0,iPhone,0,0
+TXN101883,CUST1031,4495.52,Flipkart,Bangalore,16,0,0,0,Android Phone,0,0
+TXN101884,CUST1088,5388.45,IRCTC,Pune,19,0,0,0,Tablet,0,0
+TXN101885,CUST1088,3507.47,Myntra,Pune,0,1,0,0,Android Phone,0,0
+TXN101886,CUST1060,1072.59,PayU Recharge,Delhi,22,0,0,0,Tablet,0,0
+TXN101887,CUST1045,733.61,Myntra,Bangalore,5,0,0,0,Desktop Browser,0,0
+TXN101888,CUST1010,2692.38,PayU Recharge,Chennai,0,1,0,0,Android Phone,0,0
+TXN101889,CUST1041,5619.37,Ola,Chennai,7,0,0,0,iPhone,0,0
+TXN101890,CUST1097,2611.19,Local Kirana Store,Hyderabad,4,1,0,0,iPhone,0,0
+TXN101891,CUST1146,2258.45,Zomato,Gurgaon,18,0,0,0,iPhone,0,0
+TXN101892,CUST1139,4409.41,BigBasket,Mumbai,9,0,0,0,iPhone,0,0
+TXN101893,CUST1047,2462.04,Electricity Board,Kolkata,11,0,0,0,iPhone,0,0
+TXN101894,CUST1230,7048.27,Uber,Pune,5,0,0,0,iPhone,0,0
+TXN101895,CUST1197,3806.39,Ola,Chennai,6,0,0,0,Tablet,0,0
+TXN101896,CUST1147,3256.82,Cash Withdrawal ATM,Gurgaon,16,0,0,0,iPhone,0,0
+TXN101897,CUST1137,2402.56,BigBasket,Gurgaon,6,0,0,0,Desktop Browser,0,0
+TXN101898,CUST1016,2274.13,Swiggy,Mumbai,21,0,0,0,Android Phone,0,0
+TXN101899,CUST1239,4897.31,Amazon,Kolkata,18,0,0,0,iPhone,0,0
+TXN101900,CUST1165,4036.35,Swiggy,Kolkata,11,0,0,0,Android Phone,0,0
+TXN101901,CUST1215,538.39,Myntra,Pune,20,0,0,0,iPhone,0,0
+TXN101902,CUST1156,1607.51,Cash Withdrawal ATM,Delhi,5,0,0,0,Android Phone,0,0
+TXN101903,CUST1233,3404.88,Zomato,Hyderabad,13,0,0,0,Tablet,0,0
+TXN101904,CUST1129,5835.03,BigBasket,Kolkata,10,0,0,0,Desktop Browser,0,0
+TXN101905,CUST1020,4746.17,Electricity Board,Hyderabad,7,0,0,0,Android Phone,0,0
+TXN101906,CUST1055,3761.53,Amazon,Pune,8,0,0,0,iPhone,0,0
+TXN101907,CUST1083,302.73,Local Kirana Store,Mumbai,9,0,0,0,Tablet,0,0
+TXN101908,CUST1268,1866.84,Ola,Jaipur,18,0,0,0,Android Phone,0,0
+TXN101909,CUST1170,2876.62,Swiggy,Delhi,2,1,0,0,iPhone,0,0
+TXN101910,CUST1177,1198.0,Zomato,Gurgaon,14,0,0,0,Android Phone,0,0
+TXN101911,CUST1088,6154.74,IRCTC,Pune,5,0,0,0,Tablet,0,0
+TXN101912,CUST1046,3190.58,Myntra,Bangalore,21,0,0,0,Desktop Browser,0,0
+TXN101913,CUST1002,482.92,IRCTC,Kolkata,3,1,0,0,Tablet,0,0
+TXN101914,CUST1108,1045.38,Zomato,Bangalore,12,0,0,0,Desktop Browser,0,0
+TXN101915,CUST1049,4823.11,BigBasket,Chennai,4,1,0,0,Android Phone,0,0
+TXN101916,CUST1217,4427.63,Local Kirana Store,Gurgaon,2,1,0,0,Tablet,0,0
+TXN101917,CUST1013,3623.59,Myntra,Chennai,5,0,0,0,iPhone,0,0
+TXN101918,CUST1174,1928.85,Flipkart,Mumbai,19,0,0,0,Desktop Browser,0,0
+TXN101919,CUST1117,2430.67,Flipkart,Kolkata,1,1,0,0,Android Phone,0,0
+TXN101920,CUST1173,1804.63,IRCTC,Hyderabad,13,0,0,0,Tablet,0,0
+TXN101921,CUST1246,43717.4,Foreign Exchange Kiosk,Lagos,13,0,1,1,iPhone,1,1
+TXN101922,CUST1042,3704.55,Cash Withdrawal ATM,Chennai,3,1,0,0,Desktop Browser,0,0
+TXN101923,CUST1006,223.65,PayU Recharge,Pune,18,0,0,0,Android Phone,0,0
+TXN101924,CUST1005,3354.05,Amazon,Jaipur,21,0,0,0,iPhone,0,0
+TXN101925,CUST1155,5425.47,Cash Withdrawal ATM,Delhi,20,0,0,0,Desktop Browser,0,0
+TXN101926,CUST1230,4060.08,Electricity Board,Pune,15,0,0,0,Tablet,0,0
+TXN101927,CUST1186,3128.87,Ola,Mumbai,13,0,0,0,iPhone,0,0
+TXN101928,CUST1040,3499.69,Electricity Board,Bangalore,22,0,0,0,Android Phone,0,0
+TXN101929,CUST1232,1510.37,PayU Recharge,Kolkata,9,0,0,0,Desktop Browser,0,0
+TXN101930,CUST1235,357.28,IRCTC,Pune,19,0,0,0,Desktop Browser,0,0
+TXN101931,CUST1172,872.35,BigBasket,Hyderabad,0,1,0,0,Tablet,0,0
+TXN101932,CUST1182,4505.31,Uber,Chennai,10,0,0,0,Tablet,0,0
+TXN101933,CUST1057,3651.18,Swiggy,Gurgaon,17,0,0,0,Tablet,0,0
+TXN101934,CUST1043,5491.26,IRCTC,Gurgaon,23,0,0,0,iPhone,0,0
+TXN101935,CUST1140,2980.12,Local Kirana Store,Jaipur,22,0,0,0,iPhone,0,0
+TXN101936,CUST1268,2547.69,Swiggy,Jaipur,2,1,0,0,Android Phone,0,0
+TXN101937,CUST1051,311.65,Ola,Chennai,23,0,0,0,Android Phone,0,0
+TXN101938,CUST1154,2565.75,Ola,Kolkata,5,0,0,0,Android Phone,0,0
+TXN101939,CUST1040,3194.01,BigBasket,Bangalore,3,1,0,0,Android Phone,0,0
+TXN101940,CUST1155,6385.66,Myntra,Delhi,7,0,0,0,Desktop Browser,0,0
+TXN101941,CUST1293,3264.31,Cash Withdrawal ATM,Pune,13,0,0,0,Android Phone,0,0
+TXN101942,CUST1095,504.15,Swiggy,Pune,1,1,0,0,Tablet,0,0
+TXN101943,CUST1145,5241.02,Ola,Bangalore,6,0,0,0,iPhone,0,0
+TXN101944,CUST1066,472.29,Myntra,Jaipur,19,0,0,0,Tablet,0,0
+TXN101945,CUST1049,2731.37,Uber,Chennai,22,0,0,0,Android Phone,0,0
+TXN101946,CUST1147,2254.95,Uber,Gurgaon,14,0,0,0,iPhone,0,0
+TXN101947,CUST1168,3892.75,Myntra,Delhi,17,0,0,0,Tablet,0,0
+TXN101948,CUST1177,1284.82,Zomato,Gurgaon,14,0,0,0,Android Phone,0,0
+TXN101949,CUST1272,2684.44,Ola,Pune,12,0,0,0,Tablet,0,0
+TXN101950,CUST1292,7253.97,Flipkart,Kolkata,15,0,0,0,Tablet,0,0
+TXN101951,CUST1106,2832.35,Myntra,Bangalore,11,0,0,0,Desktop Browser,0,0
+TXN101952,CUST1231,4382.06,Uber,Mumbai,4,1,0,0,Desktop Browser,0,0
+TXN101953,CUST1180,4412.7,Electricity Board,Jaipur,0,1,0,0,Desktop Browser,0,0
+TXN101954,CUST1251,1315.01,Flipkart,Gurgaon,17,0,0,0,Android Phone,0,0
+TXN101955,CUST1049,2990.05,Swiggy,Chennai,3,1,0,0,Android Phone,0,0
+TXN101956,CUST1205,3677.61,BigBasket,Gurgaon,6,0,0,0,iPhone,0,0
+TXN101957,CUST1163,1228.28,Ola,Delhi,3,1,0,0,Android Phone,0,0
+TXN101958,CUST1162,570.8,PayU Recharge,Jaipur,12,0,0,0,Tablet,0,0
+TXN101959,CUST1237,5772.53,Swiggy,Bangalore,14,0,0,0,iPhone,0,0
+TXN101960,CUST1204,2427.41,Swiggy,Jaipur,10,0,0,0,iPhone,0,0
+TXN101961,CUST1050,2029.96,Ola,Mumbai,13,0,0,0,iPhone,0,0
+TXN101962,CUST1014,576.93,Flipkart,Mumbai,19,0,0,0,iPhone,0,0
+TXN101963,CUST1292,5421.43,Swiggy,Kolkata,0,1,0,0,iPhone,0,0
+TXN101964,CUST1291,2173.47,Uber,Kolkata,2,1,0,0,Android Phone,0,0
+TXN101965,CUST1199,5535.53,PayU Recharge,Chennai,6,0,0,0,Desktop Browser,0,0
+TXN101966,CUST1188,4246.75,Zomato,Kolkata,5,0,0,0,Android Phone,0,0
+TXN101967,CUST1165,3104.57,PayU Recharge,Kolkata,0,1,0,0,Android Phone,0,0
+TXN101968,CUST1125,3209.08,PayU Recharge,Pune,7,0,0,0,Tablet,0,0
+TXN101969,CUST1256,3275.99,Swiggy,Gurgaon,19,0,0,0,iPhone,0,0
+TXN101970,CUST1125,5919.65,Ola,Pune,2,1,0,0,Tablet,0,0
+TXN101971,CUST1208,6072.64,BigBasket,Delhi,12,0,0,0,Desktop Browser,0,0
+TXN101972,CUST1275,6898.02,Local Kirana Store,Hyderabad,19,0,0,0,Android Phone,0,0
+TXN101973,CUST1012,3744.37,IRCTC,Mumbai,23,0,0,0,iPhone,0,0
+TXN101974,CUST1020,3802.98,IRCTC,Hyderabad,16,0,0,0,Android Phone,0,0
+TXN101975,CUST1063,2256.86,Cash Withdrawal ATM,Kolkata,8,0,0,0,Tablet,0,0
+TXN101976,CUST1057,3421.49,Zomato,Gurgaon,13,0,0,0,Desktop Browser,0,0
+TXN101977,CUST1247,5308.46,PayU Recharge,Gurgaon,10,0,0,0,iPhone,0,0
+TXN101978,CUST1251,1190.55,PayU Recharge,Gurgaon,8,0,0,0,Android Phone,0,0
+TXN101979,CUST1169,590.78,Amazon,Gurgaon,8,0,0,0,Tablet,0,0
+TXN101980,CUST1071,5777.39,Uber,Jaipur,0,1,0,0,Tablet,0,0
+TXN101981,CUST1185,3032.1,BigBasket,Pune,22,0,0,0,iPhone,0,0
+TXN101982,CUST1243,621.87,Local Kirana Store,Jaipur,9,0,0,0,Android Phone,0,0
+TXN101983,CUST1065,1139.04,Amazon,Jaipur,12,0,0,0,Tablet,0,0
+TXN101984,CUST1108,823.97,Local Kirana Store,Bangalore,18,0,0,0,Desktop Browser,0,0
+TXN101985,CUST1260,2815.16,Swiggy,Delhi,12,0,0,0,iPhone,0,0
+TXN101986,CUST1176,3529.49,IRCTC,Kolkata,16,0,0,0,Tablet,0,0
+TXN101987,CUST1248,2580.66,IRCTC,Hyderabad,16,0,0,0,Tablet,0,0
+TXN101988,CUST1007,2417.4,Zomato,Kolkata,10,0,0,0,iPhone,0,0
+TXN101989,CUST1076,1066.94,Zomato,Mumbai,23,0,0,0,Android Phone,0,0
+TXN101990,CUST1182,2031.39,Local Kirana Store,Chennai,20,0,0,0,Tablet,0,0
+TXN101991,CUST1268,3398.43,IRCTC,Jaipur,6,0,0,0,Android Phone,0,0
+TXN101992,CUST1050,2348.82,Electricity Board,Mumbai,2,1,0,0,iPhone,0,0
+TXN101993,CUST1275,4940.96,Zomato,Hyderabad,1,1,0,0,Android Phone,0,0
+TXN101994,CUST1125,6809.66,Zomato,Pune,5,0,0,0,Tablet,0,0
+TXN101995,CUST1116,758.92,BigBasket,Pune,5,0,0,0,iPhone,0,0
+TXN101996,CUST1282,6435.23,Flipkart,Kolkata,6,0,0,0,Tablet,0,0
+TXN101997,CUST1067,1162.04,Cash Withdrawal ATM,Gurgaon,6,0,0,0,Desktop Browser,0,0
+TXN101998,CUST1297,2887.02,Myntra,Gurgaon,17,0,0,0,Android Phone,0,0
+TXN101999,CUST1037,4196.95,Flipkart,Pune,14,0,0,0,Tablet,0,0

@@ -1,0 +1,251 @@
+case_id,transaction_id,customer_id,verdict,case_note
+CASE6860,TXN101860,CUST1287,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5353,TXN100353,CUST1211,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6333,TXN101333,CUST1002,Fraud Confirmed,"Multiple high-value transactions from Kolkata within a short window, inconsistent with customer's usual spending pattern in Kolkata. Flagged for geo-velocity mismatch. Confirmed as fraud after customer denied transactions."
+CASE5905,TXN100905,CUST1056,Legitimate,Routine purchase at Zomato; amount and location consistent with customer behavior. No further action needed.
+CASE6289,TXN101289,CUST1221,Legitimate,Routine purchase at Flipkart; amount and location consistent with customer behavior. No further action needed.
+CASE6273,TXN101273,CUST1173,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5938,TXN100938,CUST1167,Legitimate,"Customer Meera Iyer made a transaction of ₹3040.76 at PayU Recharge in Kolkata, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6731,TXN101731,CUST1116,Fraud Confirmed,"Multiple high-value transactions from Dubai within a short window, inconsistent with customer's usual spending pattern in Dubai. Flagged for geo-velocity mismatch. Confirmed as fraud after customer denied transactions."
+CASE5065,TXN100065,CUST1088,Fraud Confirmed,"Multiple high-value transactions from Dubai within a short window, inconsistent with customer's usual spending pattern in Dubai. Flagged for geo-velocity mismatch. Confirmed as fraud after customer denied transactions."
+CASE6323,TXN101323,CUST1164,Legitimate,"Customer Rohan Gupta made a transaction of ₹2312.34 at Flipkart in Hyderabad, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5056,TXN100056,CUST1038,Legitimate,"Customer Sai Das made a transaction of ₹2548.69 at Uber in Mumbai, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6292,TXN101292,CUST1252,Legitimate,Routine purchase at Flipkart; amount and location consistent with customer behavior. No further action needed.
+CASE6118,TXN101118,CUST1227,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5584,TXN100584,CUST1085,Legitimate,"Customer Sanya Reddy made a transaction of ₹2586.89 at Zomato in Jaipur, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5374,TXN100374,CUST1164,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5275,TXN100275,CUST1231,Legitimate,Routine purchase at Amazon; amount and location consistent with customer behavior. No further action needed.
+CASE5746,TXN100746,CUST1240,Legitimate,Routine purchase at PayU Recharge; amount and location consistent with customer behavior. No further action needed.
+CASE5128,TXN100128,CUST1087,Legitimate,Routine purchase at Uber; amount and location consistent with customer behavior. No further action needed.
+CASE6646,TXN101646,CUST1099,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6852,TXN101852,CUST1148,Legitimate,"Customer Priya Verma made a transaction of ₹1847.06 at Uber in Pune, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5674,TXN100674,CUST1141,Legitimate,"Customer Vivaan Das made a transaction of ₹1753.79 at Uber in Gurgaon, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6664,TXN101664,CUST1055,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6981,TXN101981,CUST1185,Legitimate,"Customer Priya Singh made a transaction of ₹3032.1 at BigBasket in Pune, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6083,TXN101083,CUST1096,Legitimate,"Customer Aarav Kumar made a transaction of ₹2275.23 at Swiggy in Bangalore, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6922,TXN101922,CUST1042,Legitimate,Routine purchase at Cash Withdrawal ATM; amount and location consistent with customer behavior. No further action needed.
+CASE5099,TXN100099,CUST1263,Legitimate,Routine purchase at Cash Withdrawal ATM; amount and location consistent with customer behavior. No further action needed.
+CASE6179,TXN101179,CUST1257,Legitimate,Routine purchase at Amazon; amount and location consistent with customer behavior. No further action needed.
+CASE5964,TXN100964,CUST1147,Legitimate,Routine purchase at Flipkart; amount and location consistent with customer behavior. No further action needed.
+CASE5792,TXN100792,CUST1254,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5029,TXN100029,CUST1173,Legitimate,"Customer Aryan Reddy made a transaction of ₹1368.1 at IRCTC in Hyderabad, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5628,TXN100628,CUST1132,Legitimate,"Customer Neha Joshi made a transaction of ₹868.38 at Uber in Bangalore, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5944,TXN100944,CUST1176,Legitimate,"Customer Aryan Patel made a transaction of ₹3565.03 at Flipkart in Kolkata, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5572,TXN100572,CUST1134,Legitimate,"Customer Ananya Patel made a transaction of ₹2353.5 at Myntra in Pune, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5907,TXN100907,CUST1074,Legitimate,"Customer Kabir Sharma made a transaction of ₹4423.34 at Swiggy in Delhi, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6080,TXN101080,CUST1144,Legitimate,Routine purchase at BigBasket; amount and location consistent with customer behavior. No further action needed.
+CASE5450,TXN100450,CUST1113,Legitimate,"Customer Kabir Iyer made a transaction of ₹3202.19 at Myntra in Mumbai, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6609,TXN101609,CUST1055,Legitimate,"Customer Karan Reddy made a transaction of ₹3561.78 at Ola in Pune, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6290,TXN101290,CUST1201,Legitimate,Routine purchase at BigBasket; amount and location consistent with customer behavior. No further action needed.
+CASE6078,TXN101078,CUST1162,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5254,TXN100254,CUST1137,Legitimate,Routine purchase at BigBasket; amount and location consistent with customer behavior. No further action needed.
+CASE5124,TXN100124,CUST1063,Legitimate,Routine purchase at Local Kirana Store; amount and location consistent with customer behavior. No further action needed.
+CASE6927,TXN101927,CUST1186,Legitimate,Routine purchase at Ola; amount and location consistent with customer behavior. No further action needed.
+CASE5251,TXN100251,CUST1047,Legitimate,Routine purchase at BigBasket; amount and location consistent with customer behavior. No further action needed.
+CASE5585,TXN100585,CUST1193,Legitimate,"Customer Ananya Mehta made a transaction of ₹4297.43 at Electricity Board in Kolkata, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6568,TXN101568,CUST1208,Legitimate,"Customer Diya Sharma made a transaction of ₹6831.25 at Swiggy in Delhi, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5824,TXN100824,CUST1176,Legitimate,"Customer Aryan Patel made a transaction of ₹5126.67 at IRCTC in Kolkata, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5507,TXN100507,CUST1164,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5889,TXN100889,CUST1109,Legitimate,"Customer Meera Rao made a transaction of ₹2283.86 at BigBasket in Delhi, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5070,TXN100070,CUST1168,Legitimate,"Customer Aditya Nair made a transaction of ₹6682.75 at Ola in Delhi, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6608,TXN101608,CUST1249,Legitimate,"Customer Vivaan Reddy made a transaction of ₹5860.03 at Myntra in Pune, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6532,TXN101532,CUST1005,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5247,TXN100247,CUST1042,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6450,TXN101450,CUST1056,Legitimate,"Customer Reyansh Das made a transaction of ₹3197.08 at Electricity Board in Bangalore, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5212,TXN100212,CUST1189,Legitimate,"Customer Aarav Nair made a transaction of ₹1297.93 at Ola in Chennai, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5909,TXN100909,CUST1016,Legitimate,"Customer Ananya Rao made a transaction of ₹2024.61 at PayU Recharge in Mumbai, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6741,TXN101741,CUST1282,Legitimate,Routine purchase at Myntra; amount and location consistent with customer behavior. No further action needed.
+CASE6244,TXN101244,CUST1173,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6696,TXN101696,CUST1123,Legitimate,Routine purchase at PayU Recharge; amount and location consistent with customer behavior. No further action needed.
+CASE6182,TXN101182,CUST1011,Legitimate,"Customer Vivaan Mehta made a transaction of ₹6243.51 at Myntra in Hyderabad, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5361,TXN100361,CUST1075,Legitimate,Routine purchase at Ola; amount and location consistent with customer behavior. No further action needed.
+CASE6473,TXN101473,CUST1031,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5678,TXN100678,CUST1162,Legitimate,Routine purchase at PayU Recharge; amount and location consistent with customer behavior. No further action needed.
+CASE6621,TXN101621,CUST1002,Legitimate,Routine purchase at Amazon; amount and location consistent with customer behavior. No further action needed.
+CASE6089,TXN101089,CUST1255,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6987,TXN101987,CUST1248,Legitimate,"Customer Anika Chatterjee made a transaction of ₹2580.66 at IRCTC in Hyderabad, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6847,TXN101847,CUST1039,Legitimate,Routine purchase at Flipkart; amount and location consistent with customer behavior. No further action needed.
+CASE5987,TXN100987,CUST1296,Legitimate,"Customer Ishaan Joshi made a transaction of ₹2134.12 at BigBasket in Gurgaon, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6512,TXN101512,CUST1275,Legitimate,Routine purchase at Flipkart; amount and location consistent with customer behavior. No further action needed.
+CASE5111,TXN100111,CUST1039,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6487,TXN101487,CUST1202,Legitimate,"Customer Vihaan Mehta made a transaction of ₹1602.58 at Swiggy in Jaipur, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6453,TXN101453,CUST1126,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5383,TXN100383,CUST1072,Legitimate,Routine purchase at Flipkart; amount and location consistent with customer behavior. No further action needed.
+CASE6395,TXN101395,CUST1042,Legitimate,Routine purchase at Amazon; amount and location consistent with customer behavior. No further action needed.
+CASE6054,TXN101054,CUST1041,Legitimate,Routine purchase at Myntra; amount and location consistent with customer behavior. No further action needed.
+CASE5755,TXN100755,CUST1203,Legitimate,"Customer Reyansh Reddy made a transaction of ₹1642.89 at BigBasket in Hyderabad, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5324,TXN100324,CUST1096,Legitimate,Routine purchase at Cash Withdrawal ATM; amount and location consistent with customer behavior. No further action needed.
+CASE6623,TXN101623,CUST1048,Legitimate,Routine purchase at Cash Withdrawal ATM; amount and location consistent with customer behavior. No further action needed.
+CASE5787,TXN100787,CUST1211,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5368,TXN100368,CUST1221,Legitimate,"Customer Reyansh Iyer made a transaction of ₹1311.74 at IRCTC in Mumbai, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6819,TXN101819,CUST1133,Legitimate,Routine purchase at IRCTC; amount and location consistent with customer behavior. No further action needed.
+CASE5069,TXN100069,CUST1200,Legitimate,Routine purchase at Ola; amount and location consistent with customer behavior. No further action needed.
+CASE5857,TXN100857,CUST1236,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6483,TXN101483,CUST1150,Legitimate,Routine purchase at Myntra; amount and location consistent with customer behavior. No further action needed.
+CASE6555,TXN101555,CUST1168,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6691,TXN101691,CUST1102,Legitimate,Routine purchase at Electricity Board; amount and location consistent with customer behavior. No further action needed.
+CASE6474,TXN101474,CUST1272,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6798,TXN101798,CUST1142,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5478,TXN100478,CUST1218,Legitimate,"Customer Meera Nair made a transaction of ₹3562.52 at Ola in Hyderabad, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5281,TXN100281,CUST1052,Legitimate,Routine purchase at PayU Recharge; amount and location consistent with customer behavior. No further action needed.
+CASE6647,TXN101647,CUST1252,Legitimate,"Customer Ishaan Das made a transaction of ₹5415.33 at Flipkart in Delhi, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6556,TXN101556,CUST1243,Legitimate,"Customer Meera Rao made a transaction of ₹327.87 at PayU Recharge in Jaipur, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6729,TXN101729,CUST1282,Legitimate,"Customer Ananya Das made a transaction of ₹2619.86 at Amazon in Kolkata, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5210,TXN100210,CUST1237,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5297,TXN100297,CUST1121,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6884,TXN101884,CUST1088,Legitimate,"Customer Sanya Mehta made a transaction of ₹5388.45 at IRCTC in Pune, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6833,TXN101833,CUST1200,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5651,TXN100651,CUST1243,Legitimate,Routine purchase at PayU Recharge; amount and location consistent with customer behavior. No further action needed.
+CASE6233,TXN101233,CUST1183,Legitimate,"Customer Arjun Singh made a transaction of ₹2888.52 at PayU Recharge in Bangalore, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6502,TXN101502,CUST1114,Legitimate,Routine purchase at Myntra; amount and location consistent with customer behavior. No further action needed.
+CASE6931,TXN101931,CUST1172,Legitimate,"Customer Ananya Gupta made a transaction of ₹872.35 at BigBasket in Hyderabad, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5916,TXN100916,CUST1258,Fraud Confirmed,Customer Riya Das reported an unrecognized transaction of ₹9087.48 at Crypto Exchange XYZ. Device used did not match customer's registered devices. Investigation confirmed unauthorized access; account was temporarily frozen and funds reversed.
+CASE5993,TXN100993,CUST1167,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5429,TXN100429,CUST1291,Fraud Confirmed,"Multiple high-value transactions from Kolkata within a short window, inconsistent with customer's usual spending pattern in Kolkata. Flagged for geo-velocity mismatch. Confirmed as fraud after customer denied transactions."
+CASE6370,TXN101370,CUST1287,Legitimate,Routine purchase at BigBasket; amount and location consistent with customer behavior. No further action needed.
+CASE5239,TXN100239,CUST1016,Legitimate,Routine purchase at Uber; amount and location consistent with customer behavior. No further action needed.
+CASE5879,TXN100879,CUST1018,Legitimate,Routine purchase at Flipkart; amount and location consistent with customer behavior. No further action needed.
+CASE5620,TXN100620,CUST1102,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5256,TXN100256,CUST1100,Legitimate,Routine purchase at Myntra; amount and location consistent with customer behavior. No further action needed.
+CASE5611,TXN100611,CUST1054,Legitimate,Routine purchase at Cash Withdrawal ATM; amount and location consistent with customer behavior. No further action needed.
+CASE5544,TXN100544,CUST1183,Legitimate,"Customer Arjun Singh made a transaction of ₹5305.62 at Uber in Bangalore, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5771,TXN100771,CUST1055,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6419,TXN101419,CUST1138,Legitimate,"Customer Neha Singh made a transaction of ₹1151.74 at Cash Withdrawal ATM in Gurgaon, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6041,TXN101041,CUST1071,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6789,TXN101789,CUST1148,Legitimate,Routine purchase at Cash Withdrawal ATM; amount and location consistent with customer behavior. No further action needed.
+CASE5759,TXN100759,CUST1103,Legitimate,"Customer Anika Reddy made a transaction of ₹1241.77 at Local Kirana Store in Gurgaon, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5382,TXN100382,CUST1090,Legitimate,Routine purchase at Uber; amount and location consistent with customer behavior. No further action needed.
+CASE6103,TXN101103,CUST1040,Legitimate,"Customer Anika Joshi made a transaction of ₹6853.97 at Ola in Bangalore, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5973,TXN100973,CUST1180,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5352,TXN100352,CUST1072,Legitimate,"Customer Arjun Reddy made a transaction of ₹1450.51 at Electricity Board in Pune, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6605,TXN101605,CUST1253,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6825,TXN101825,CUST1107,Legitimate,"Customer Aarav Gupta made a transaction of ₹3699.52 at Local Kirana Store in Chennai, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6036,TXN101036,CUST1237,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6107,TXN101107,CUST1257,Fraud Confirmed,Customer Sanya Gupta reported an unrecognized transaction of ₹29571.87 at Crypto Exchange XYZ. Device used did not match customer's registered devices. Investigation confirmed unauthorized access; account was temporarily frozen and funds reversed.
+CASE5494,TXN100494,CUST1228,Legitimate,Routine purchase at IRCTC; amount and location consistent with customer behavior. No further action needed.
+CASE5393,TXN100393,CUST1055,Legitimate,Routine purchase at Swiggy; amount and location consistent with customer behavior. No further action needed.
+CASE6546,TXN101546,CUST1235,Legitimate,Routine purchase at Ola; amount and location consistent with customer behavior. No further action needed.
+CASE5464,TXN100464,CUST1183,Legitimate,"Customer Arjun Singh made a transaction of ₹3258.94 at Local Kirana Store in Bangalore, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5886,TXN100886,CUST1032,Legitimate,Routine purchase at Uber; amount and location consistent with customer behavior. No further action needed.
+CASE6193,TXN101193,CUST1231,Fraud Confirmed,"Customer's card was used for a transaction at Crypto Exchange XYZ, a merchant category associated with prior fraud cases. Amount was significantly above customer's typical transaction size. Confirmed fraudulent after review."
+CASE5366,TXN100366,CUST1038,Fraud Confirmed,"Multiple high-value transactions from Mumbai within a short window, inconsistent with customer's usual spending pattern in Mumbai. Flagged for geo-velocity mismatch. Confirmed as fraud after customer denied transactions."
+CASE6893,TXN101893,CUST1047,Legitimate,"Customer Karan Rao made a transaction of ₹2462.04 at Electricity Board in Kolkata, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6873,TXN101873,CUST1269,Legitimate,"Customer Vihaan Rao made a transaction of ₹603.61 at Myntra in Hyderabad, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5744,TXN100744,CUST1136,Legitimate,Routine purchase at Ola; amount and location consistent with customer behavior. No further action needed.
+CASE5529,TXN100529,CUST1266,Legitimate,Routine purchase at IRCTC; amount and location consistent with customer behavior. No further action needed.
+CASE5802,TXN100802,CUST1277,Legitimate,Routine purchase at Cash Withdrawal ATM; amount and location consistent with customer behavior. No further action needed.
+CASE6223,TXN101223,CUST1228,Legitimate,Routine purchase at Myntra; amount and location consistent with customer behavior. No further action needed.
+CASE6978,TXN101978,CUST1251,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6905,TXN101905,CUST1020,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6699,TXN101699,CUST1075,Fraud Confirmed,"Customer's card was used for a transaction at Foreign Exchange Kiosk, a merchant category associated with prior fraud cases. Amount was significantly above customer's typical transaction size. Confirmed fraudulent after review."
+CASE6544,TXN101544,CUST1044,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6313,TXN101313,CUST1166,Legitimate,"Customer Reyansh Nair made a transaction of ₹4222.38 at Cash Withdrawal ATM in Chennai, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5306,TXN100306,CUST1047,Legitimate,Routine purchase at Flipkart; amount and location consistent with customer behavior. No further action needed.
+CASE6666,TXN101666,CUST1213,Legitimate,"Customer Neha Verma made a transaction of ₹1884.11 at Electricity Board in Mumbai, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5862,TXN100862,CUST1061,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6566,TXN101566,CUST1296,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5530,TXN100530,CUST1047,Legitimate,"Customer Karan Rao made a transaction of ₹1609.69 at Myntra in Kolkata, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5654,TXN100654,CUST1246,Legitimate,"Customer Aarav Patel made a transaction of ₹3218.55 at IRCTC in Jaipur, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6259,TXN101259,CUST1117,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5233,TXN100233,CUST1115,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5120,TXN100120,CUST1158,Legitimate,Routine purchase at Cash Withdrawal ATM; amount and location consistent with customer behavior. No further action needed.
+CASE6697,TXN101697,CUST1148,Legitimate,"Customer Priya Verma made a transaction of ₹1838.76 at BigBasket in Pune, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5949,TXN100949,CUST1282,Legitimate,"Customer Ananya Das made a transaction of ₹6484.48 at PayU Recharge in Kolkata, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5617,TXN100617,CUST1127,Legitimate,"Customer Sai Chatterjee made a transaction of ₹4658.11 at Flipkart in Pune, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6178,TXN101178,CUST1277,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5307,TXN100307,CUST1273,Legitimate,Routine purchase at BigBasket; amount and location consistent with customer behavior. No further action needed.
+CASE5135,TXN100135,CUST1204,Legitimate,"Customer Aryan Joshi made a transaction of ₹1526.37 at Zomato in Jaipur, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5554,TXN100554,CUST1169,Legitimate,Routine purchase at Uber; amount and location consistent with customer behavior. No further action needed.
+CASE6673,TXN101673,CUST1257,Legitimate,Routine purchase at Local Kirana Store; amount and location consistent with customer behavior. No further action needed.
+CASE5583,TXN100583,CUST1073,Legitimate,Routine purchase at BigBasket; amount and location consistent with customer behavior. No further action needed.
+CASE6640,TXN101640,CUST1262,Legitimate,Routine purchase at Swiggy; amount and location consistent with customer behavior. No further action needed.
+CASE5670,TXN100670,CUST1266,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5834,TXN100834,CUST1217,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5109,TXN100109,CUST1064,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6164,TXN101164,CUST1073,Legitimate,Routine purchase at Local Kirana Store; amount and location consistent with customer behavior. No further action needed.
+CASE6959,TXN101959,CUST1237,Legitimate,"Customer Aryan Sharma made a transaction of ₹5772.53 at Swiggy in Bangalore, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6464,TXN101464,CUST1006,Legitimate,"Customer Ananya Nair made a transaction of ₹217.72 at Cash Withdrawal ATM in Pune, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6728,TXN101728,CUST1018,Legitimate,"Customer Anika Kumar made a transaction of ₹2958.18 at Flipkart in Gurgaon, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6242,TXN101242,CUST1284,Legitimate,Routine purchase at Cash Withdrawal ATM; amount and location consistent with customer behavior. No further action needed.
+CASE5211,TXN100211,CUST1198,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6767,TXN101767,CUST1212,Legitimate,Routine purchase at Uber; amount and location consistent with customer behavior. No further action needed.
+CASE6120,TXN101120,CUST1221,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5679,TXN100679,CUST1098,Fraud Confirmed,"Multiple high-value transactions from Lagos within a short window, inconsistent with customer's usual spending pattern in Lagos. Flagged for geo-velocity mismatch. Confirmed as fraud after customer denied transactions."
+CASE6950,TXN101950,CUST1292,Legitimate,"Customer Vihaan Reddy made a transaction of ₹7253.97 at Flipkart in Kolkata, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6838,TXN101838,CUST1055,Legitimate,"Customer Karan Reddy made a transaction of ₹5308.56 at PayU Recharge in Pune, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5411,TXN100411,CUST1257,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6324,TXN101324,CUST1098,Fraud Confirmed,"Multiple high-value transactions from Delhi within a short window, inconsistent with customer's usual spending pattern in Delhi. Flagged for geo-velocity mismatch. Confirmed as fraud after customer denied transactions."
+CASE5782,TXN100782,CUST1005,Legitimate,"Customer Reyansh Mehta made a transaction of ₹4691.15 at BigBasket in Jaipur, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6345,TXN101345,CUST1203,Legitimate,"Customer Reyansh Reddy made a transaction of ₹2444.6 at Flipkart in Hyderabad, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5874,TXN100874,CUST1246,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6652,TXN101652,CUST1048,Legitimate,Routine purchase at BigBasket; amount and location consistent with customer behavior. No further action needed.
+CASE6278,TXN101278,CUST1155,Legitimate,"Customer Aryan Mehta made a transaction of ₹3331.26 at Local Kirana Store in Delhi, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5785,TXN100785,CUST1173,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6818,TXN101818,CUST1110,Legitimate,Routine purchase at Myntra; amount and location consistent with customer behavior. No further action needed.
+CASE6198,TXN101198,CUST1258,Legitimate,Routine purchase at Cash Withdrawal ATM; amount and location consistent with customer behavior. No further action needed.
+CASE5807,TXN100807,CUST1273,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5712,TXN100712,CUST1163,Legitimate,Routine purchase at Swiggy; amount and location consistent with customer behavior. No further action needed.
+CASE6990,TXN101990,CUST1182,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6659,TXN101659,CUST1251,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6190,TXN101190,CUST1051,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6225,TXN101225,CUST1221,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5602,TXN100602,CUST1040,Legitimate,Routine purchase at Uber; amount and location consistent with customer behavior. No further action needed.
+CASE5270,TXN100270,CUST1261,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6384,TXN101384,CUST1144,Legitimate,"Customer Riya Rao made a transaction of ₹5011.35 at IRCTC in Jaipur, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5231,TXN100231,CUST1076,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5049,TXN100049,CUST1039,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5462,TXN100462,CUST1023,Legitimate,Routine purchase at Electricity Board; amount and location consistent with customer behavior. No further action needed.
+CASE6105,TXN101105,CUST1039,Legitimate,Routine purchase at Flipkart; amount and location consistent with customer behavior. No further action needed.
+CASE5855,TXN100855,CUST1272,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5693,TXN100693,CUST1036,Legitimate,"Customer Vihaan Iyer made a transaction of ₹892.69 at Local Kirana Store in Kolkata, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6551,TXN101551,CUST1287,Fraud Confirmed,"Customer's card was used for a transaction at Foreign Exchange Kiosk, a merchant category associated with prior fraud cases. Amount was significantly above customer's typical transaction size. Confirmed fraudulent after review."
+CASE6872,TXN101872,CUST1097,Legitimate,Routine purchase at Myntra; amount and location consistent with customer behavior. No further action needed.
+CASE5526,TXN100526,CUST1002,Legitimate,Routine purchase at Myntra; amount and location consistent with customer behavior. No further action needed.
+CASE5173,TXN100173,CUST1095,Legitimate,"Customer Rohan Rao made a transaction of ₹301.52 at BigBasket in Pune, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5720,TXN100720,CUST1164,Legitimate,"Customer Rohan Gupta made a transaction of ₹1358.53 at Myntra in Hyderabad, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5414,TXN100414,CUST1075,Legitimate,Routine purchase at Cash Withdrawal ATM; amount and location consistent with customer behavior. No further action needed.
+CASE5237,TXN100237,CUST1117,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6472,TXN101472,CUST1011,Legitimate,Routine purchase at Uber; amount and location consistent with customer behavior. No further action needed.
+CASE6335,TXN101335,CUST1063,Legitimate,Routine purchase at BigBasket; amount and location consistent with customer behavior. No further action needed.
+CASE6063,TXN101063,CUST1292,Legitimate,"Customer Vihaan Reddy made a transaction of ₹5170.92 at Uber in Kolkata, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5023,TXN100023,CUST1266,Legitimate,"Customer Vivaan Kumar made a transaction of ₹4979.8 at IRCTC in Hyderabad, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6766,TXN101766,CUST1227,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5063,TXN100063,CUST1292,Legitimate,"Customer Vihaan Reddy made a transaction of ₹4891.68 at Amazon in Kolkata, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5289,TXN100289,CUST1027,Legitimate,Routine purchase at IRCTC; amount and location consistent with customer behavior. No further action needed.
+CASE5188,TXN100188,CUST1266,Legitimate,"Customer Vivaan Kumar made a transaction of ₹3599.3 at Flipkart in Hyderabad, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5701,TXN100701,CUST1130,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6814,TXN101814,CUST1151,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6137,TXN101137,CUST1287,Fraud Confirmed,"Multiple high-value transactions from Delhi within a short window, inconsistent with customer's usual spending pattern in Delhi. Flagged for geo-velocity mismatch. Confirmed as fraud after customer denied transactions."
+CASE5354,TXN100354,CUST1258,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5416,TXN100416,CUST1266,Legitimate,"Customer Vivaan Kumar made a transaction of ₹3988.97 at Uber in Hyderabad, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6245,TXN101245,CUST1051,Fraud Confirmed,Customer Ananya Verma reported an unrecognized transaction of ₹3748.18 at Crypto Exchange XYZ. Device used did not match customer's registered devices. Investigation confirmed unauthorized access; account was temporarily frozen and funds reversed.
+CASE5930,TXN100930,CUST1248,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5196,TXN100196,CUST1178,Legitimate,"Customer Ishaan Rao made a transaction of ₹3033.85 at Zomato in Mumbai, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5579,TXN100579,CUST1293,Legitimate,"Customer Anika Chatterjee made a transaction of ₹1411.6 at Uber in Pune, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6134,TXN101134,CUST1285,Legitimate,"Customer Neha Chatterjee made a transaction of ₹2134.34 at Ola in Bangalore, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6813,TXN101813,CUST1248,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6934,TXN101934,CUST1043,Legitimate,"Customer Ananya Sharma made a transaction of ₹5491.26 at IRCTC in Gurgaon, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5433,TXN100433,CUST1083,Legitimate,Routine purchase at BigBasket; amount and location consistent with customer behavior. No further action needed.
+CASE5100,TXN100100,CUST1097,Legitimate,Routine purchase at BigBasket; amount and location consistent with customer behavior. No further action needed.
+CASE6654,TXN101654,CUST1072,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5394,TXN100394,CUST1211,Legitimate,"Customer Ishaan Nair made a transaction of ₹3333.32 at PayU Recharge in Hyderabad, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6938,TXN101938,CUST1154,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5220,TXN100220,CUST1288,Legitimate,"Customer Ishaan Patel made a transaction of ₹1136.6 at Uber in Jaipur, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6675,TXN101675,CUST1148,Legitimate,Routine purchase at Ola; amount and location consistent with customer behavior. No further action needed.
+CASE6497,TXN101497,CUST1157,Legitimate,Routine purchase at BigBasket; amount and location consistent with customer behavior. No further action needed.
+CASE6784,TXN101784,CUST1283,Legitimate,Routine purchase at Amazon; amount and location consistent with customer behavior. No further action needed.
+CASE5344,TXN100344,CUST1039,Legitimate,"Customer Karan Chatterjee made a transaction of ₹2035.62 at Swiggy in Gurgaon, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6027,TXN101027,CUST1153,Legitimate,Routine purchase at BigBasket; amount and location consistent with customer behavior. No further action needed.
+CASE5888,TXN100888,CUST1205,Legitimate,Routine purchase at Myntra; amount and location consistent with customer behavior. No further action needed.
+CASE6350,TXN101350,CUST1055,Legitimate,"Customer Karan Reddy made a transaction of ₹2445.91 at Flipkart in Pune, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5552,TXN100552,CUST1290,Legitimate,Routine purchase at Flipkart; amount and location consistent with customer behavior. No further action needed.
+CASE5743,TXN100743,CUST1140,Legitimate,"Customer Ananya Gupta made a transaction of ₹2742.41 at Cash Withdrawal ATM in Jaipur, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6541,TXN101541,CUST1184,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE5538,TXN100538,CUST1109,Legitimate,Routine purchase at Local Kirana Store; amount and location consistent with customer behavior. No further action needed.
+CASE5906,TXN100906,CUST1192,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
+CASE6394,TXN101394,CUST1195,Legitimate,Routine purchase at Flipkart; amount and location consistent with customer behavior. No further action needed.
+CASE5115,TXN100115,CUST1231,Legitimate,"Customer Ishaan Nair made a transaction of ₹5293.16 at Myntra in Mumbai, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5829,TXN100829,CUST1096,Legitimate,"Customer Aarav Kumar made a transaction of ₹2150.92 at BigBasket in Bangalore, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6937,TXN101937,CUST1051,Legitimate,"Customer Ananya Verma made a transaction of ₹311.65 at Ola in Chennai, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE5808,TXN100808,CUST1239,Legitimate,"Customer Sai Chatterjee made a transaction of ₹5116.79 at PayU Recharge in Kolkata, consistent with prior spending history. No anomalies found; case closed as legitimate."
+CASE6310,TXN101310,CUST1108,Legitimate,"Transaction flagged by automated rule due to slightly elevated amount, but device and location matched customer's usual profile. Confirmed legitimate after customer verification call."
