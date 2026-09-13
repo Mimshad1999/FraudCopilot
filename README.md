@@ -26,7 +26,7 @@ Flagged Transaction
  write_report       -> LLM drafts structured InvestigationReport (Pydantic)
         │
         ▼
- Human Reviewer     -> approve / reject in the Streamlit UI
+ Human Reviewer     -> approve / override -> final decision
 ```
 
 Orchestrated with **LangGraph** as an explicit state machine — every node
@@ -100,7 +100,7 @@ streamlit run app.py
 
 Open the local URL Streamlit prints (usually `http://localhost:8501`),
 pick a transaction, click **Run Investigation**, and review the generated
-report. Use the **Approve** / **Reject** buttons to log a human decision —
+report. Use the **Approve** / **Override** controls to record the analyst's final decision —
 this is written to `data/analyst_decisions.csv`.
 
 ## Swapping the LLM provider
@@ -111,12 +111,22 @@ Anthropic instead, edit `src/agents/graph.py`:
 ```python
 # Replace this:
 from langchain_groq import ChatGroq
-llm = ChatGroq(model="llama-3.1-70b-versatile", temperature=0, api_key=...)
+llm = ChatGroq(
+    model="openai/gpt-oss-120b",
+    temperature=0,
+    api_key=...
+)
 
 # With, e.g.:
 from langchain_openai import ChatOpenAI
-llm = ChatOpenAI(model="gpt-4o-mini", temperature=0, api_key=...)
-```
+from langchain_groq import ChatGroq
+
+llm = ChatGroq(
+    model="openai/gpt-oss-120b",
+    temperature=0,
+    api_key=
+)
+
 
 ## Upgrading retrieval from TF-IDF to real embeddings
 
