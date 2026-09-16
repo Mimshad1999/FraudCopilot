@@ -4,6 +4,6 @@ langchain-groq==0.1.9
 pydantic==2.8.2
 scikit-learn>=1.5.1
 pandas>=2.2.3,<3.0
-numpy>=2.0,<2.4
+numpy==1.26.4
 streamlit==1.38.0
 python-dotenv==1.0.1
